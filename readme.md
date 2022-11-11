@@ -1,6 +1,6 @@
 Since Reddit censors all kinds of stuff I have no other choice but creating my own repo.
 
-This list is a FAS "Frequently Asked Sites".
+### This list is a FAS "Frequently Asked Sites".
 
 1- Spotify has ads, how to remove them?
 
