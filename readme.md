@@ -85,6 +85,7 @@
 17- Where do I get Music files? (not streaming)
 
     Use: https://rutracker.org/forum/index.php
+    Use: https://slavart.gamesdrive.net/albums
 
 18- How can I download spotify songs / playlists?
 
