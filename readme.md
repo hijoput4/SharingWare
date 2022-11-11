@@ -79,7 +79,7 @@
 15- Need to download a video or full playlist from youtube. (*advanced users*)
 
     Use https://github.com/yt-dlp/yt-dlp
-    e.g. command (good for almost any site): yt-dlp.exe --restrict-filenames -o "E:\SOMEFOLDER\Downloads\%(title)s_%date:~0,3%_%time:~0,2%_%time:~3,2%_%time:~6,2%.%(ext)s" 
+    e.g. command (good for almost any site): yt-dlp.exe --restrict-filenames -o "E:\SOMEFOLDER\Downloads\%(title)s_%date:~0,3%_%time:~0,2%_%time:~3,2%_%time:~6,2%.%(ext)s" https://YOUR_URL
 
 16- Need to activate Windows/Office
 
