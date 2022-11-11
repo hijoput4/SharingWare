@@ -89,7 +89,7 @@
 17- Where do I get Music files? (not streaming)
 
     Use: https://rutracker.org/forum/index.php
-    Use: https://slavart.gamesdrive.net/albums
+    Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html (see .18)
 
 18- How can I download spotify songs / playlists?
 
