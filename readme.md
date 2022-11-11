@@ -1,4 +1,3 @@
-Since Reddit censors all kinds of stuff I have no other choice but creating my own repo.
 
 ### This list is a FAS "Frequently Asked Sites".
 
