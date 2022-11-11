@@ -1,5 +1,8 @@
+[Why you should NOT use your smartphone if you have access to a PC or laptop.](https://youtu.be/VFns39RXPrU)
 
-### This list is a FAS "Frequently Asked Sites".
+
+
+# This list is a FAS "Frequently Asked Sites".
 
 1- Spotify has ads, how to remove them?
 
