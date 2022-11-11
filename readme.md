@@ -26,7 +26,7 @@
 
     https://steamrip.com/
 
-    https://torrminatorr.com/
+   ~~https://torrminatorr.com/~~ - DOWN
 
     https://elamigos.site/
 
