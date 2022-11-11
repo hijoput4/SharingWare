@@ -26,8 +26,6 @@
 
     https://steamrip.com/
 
-   ~~https://torrminatorr.com/~~ - DOWN
-
     https://elamigos.site/
 
 4- I need advanced help on running a particular game / need to unlock/download DLC.
