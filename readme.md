@@ -74,14 +74,17 @@
 14- Need to download a video on the internet.
 
     Use https://filecr.com/windows/internet-download-manager/?id=5992240122 to install IDM. The program has a browser extension to detect streaming videos so you can download them.
+    Use: https://github.com/yt-dlp/yt-dlp (see point 15)
 
-15- Need to download a video or full playlist from youtube. (advanced users)
+15- Need to download a video or full playlist from youtube. (*advanced users*)
 
     Use https://github.com/yt-dlp/yt-dlp
+    e.g. command (good for almost any site): yt-dlp.exe --restrict-filenames -o "E:\SOMEFOLDER\Downloads\%(title)s_%date:~0,3%_%time:~0,2%_%time:~3,2%_%time:~6,2%.%(ext)s" 
 
 16- Need to activate Windows/Office
 
     Use: https://github.com/massgravel/Microsoft-Activation-Scripts
+    
 17- Where do I get Music files? (not streaming)
 
     Use: https://rutracker.org/forum/index.php
