@@ -1,6 +1,6 @@
  [📵Why you should NOT use your smartphone if you have access to a PC or laptop.](https://youtu.be/VFns39RXPrU)
 
-
+https://www.reddit.com/r/RealPiracy
 
 # This list is a FAS "Frequently Asked Sites".
 
