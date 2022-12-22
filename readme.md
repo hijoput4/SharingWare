@@ -26,7 +26,7 @@ https://www.reddit.com/r/RealPiracy
 
     https://steamrip.com/
 
-    https://elamigos.site/
+
 
 4- I need advanced help on running a particular game / need to unlock/download DLC.
 
