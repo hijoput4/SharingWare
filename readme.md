@@ -102,7 +102,7 @@ https://www.reddit.com/r/RealPiracy
 
 20-I have an old game and I wish to play it in a widescreen
 
-   Use: https://www.wsgf.org/
+    Use: https://www.wsgf.org/
    
 21- I have an old game but I just can't make it install or launch.
 
