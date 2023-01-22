@@ -54,7 +54,7 @@ https://www.reddit.com/r/RealPiracy
 
 9- Where do I get *this show/movie?
 
-    Use: https://www.reddit.com/r/FREEMEDIAHECKYEAH/
+    Use: https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/
 
 10- Is it there an app for android TV that is like vanced?
 
@@ -90,7 +90,22 @@ https://www.reddit.com/r/RealPiracy
 
     Use: https://rutracker.org/forum/index.php
     Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html (see .18)
+    Use: https://www.reddit.com/r/freedeezerarl/ (to get a new working ARL for deemix)
 
 18- How can I download spotify songs / playlists?
 
-    Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html , Download Deemix, check if it logs in.. if not, try to check if someone posted a new ARL and set it up in the options login menu.
+    Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html , Download Deemix, check if it logs in.. if not, try to    check r/freedeezerarl if someone posted a new ARL and set it up in the options login menu.
+    
+19- Where can I get emulator ROMS? 
+    
+    Use: https://r-roms.github.io/
+
+20-I have an old game and I wish to play it in a widescreen
+
+   Use: https://www.wsgf.org/
+   
+21- I have an old game but I just can't make it install or launch.
+
+    Use: https://github.com/otya128/winevdm
+    
+
