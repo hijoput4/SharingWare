@@ -100,7 +100,7 @@ https://www.reddit.com/r/RealPiracy
     
     Use: https://r-roms.github.io/
 
-20-I have an old game and I wish to play it in a widescreen
+20-I have an old game and I wish to play it on a widescreen
 
     Use: https://www.wsgf.org/
    
