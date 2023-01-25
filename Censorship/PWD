@@ -1,1 +1,9 @@
-PWD is always "1234"
+Password is always "1234"
+
+These videos are mostly using H265 codecs, which means that they cannot be played by default video players 
+in devices like smart TV's or cellphones. For those you can use VLC which supports H265. 
+Whatsapp and Telegram cannot play these videos, they can be shared but the recipent has to have VLC on their phone to see it, 
+and they have to be played "manually" (meaning execute it from the file explorer).
+
+Why using H265 codecs?
+Because they are %50 more efficient. Just install VLC player, which is free and open source.
