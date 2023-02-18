@@ -94,7 +94,7 @@ https://www.reddit.com/r/RealPiracy
 
 18- How can I download spotify songs / playlists?
 
-    Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html , Download Deemix, check if it logs in.. if not, try to    check r/freedeezerarl if someone posted a new ARL and set it up in the options login menu.
+    Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html , Download Deemix, check if it logs in.. if not, try to    check https://rentry.co/freedeezerarl/ for a new ARL and set it up in the options login menu.
     
 19- Where can I get emulator ROMS? 
     
