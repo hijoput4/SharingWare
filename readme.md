@@ -90,7 +90,7 @@ https://www.reddit.com/r/RealPiracy
 
     Use: https://rutracker.org/forum/index.php
     Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html (see .18)
-    Use: https://www.reddit.com/r/freedeezerarl/ (to get a new working ARL for deemix)
+    Use: https://rentry.co/freedeezerarl/ (to get a new working ARL for deemix)
 
 18- How can I download spotify songs / playlists?
 
