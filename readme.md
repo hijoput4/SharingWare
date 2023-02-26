@@ -32,7 +32,7 @@ https://www.reddit.com/r/RealPiracy
 
 4- I need advanced help on running a particular game / need to unlock/download DLC.
 
-    Use https://cs.rin.ru/
+    Use https://cs.rin.ru/  (be careful, very strict rules, not all posts are permitted by mods so search for the info instead of trying to post the questions)
 
 5- Where can I get Switch games?
 
