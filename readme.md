@@ -17,6 +17,8 @@ https://www.reddit.com/r/RealPiracy
 3- Where do I download clean games?
 
     Use: https://fitgirl-repacks.site/
+    
+    https://cs.rin.ru/ (clean steam files, must apply steam emu; latest downloads/versions and obscure steam games available)
 
     https://www.game-repack.site
 
