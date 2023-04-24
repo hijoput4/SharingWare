@@ -29,7 +29,15 @@ https://www.reddit.com/r/RealPiracy
 
     https://steamrip.com/     -Steam games pre-cracked and pre-installed. Its basically doing a "repack" of games from cs.rin.ru by applying the steam emu to them.
 
+__WARNING:__ I've seen a claim made by FitGirl or "her staff" [telling others to NOT USE AN ANTIVIRUS](https://fitgirl-repacks.site/tiny-tinas-wonderlands/), ⚠do not do that!⚠ use Defender's exceptions on security options in control panel and set the file/folders you don't want to scan. If you don't like using windows defender, pick another one but use an antivirus!. 
 
+
+
+<br>
+
+
+
+<br>
 
 4- I need advanced help on running a particular game / need to unlock/download DLC.
 
