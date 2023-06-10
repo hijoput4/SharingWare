@@ -39,7 +39,7 @@ __WARNING:__ I've seen a claim made by FitGirl or "her staff" [telling others to
 
 <br>
 
-4- I need advanced help on running a particular game / need to unlock/download DLC.
+4- I need advanced help on running a particular game / need to unlock/download-unlock DLCs on legit games for free.
 
     Use https://cs.rin.ru/  -⚠🧂 be careful, very strict rules, not all posts are permitted by mods so search for the info instead of trying to post the questions.
 
