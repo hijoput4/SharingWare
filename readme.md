@@ -17,8 +17,7 @@ https://www.reddit.com/r/RealPiracy
 
 3- Where do I download clean games?
 
-    Use: https://fitgirl-repacks.site/     -since the EMPRESS drama (the only cracker of denuvo), the games shared are mostly LQ indie games.
-    
+       
     https://cs.rin.ru/                     -clean steam files, must apply steam emu; latest downloads/versions and obscure steam games available
 
     https://www.game-repack.site
@@ -26,8 +25,10 @@ https://www.reddit.com/r/RealPiracy
     http://dodi-repacks.site/
 
     https://gog-games.to/   -or-  ONION (tor browser) http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/     -Very nice GOG games catalog.
-
+    
     https://steamrip.com/     -Steam games pre-cracked and pre-installed. Its basically doing a "repack" of games from cs.rin.ru by applying the steam emu to them.
+
+    Use: https://fitgirl-repacks.site/     -from the top to the bottom of the pit; fitgirl repacks are now mostly indie osbcure and dumb games. You 'may' find some AAA titles but don't expect to be so lucky all the time. Better use cs.rin.ru.
 
 __WARNING:__ I've seen a claim made by FitGirl or "her staff" [telling others to NOT USE AN ANTIVIRUS](https://fitgirl-repacks.site/tiny-tinas-wonderlands/), ⚠do not do that!⚠ use Defender's exceptions on security options in control panel and set the file/folders you don't want to scan. If you don't like using windows defender, pick another one but use an antivirus!. 
 
