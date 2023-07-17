@@ -42,7 +42,7 @@ __WARNING:__ I've seen a claim made by FitGirl or "her staff" [telling others to
 
 4- I need advanced help on running a particular game / need to unlock/download-unlock DLCs on legit games for free.
 
-    Use https://cs.rin.ru/  -⚠🧂 be careful, very strict rules, not all posts are permitted by mods so search for the info instead of trying to post the questions.
+    Use https://cs.rin.ru/  -⚠🧂 be careful, abusive moderators.
 
 5- Where can I get Switch games?
 
@@ -92,7 +92,9 @@ __WARNING:__ I've seen a claim made by FitGirl or "her staff" [telling others to
 15- Need to download a video or full playlist from youtube. (*advanced users*)
 
     Use https://github.com/yt-dlp/yt-dlp
-    e.g. command (good for almost any site): yt-dlp.exe --restrict-filenames -o "E:\SOMEFOLDER\Downloads\%(title)s_%date:~0,3%_%time:~0,2%_%time:~3,2%_%time:~6,2%.%(ext)s" https://YOUR_URL
+    e.g. command (good for almost any site): 
+    
+    yt-dlp.exe --restrict-filenames -o "E:\SOMEFOLDER\Downloads\%(title)s.%(ext)s" [https://YOUR_URL]
 
 16- Need to activate Windows/Office
 
@@ -102,16 +104,19 @@ __WARNING:__ I've seen a claim made by FitGirl or "her staff" [telling others to
 
     Use: https://rutracker.org/forum/index.php
     
-    Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html (see .18) 
-    to get a new working ARL for deemix, search internet for "premium arl" or "deezer arl".
+    Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html (see .18)
+    
+    to get a new working ARL for deemix, check the r/RealPiracy thread.
     
     Use: https://free-mp3-download.net/  (download individual files, supports FLAC)
     
-    Use: https://doubledouble.top/  -"Spotify, Soundcloud, Qobuz, Deezer, Tidal, YouTube, or Napster downloader"  the truth is that its an AI that searches youtube for your desired song and downloads it as audio.
+    Use: https://doubledouble.top/  -"Spotify, Soundcloud, Qobuz, Deezer, Tidal, YouTube, or Napster downloader"  the truth is that its an AI that searches youtube for your desired song and downloads it as audio. It is broken 9 out of 10 times.
     
 18- How can I download spotify songs / playlists?
 
     Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html , Download Deemix, check if it logs in.. if not, try to search internet for "premium arl" or "deezer arl" for a new ARL and set it up in the options login menu. Then copy the Spotify playlist into the search bar in Deemix. If the playlist is public, it will crawl the songs and wrap a download for you using the Deezer versions.
+
+    Use: https://doubledouble.top/  (down 9 out of 10 times)
     
 19- Where can I get emulator ROMS? 
     
