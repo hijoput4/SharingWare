@@ -3,22 +3,23 @@
 https://www.reddit.com/r/RealPiracy
 
 INDEX:
-+ [1- Spotify has ads, how to remove them?](#1--spotify-has-ads-how-to-remove-them)
+  + [1- Spotify has ads, how to remove them?](#1--spotify-has-ads-how-to-remove-them)
 + [2- Vanced doesn't work anymore, alternatives?](#2--vanced-doesnt-work-anymore-alternatives)
 + [3- Where do I download clean games?](#3--where-do-i-download-clean-games)
-+ [4- I need advanced help on running a particular game / need to unlock/download-unlock DLCs on legit games for free.](#4--i-need-advanced-help-on-running-a-particular-game---need-to-unlock-download-unlock-dlcs-on-legit-games-for-free)
++ [4- I need advanced help on running a particular game / need to unlock/download-unlock DLCs on legit games for free.](#4--i-need-advanced-help-on-running-a-particular-game--need-to-unlockdownload-unlock-dlcs-on-legit-games-for-free)
 + [5- Where can I get Switch games?](#5--where-can-i-get-switch-games)
 + [6- Need help on pirating my Switch.](#6--need-help-on-pirating-my-switch)
 + [13- Need an UWP app but cannot use windows store](#13--need-an-uwp-app-but-cannot-use-windows-store)
 + [14- Need to download a video on the internet.](#14--need-to-download-a-video-on-the-internet)
-+ [15- Need to download a video or full playlist from youtube. (*advanced users*)](#15--need-to-download-a-video-or-full-playlist-from-youtube---advanced-users)
-+ [16- Need to activate Windows/Office](#16--need-to-activate-windows-office)
-+ [17- Where do I get Music files? (not streaming)](#17--where-do-i-get-music-files---not-streaming-)
-+ [18- How can I download spotify songs / playlists?](#18--how-can-i-download-spotify-songs---playlists-)
-+ [19- Where can I get emulator ROMS?](#19--where-can-i-get-emulator-roms-)
++ [15- Need to download a video or full playlist from youtube. (*advanced users*)](#15--need-to-download-a-video-or-full-playlist-from-youtube-advanced-users)
++ [16- Need to activate Windows/Office](#16--need-to-activate-windowsoffice)
++ [17- Where do I get Music files? (not streaming)](#17--where-do-i-get-music-files-not-streaming)
++ [18- How can I download spotify songs / playlists?](#18--how-can-i-download-spotify-songs--playlists)
++ [19- Where can I get emulator ROMS? ](#19--where-can-i-get-emulator-roms)
 + [20-I have an old game and I wish to play it on a widescreen](#20-i-have-an-old-game-and-i-wish-to-play-it-on-a-widescreen)
-+ [21- I have an old game but I just can't make it install or launch.](#21--i-have-an-old-game-but-i-just-can-t-make-it-install-or-launch)
++ [21- I have an old game but I just can't make it install or launch.](#21--i-have-an-old-game-but-i-just-cant-make-it-install-or-launch)
 + [22- I want PC old games](#22--i-want-pc-old-games)
+
 
 
 
