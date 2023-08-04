@@ -11,7 +11,7 @@ INDEX:
 + [6- Need help on pirating my Switch.](#6--need-help-on-pirating-my-switch)
 + [7- Need advanced tools for my switch games.](#7--need-advanced-tools-for-my-switch-games)
 + [8- Need switch firmwares.](#8--need-switch-firmwares)
-+ [9- Where do I get this show,movie?](#9--where-do-i-get-this-show-movie)
++ [9- Where do I get this show,movie?](#9--where-do-i-get-this-show-movie-)
 + [10- Is it there an app for android TV that is like vanced?](#10--is-it-there-an-app-for-android-tv-that-is-like-vanced)
 + [11- Where can I download this program clean?](#11--where-can-i-download-this-program-clean)
 + [12- Need this app for android.](#12--need-this-app-for-android)
