@@ -9,6 +9,12 @@ INDEX:
 + [4- I need advanced help on running a particular game / need to unlock/download-unlock DLCs on legit games for free.](#4--i-need-advanced-help-on-running-a-particular-game--need-to-unlockdownload-unlock-dlcs-on-legit-games-for-free)
 + [5- Where can I get Switch games?](#5--where-can-i-get-switch-games)
 + [6- Need help on pirating my Switch.](#6--need-help-on-pirating-my-switch)
++ [7- Need advanced tools for my switch games.](#7--need-advanced-tools-for-my-switch-games)
++ [8- Need switch firmwares.](#8--need-switch-firmwares)
++ [9- Where do I get this show,movie?](#9--where-do-i-get-this-show-movie)
++ [10- Is it there an app for android TV that is like vanced?](#10--is-it-there-an-app-for-android-tv-that-is-like-vanced)
++ [11- Where can I download this program clean?](#11--where-can-i-download-this-program-clean)
++ [12- Need this app for android.](#12--need-this-app-for-android)
 + [13- Need an UWP app but cannot use windows store](#13--need-an-uwp-app-but-cannot-use-windows-store)
 + [14- Need to download a video on the internet.](#14--need-to-download-a-video-on-the-internet)
 + [15- Need to download a video or full playlist from youtube. (*advanced users*)](#15--need-to-download-a-video-or-full-playlist-from-youtube-advanced-users)
@@ -85,7 +91,7 @@ __WARNING:__ I've seen a claim made by FitGirl or "her staff" [telling others to
 
     Use: https://darthsternie.net/switch-firmwares/
 
-### 9- Where do I get *this show/movie?
+### 9- Where do I get this show,movie?
 
     Use: https://fmhy.pages.dev/videopiracyguide/   -click the hamburger menu on the left to see much more links for other piracy stuff.
 
@@ -93,11 +99,11 @@ __WARNING:__ I've seen a claim made by FitGirl or "her staff" [telling others to
 
     Use: https://github.com/yuliskov/SmartTubeNext
 
-### 11- Where can I download *this program clean?
+### 11- Where can I download this program clean?
 
     Use: https://filecr.com/ or https://lrepacks.ru
 
-### 12- Need *this app for android.
+### 12- Need this app for android.
 
     Use: https://filecr.com/ or https://forum.mobilism.me/
 
