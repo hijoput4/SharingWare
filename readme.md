@@ -1,6 +1,6 @@
  [📵Why you should NOT use your smartphone if you have access to a PC or laptop.](https://youtu.be/VFns39RXPrU)
 
-https://www.reddit.com/r/RealPiracy   (now called "TheBubble" and NOT about 🏴‍☠️ only)
+[https://www.reddit.com/r/TheBubble](https://www.reddit.com/r/RealPiracy/)   (now called "TheBubble" and NOT about 🏴‍☠️ only)
 
 INDEX:
   + [1- Spotify has ads, how to remove them?](#1--spotify-has-ads-how-to-remove-them)
