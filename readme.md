@@ -133,7 +133,7 @@ __WARNING:__ I've seen a claim made by FitGirl or "her staff" [telling others to
     
     Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html (see .18)
     
-    to get a new working ARL for deemix, check [this](https://www.reddit.com/r/RealPiracy/comments/114wdhj/free_deezer_arls_for_deemix/) thread.
+    to get a new working ARL for deemix, check https://www.reddit.com/r/RealPiracy/comments/114wdhj/free_deezer_arls_for_deemix thread.
     
     Use: https://free-mp3-download.net/  (download individual files, supports FLAC)
     
