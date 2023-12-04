@@ -93,7 +93,7 @@ __WARNING:__ I've seen a claim made by FitGirl or "her staff" [telling others to
 
 ### 9- Where do I get this show,movie?
 
-    Use: https://fmhy.pages.dev/videopiracyguide/   -click the hamburger menu on the left to see much more links for other piracy stuff.
+    Use: https://fmhy.net/videopiracyguide   -menu on the left has much more links for other piracy stuff.
 
 ### 10- Is it there an app for android TV that is like vanced?
 
@@ -133,7 +133,7 @@ __WARNING:__ I've seen a claim made by FitGirl or "her staff" [telling others to
     
     Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html (see .18)
     
-    to get a new working ARL for deemix, check the r/RealPiracy thread.
+    to get a new working ARL for deemix, check [this](https://www.reddit.com/r/RealPiracy/comments/114wdhj/free_deezer_arls_for_deemix/) thread.
     
     Use: https://free-mp3-download.net/  (download individual files, supports FLAC)
     
