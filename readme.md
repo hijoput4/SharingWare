@@ -55,23 +55,15 @@ INDEX:
     
     https://steamrip.com/     -Steam games pre-cracked and pre-installed. Its basically doing a "repack" of games from cs.rin.ru by applying the steam emu to them.
 
-    https://fitgirl-repacks.site/     -from the top to the bottom of the pit; fitgirl repacks are now mostly indie osbcure and dumb games. You 'may' find some AAA titles but don't expect to be so lucky all the time. Better use cs.rin.ru.
+    https://fitgirl-repacks.site/     -mostly indie osbcure and dumb games. You 'may' find some AAA titles. Better use cs.rin.ru and goldberg emu.
 
-__WARNING:__ I've seen a claim made by FitGirl or "her staff" [telling others to NOT USE AN ANTIVIRUS](https://fitgirl-repacks.site/tiny-tinas-wonderlands/), ⚠do not do that!⚠ use Defender's exceptions on security options in control panel and set the file/folders you don't want to scan. If you don't like using windows defender, pick another one but use an antivirus!. 
-
-
-
-<br>
-
-
-
-<br>
+[READ MORE ABOUT FITGIRL'S REPACKS](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/fitgirl)
 
 ### 4- I need advanced help on running a particular game / need to unlock/download-unlock DLCs on legit games for free.
 
     Use https://cs.rin.ru/  -⚠🧂 be careful, abusive moderators.
 
-READ MORE
+[READ MORE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/csrinru)
 
 
 ### 5- Where can I get Switch games?
