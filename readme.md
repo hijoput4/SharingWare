@@ -123,7 +123,7 @@ INDEX:
     Use https://github.com/yt-dlp/yt-dlp
     e.g. command (good for almost any site): 
     
-    yt-dlp.exe --restrict-filenames -o "E:\SOMEFOLDER\Downloads\%(title)s.%(ext)s" [https://YOUR_URL]
+    yt-dlp.exe --restrict-filenames -o "C:\Users\YOUR_USERNAME\Downloads\%(title)s.%(ext)s" [https://YOUR_URL]
 
 ### 16- Need to activate Windows/Office
 
