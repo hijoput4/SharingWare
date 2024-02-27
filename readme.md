@@ -1,8 +1,10 @@
  [📵Why you should NOT use your smartphone if you have access to a PC or laptop.](https://youtu.be/VFns39RXPrU)
 
-[Reddit: TheBubble](https://www.reddit.com/r/RealPiracy/comments/1alxtpv/landing_page_where_are_you/)
+[Reddit: RealPiracy](https://www.reddit.com/r/RealPiracy/comments/1alxtpv/landing_page_where_are_you/)
 
 If you have kids, watch closely what they play and watch online; there are a lot of AAA games and influencers promoting different agendas from the US in their content.
+
+### NEWS: Reddit redesign forced the old name of the sub, so we are back with the old one (as if I had any choice). Please don't go there asking for piracy stuff, read the landing page. Thank you.
 
 
 INDEX:
