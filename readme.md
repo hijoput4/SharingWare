@@ -4,7 +4,7 @@
 
 If you have kids, watch closely what they play and watch online; there are a lot of AAA games and influencers promoting different agendas from the US in their content.
 
-### NEWS: Reddit redesign forced the old name of the sub, so we are back with the old one (as if I had any choice). Please don't go there asking for piracy stuff, read the landing page. Thank you.
+### NEWS: Reddit redesign forced the old name of the sub, so we are back with the old one (as if I had any choice). Please don't go there asking for piracy stuff, this page covers most of your needs. Please read the landing page to know what to expect there. Thank you.
 
 
 INDEX:
