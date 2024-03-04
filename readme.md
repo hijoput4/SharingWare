@@ -4,15 +4,21 @@
 
 If you have kids, watch closely what they play and watch online; there are a lot of AAA games and influencers promoting different agendas from the US in their content.
 
-### NEWS: Reddit redesign forced the old name of the sub, so we are back with the old one (as if I had any choice). Please don't go there asking for piracy stuff, this page covers most of your needs. Please read the landing page to know what to expect there. Thank you.
+NEWS: Reddit redesign forced the old name of the sub, so we are back with the old one (as if I had any choice). Please don't go there asking for piracy stuff, this page covers most of your needs. Please read the landing page to know what to expect there. Thank you.
 
+## Contribute
+If you know a link, go to the "issues" section and post it with a brief description. I will consider adding it to the list. If github bans the link, use Base64.
 
-INDEX:
+--------------
+
+# This list is a FAS "Frequently Asked Sites".
+
+### INDEX (CTRL+F to search for a word):
   + [1- Spotify has ads, how to remove them?](#1--spotify-has-ads-how-to-remove-them)
 + [2- Vanced doesn't work anymore, alternatives?](#2--vanced-doesnt-work-anymore-alternatives)
 + [3- Where do I download clean games?](#3--where-do-i-download-clean-games)
 + [4- I need advanced help on running a particular game / need to unlock/download-unlock DLCs on legit games for free.](#4--i-need-advanced-help-on-running-a-particular-game--need-to-unlockdownload-unlock-dlcs-on-legit-games-for-free)
-+ [5- Where can I get Switch games?](#5--where-can-i-get-switch-games)
++ [5- I need console game ROMS](#5--i-need-console-game-roms)
 + [6- Need help on pirating my Switch.](#6--need-help-on-pirating-my-switch)
 + [7- Need advanced tools for my switch games.](#7--need-advanced-tools-for-my-switch-games)
 + [8- Need switch firmwares.](#8--need-switch-firmwares)
@@ -31,11 +37,15 @@ INDEX:
 + [21-I have an old game and I wish to play it on a widescreen](#21-i-have-an-old-game-and-i-wish-to-play-it-on-a-widescreen)
 + [22- I have an old game but I just can't make it install or launch.](#22--i-have-an-old-game-but-i-just-cant-make-it-install-or-launch)
 + [23- I want PC old games](#23--i-want-pc-old-games)
++ [24- I need disposable email addresses](#24--i-need-disposable-email-addresses)
++ [25- I need VSTs and musicians effects](#25--i-need-vsts-and-musicians-effects)
++ [26- I need proxies](#26--i-need-proxies)
++ [27- Where can I download a Switch emulator?](#27--where-can-i-download-a-switch-emulator)
++ [28- Where can I download and play Minecraft for free?](#28--where-can-i-download-and-play-minecraft-for-free)
 
 
 
-
-# This list is a FAS "Frequently Asked Sites".
+_________________
 
 ### 1- Spotify has ads, how to remove them?
 
@@ -74,9 +84,12 @@ INDEX:
 [READ MORE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/csrinru)
 
 
-### 5- Where can I get Switch games?
+### 5- I need console game ROMS
 
-    Use https://nsw2u.org/ or https://nxbrew.com/    -some emulator collections shared there too.
+    Use for many consoles: https://r-roms.github.io/   (⚠ check the list on the right because the index doesn't mention NES,SNES and other consoles but ROMS are there)
+    Use for Wii-U: https://github.com/Xpl0itU/WiiUDownloader
+    Use for Switch: https://nsw2u.org/ or https://nxbrew.com/ 
+    Use for PS3, PSV, PSP, PSX, PSM: https://nopaystation.com/browse
 
 ### 6- Need help on pirating my Switch.
 
@@ -172,4 +185,35 @@ INDEX:
 ### 23- I want PC old games
 
     Use: https://archive.org/search?query=abandonware   -Use the search bar for specific games.
+    Use: https://www.old-games.ru/catalog/  (you will probably need a translation extension because its in Russian)
+    Use: https://www.magipack.games/
+    
+### 24- I need disposable email addresses
+
+    Use: https://www.phantom-mail.io/
+    Use: https://www.ghostlymail.com/
+    Use: https://www.emailnator.com/  (can create @gmail and @googlemail addresses)
+    Use: https://smailpro.com/advanced   (can create @gmail addresses)
+    Use: https://fake-mail-generator.vercel.app/
+
+### 25- I need VSTs and musicians effects
+
+    Use: https://looptorrent.net/
+
+### 26- I need proxies
+
+    Use: https://www.proxy-list.download/SOCKS5  (various types not only SOCKS5)
+    Use: https://github.com/ShiftyTR/Proxy-List
+        
+### 27- Where can I download a Switch emulator?
+
+    Use: https://github.com/pineappleEA/pineapple-src  (YUZU paid version)
+    You will also need product keys for it to work (tutorial included): https://theprodkeys.com/latest-yuzu-prod-keys/
+    Want to mod your Switch games? (useful for changing UI input to Xbox or PS controller): https://gamebanana.com/search?_sOrder=best_match&_sSearchString=controller&_idGameRow=7617
+
+### 28- Where can I download and play Minecraft for free?
+    Use: https://github.com/rePublic-Studios/rPLauncher
+
+
+
 
