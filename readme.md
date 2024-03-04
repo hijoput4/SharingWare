@@ -164,6 +164,7 @@ _________________
 ### 22- I have an old game but I just can't make it install or launch.
 
     Use: https://github.com/otya128/winevdm
+    Use: https://sourceforge.net/projects/dxwnd/  (its a little confusing but it not only allows to run games in windowed mode but also solves some compatibility issues, check that site for specific cases and the included help files to know what options do)
     
 ### 23- I want PC old games
 
