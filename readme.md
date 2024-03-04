@@ -50,7 +50,6 @@ _________________
 ### 1- Spotify has ads, how to remove them?
 
     Use https://github.com/SpotX-CLI/ for PC use.  -No, you won't get premium quality sound (no 320kbps).
-
     Use https://xmanagerapp.com/ for android use.  -No, you won't get premium quality sound (no 320kbps).
 
 [MY ADVICE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/spoti)
@@ -64,15 +63,10 @@ _________________
 
        
     https://cs.rin.ru/                     -clean steam files, must apply steam emu; latest downloads/versions and obscure steam games available
-
     https://www.game-repack.site
-
     http://dodi-repacks.site/
-
-    https://gog-games.to/   -or-  ONION (tor browser) http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/     -Very nice GOG games catalog.
-    
+    https://gog-games.to/   -or-  ONION (tor browser) http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/     -Very nice GOG games catalog
     https://steamrip.com/     -Steam games pre-cracked and pre-installed. Its basically doing a "repack" of games from cs.rin.ru by applying the steam emu to them.
-
     https://fitgirl-repacks.site/     -mostly indie osbcure and dumb games. You 'may' find some AAA titles. Better use cs.rin.ru and goldberg emu.
 
 [READ MORE ABOUT FITGIRL'S REPACKS](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/fitgirl)
@@ -94,9 +88,7 @@ _________________
 ### 6- Need help on pirating my Switch.
 
     Use: https://rentry.co/SwitchHackingIsEasy     -start here.
-
     Use: https://github.com/Atmosphere-NX/Atmosphere
-
     Use: https://github.com/HamletDuFromage/aio-switch-updater
 
 [MY ADVICE IF YOU STILL DON'T HAVE A SWITCH](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/switch)
@@ -148,25 +140,18 @@ _________________
 ### 17- Where do I get Music files? (not streaming)
 
     Use: https://rutracker.org/forum/index.php
-    
-    Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html (see .18)
-    
-    to get a new working ARL for deemix, check below.
-    
+    Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html (see .18). To get a new working ARL for deemix, check below. 
     Use: https://free-mp3-download.net/  (download individual files, supports FLAC)
-    
     Use: https://doubledouble.top/  -"Spotify, Soundcloud, Qobuz, Deezer, Tidal, YouTube, or Napster downloader"  the truth is that its an AI that searches youtube for your desired song and downloads it as audio. It is broken 9 out of 10 times.
 
 ### 18- Where do I get ARLs for deemix?
 
     Use: https://rentry.org/firehawk52#deezer-arls
-    
     You can check if they are working with: https://dz.doubledouble.top  (page fails many times so try again)
     
 ### 19- How can I download spotify songs / playlists?
 
     Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html , Download Deemix, check if it logs in.. if not, try to search internet for "premium arl" or "deezer arl" for a new ARL and set it up in the options login menu. Then copy the Spotify playlist into the search bar in Deemix. If the playlist is public, it will crawl the songs and wrap a download for you using the Deezer versions.
-
     Use: https://doubledouble.top/  (down 9 out of 10 times)
 
 
