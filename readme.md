@@ -1,10 +1,8 @@
  [📵Why you should NOT use your smartphone if you have access to a PC or laptop.](https://youtu.be/VFns39RXPrU)
 
 [Reddit: RealPiracy](https://www.reddit.com/r/RealPiracy/comments/1alxtpv/landing_page_where_are_you/)
-
-If you have kids, watch closely what they play and watch online; there are a lot of AAA games and influencers promoting different agendas from the US in their content.
-
-NEWS: Reddit redesign forced the old name of the sub, so we are back with the old one (as if I had any choice). Please don't go there asking for piracy stuff, this page covers most of your needs. Please read the landing page to know what to expect there. Thank you.
+Please don't go there asking for piracy stuff, this page covers most of your needs. 
+Please read the landing page to know what to expect there, which is mostly NOT piracy but politics.
 
 ## Contribute
 If you know a link, go to the "issues" section and post it with a brief description. I will consider adding it to the list. If github bans the link, use Base64.
@@ -49,41 +47,40 @@ _________________
 
 ### 1- Spotify has ads, how to remove them?
 
-    Use https://github.com/SpotX-CLI/ for PC use.  -No, you won't get premium quality sound (no 320kbps).
-    Use https://xmanagerapp.com/ for android use.  -No, you won't get premium quality sound (no 320kbps).
+    Use: https://github.com/SpotX-CLI/ for PC use.  -No, you won't get premium quality sound (no 320kbps).
+    Use: https://xmanagerapp.com/ for android use.  -No, you won't get premium quality sound (no 320kbps).
 
 [MY ADVICE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/spoti)
 
 ### 2- Vanced doesn't work anymore, alternatives?
 
-    Use https://f-droid.org/packages/free.rm.skytube.oss/    -for android.
-    Use https://github.com/revanced/                         -for android.
+    Use: https://f-droid.org/packages/free.rm.skytube.oss/    -for android.
+    Use: https://github.com/revanced/                         -for android.
 
 ### 3- Where do I download clean games?
-
        
-    https://cs.rin.ru/                     -clean steam files, must apply steam emu; latest downloads/versions and obscure steam games available
-    https://www.game-repack.site
-    http://dodi-repacks.site/
-    https://gog-games.to/   -or-  ONION (tor browser) http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/     -Very nice GOG games catalog
-    https://steamrip.com/     -Steam games pre-cracked and pre-installed. Its basically doing a "repack" of games from cs.rin.ru by applying the steam emu to them.
-    https://fitgirl-repacks.site/     -mostly indie osbcure and dumb games. You 'may' find some AAA titles. Better use cs.rin.ru and goldberg emu.
+    Use: https://cs.rin.ru/                     -clean steam files, must apply steam emu; latest downloads/versions and obscure steam games available
+    Use: https://www.game-repack.site
+    Use: http://dodi-repacks.site/
+    Use: https://gog-games.to/   -or-  ONION (tor browser) http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/     -Very nice GOG games catalog
+    Use: https://steamrip.com/     -Steam games pre-cracked and pre-installed. Its basically doing a "repack" of games from cs.rin.ru by applying the steam emu to them.
+    Use: https://fitgirl-repacks.site/     -mostly indie osbcure and dumb games. You 'may' find some AAA titles. Better use cs.rin.ru and goldberg emu.
 
 [READ MORE ABOUT FITGIRL'S REPACKS](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/fitgirl)
 
 ### 4- I need advanced help on running a particular game / need to unlock/download-unlock DLCs on legit games for free.
 
-    Use https://cs.rin.ru/  -⚠🧂 be careful, abusive moderators.
+    Use: https://cs.rin.ru/  -⚠🧂 be careful, abusive moderators.
 
 [READ MORE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/csrinru)
 
 
 ### 5- I need console game ROMS
 
-    Use for many consoles: https://r-roms.github.io/   (⚠ check the list on the right because the index doesn't mention NES,SNES and other consoles but ROMS are there)
-    Use for Wii-U: https://github.com/Xpl0itU/WiiUDownloader
-    Use for Switch: https://nsw2u.org/ or https://nxbrew.com/ 
-    Use for PS3, PSV, PSP, PSX, PSM: https://nopaystation.com/browse
+    Use: for many consoles: https://r-roms.github.io/   (⚠ check the list on the right because the index doesn't mention NES,SNES and other consoles but ROMS are there)
+    Use: for Wii-U: https://github.com/Xpl0itU/WiiUDownloader
+    Use: for Switch: https://nsw2u.org/ or https://nxbrew.com/ 
+    Use: for PS3, PSV, PSP, PSX, PSM: https://nopaystation.com/browse
 
 ### 6- Need help on pirating my Switch.
 
@@ -197,6 +194,7 @@ _________________
     Want to mod your Switch games? (useful for changing UI input to Xbox or PS controller): https://gamebanana.com/search?_sOrder=best_match&_sSearchString=controller&_idGameRow=7617
 
 ### 28- Where can I download and play Minecraft for free?
+
     Use: https://github.com/rePublic-Studios/rPLauncher
 
 
