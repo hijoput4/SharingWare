@@ -25,7 +25,7 @@ INDEX:
 + [15- Need to download a video or full playlist from youtube. (*advanced users*)](#15--need-to-download-a-video-or-full-playlist-from-youtube-advanced-users)
 + [16- Need to activate Windows/Office](#16--need-to-activate-windowsoffice)
 + [17- Where do I get Music files? (not streaming)](#17--where-do-i-get-music-files-not-streaming)
-+ [18- Where do I get ARL's for deemix?](#18--where-do-I-get-ARL's-for-deemix?)
++ [18- Where do I get ARLs for deemix?](#18--where-do-i-get-arls-for-deemix)
 + [19- How can I download spotify songs / playlists?](#19--how-can-i-download-spotify-songs--playlists)
 + [20- Where can I get emulator ROMS? ](#20--where-can-i-get-emulator-roms)
 + [21-I have an old game and I wish to play it on a widescreen](#21-i-have-an-old-game-and-i-wish-to-play-it-on-a-widescreen)
@@ -144,7 +144,7 @@ INDEX:
     
     Use: https://doubledouble.top/  -"Spotify, Soundcloud, Qobuz, Deezer, Tidal, YouTube, or Napster downloader"  the truth is that its an AI that searches youtube for your desired song and downloads it as audio. It is broken 9 out of 10 times.
 
-### 18- Where do I get ARL's for deemix?
+### 18- Where do I get ARLs for deemix?
 
     Use: https://rentry.org/firehawk52#deezer-arls
     
