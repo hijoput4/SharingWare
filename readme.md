@@ -27,20 +27,19 @@ If you know a link, go to the "issues" section and post it with a brief descript
 + [12- Need this app for android.](#12--need-this-app-for-android)
 + [13- Need an UWP app but cannot use windows store](#13--need-an-uwp-app-but-cannot-use-windows-store)
 + [14- Need to download a video on the internet.](#14--need-to-download-a-video-on-the-internet)
-+ [15- Need to download a video or full playlist from youtube. (*advanced users*)](#15--need-to-download-a-video-or-full-playlist-from-youtube-advanced-users)
++ [15- Need to download a video or full playlist from youtube. (*Command line (CLI) app*)](#15--need-to-download-a-video-or-full-playlist-from-youtube-command-line-cli-app)
 + [16- Need to activate Windows/Office](#16--need-to-activate-windowsoffice)
 + [17- Where do I get Music files? (not streaming)](#17--where-do-i-get-music-files-not-streaming)
 + [18- Where do I get ARLs for deemix?](#18--where-do-i-get-arls-for-deemix)
 + [19- How can I download spotify songs / playlists?](#19--how-can-i-download-spotify-songs--playlists)
-+ [20- Where can I get emulator ROMS? ](#20--where-can-i-get-emulator-roms)
-+ [21-I have an old game and I wish to play it on a widescreen](#21-i-have-an-old-game-and-i-wish-to-play-it-on-a-widescreen)
-+ [22- I have an old game but I just can't make it install or launch.](#22--i-have-an-old-game-but-i-just-cant-make-it-install-or-launch)
-+ [23- I want PC old games](#23--i-want-pc-old-games)
-+ [24- I need disposable email addresses](#24--i-need-disposable-email-addresses)
-+ [25- I need VSTs and musicians effects](#25--i-need-vsts-and-musicians-effects)
-+ [26- I need proxies](#26--i-need-proxies)
-+ [27- Where can I download a Switch emulator?](#27--where-can-i-download-a-switch-emulator)
-+ [28- Where can I download and play Minecraft for free?](#28--where-can-i-download-and-play-minecraft-for-free)
++ [20-I have an old game and I wish to play it on a widescreen](#20-i-have-an-old-game-and-i-wish-to-play-it-on-a-widescreen)
++ [21- I have an old game but I just can't make it install or launch.](#21--i-have-an-old-game-but-i-just-cant-make-it-install-or-launch)
++ [22- I want PC old games](#22--i-want-pc-old-games)
++ [23- I need disposable email addresses](#23--i-need-disposable-email-addresses)
++ [24- I need VSTs and musicians effects](#24--i-need-vsts-and-musicians-effects)
++ [25- I need proxies](#25--i-need-proxies)
++ [26- Where can I download a Switch emulator?](#26--where-can-i-download-a-switch-emulator)
++ [27- Where can I download and play Minecraft for free?](#27--where-can-i-download-and-play-minecraft-for-free)
 
 
 
@@ -48,8 +47,8 @@ _________________
 
 ### 1- Spotify has ads, how to remove them?
 
-    Use: https://github.com/SpotX-CLI/ for PC use.  -No, you won't get premium quality sound (no 320kbps).
-    Use: https://xmanagerapp.com/ for android use.  -No, you won't get premium quality sound (no 320kbps).
+    Use: https://github.com/SpotX-CLI/ for PC use.  -(no 320kbps).
+    Use: https://xmanagerapp.com/ for android use.  -(no 320kbps).
 
 [MY ADVICE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/spoti)
 
@@ -60,25 +59,25 @@ _________________
 
 ### 3- Where do I download clean games?
        
-    Use: https://cs.rin.ru/                     -clean steam files, must apply steam emu; latest downloads/versions and obscure steam games available
+    Use: https://cs.rin.ru/     -clean steam files, must apply steam emu; latest downloads/versions and obscure steam games available
     Use: https://www.game-repack.site
     Use: http://dodi-repacks.site/
-    Use: https://gog-games.to/   -or-  ONION (tor browser) http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/     -Very nice GOG games catalog
+    Use: https://gog-games.to/   -or-  ONION (tor browser) http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/     -GOG games catalog. Quality drop, recently filled with hentai 'games' and no filter options 😕
     Use: https://steamrip.com/     -Steam games pre-cracked and pre-installed. Its basically doing a "repack" of games from cs.rin.ru by applying the steam emu to them.
-    Use: https://fitgirl-repacks.site/     -mostly indie osbcure and dumb games. You 'may' find some AAA titles. Better use cs.rin.ru and goldberg emu.
+    Use: https://fitgirl-repacks.site/     -mostly indie osbcure, girly and dumb games. You 'may' find some AAA titles. Better use cs.rin.ru and goldberg emu.
 
 [READ MORE ABOUT FITGIRL'S REPACKS](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/fitgirl)
 
 ### 4- I need advanced help on running a particular game / need to unlock/download-unlock DLCs on legit games for free.
 
-    Use: https://cs.rin.ru/  -⚠🧂 be careful, abusive moderators.
+    Use: https://cs.rin.ru/  -⚠🧂 be careful, abusive teenager moderators.
 
 [READ MORE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/csrinru)
 
 
 ### 5- I need console game ROMS
 
-    Use: for many consoles: https://r-roms.github.io/   (⚠ check the list on the right because the index doesn't mention NES,SNES and other consoles but ROMS are there)
+    Use: https://r-roms.github.io/   (⚠ check the list on the right because the index doesn't mention NES,SNES and other consoles but ROMS are there)
     Use: for Wii-U: https://github.com/Xpl0itU/WiiUDownloader
     Use: for Switch: https://nsw2u.org/ or https://nxbrew.com/ 
     Use: for PS3, PSV, PSP, PSX, PSM: https://nopaystation.com/browse
@@ -109,11 +108,13 @@ _________________
 
 ### 11- Where can I download this program clean?
 
-    Use: https://filecr.com/ or https://lrepacks.ru
+    Use: https://filecr.com
+    Use: https://lrepacks.ru
 
 ### 12- Need this app for android.
 
-    Use: https://filecr.com/ or https://forum.mobilism.me/
+    Use: https://filecr.com/
+    Use: https://forum.mobilism.me/
 
 ### 13- Need an UWP app but cannot use windows store
 
@@ -122,14 +123,15 @@ _________________
 ### 14- Need to download a video on the internet.
 
     Use https://filecr.com/windows/internet-download-manager/?id=5992240122 to install IDM. The program has a browser extension to detect streaming videos so you can download them.
-    Use: https://github.com/yt-dlp/yt-dlp (see point 15)
+    Use: https://github.com/yt-dlp/yt-dlp (see .15)
 
-### 15- Need to download a video or full playlist from youtube. (*advanced users*)
+### 15- Need to download a video or full playlist from youtube. (*Command line (CLI) app*)
 
     Use https://github.com/yt-dlp/yt-dlp
     e.g. command (good for almost any site): 
     
     yt-dlp.exe --restrict-filenames -o "C:\Users\YOUR_USERNAME\Downloads\%(title)s.%(ext)s" [https://YOUR_URL]
+    Change the "YOUR_USERNAME" for your real username.
 
 ### 16- Need to activate Windows/Office
 
@@ -138,41 +140,36 @@ _________________
 ### 17- Where do I get Music files? (not streaming)
 
     Use: https://rutracker.org/forum/index.php
-    Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html (see .18). To get a new working ARL for deemix, check below. 
+    Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html see (.18) To get a new working ARL for deemix. 
     Use: https://free-mp3-download.net/  (download individual files, supports FLAC)
     Use: https://doubledouble.top/  -"Spotify, Soundcloud, Qobuz, Deezer, Tidal, YouTube, or Napster downloader"  the truth is that its an AI that searches youtube for your desired song and downloads it as audio. It is broken 9 out of 10 times.
 
 ### 18- Where do I get ARLs for deemix?
 
     Use: https://rentry.org/firehawk52#deezer-arls
-    You can check if they are working with: https://dz.doubledouble.top  (page fails many times so try again)
     
 ### 19- How can I download spotify songs / playlists?
 
-    Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html , Download Deemix, check if it logs in.. if not, try to search internet for "premium arl" or "deezer arl" for a new ARL and set it up in the options login menu. Then copy the Spotify playlist into the search bar in Deemix. If the playlist is public, it will crawl the songs and wrap a download for you using the Deezer versions.
+    Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html , Download Deemix, check if it logs in.. if not, see (.18) and set it up in the options login menu. Then copy the Spotify playlist into the search bar in Deemix. If the playlist is public, it will crawl the songs and wrap a download for you using the Deezer versions.
     Use: https://doubledouble.top/  (down 9 out of 10 times)
 
 
-### 20- Where can I get emulator ROMS? 
-    
-    Use: https://r-roms.github.io/
-
-### 21-I have an old game and I wish to play it on a widescreen
+### 20-I have an old game and I wish to play it on a widescreen
 
     Use: https://www.wsgf.org/
    
-### 22- I have an old game but I just can't make it install or launch.
+### 21- I have an old game but I just can't make it install or launch.
 
     Use: https://github.com/otya128/winevdm
     Use: https://sourceforge.net/projects/dxwnd/  (its a little confusing but it not only allows to run games in windowed mode but also solves some compatibility issues, check that site for specific cases and the included help files to know what options do)
     
-### 23- I want PC old games
+### 22- I want PC old games
 
     Use: https://archive.org/search?query=abandonware   -Use the search bar for specific games.
     Use: https://www.old-games.ru/catalog/  (you will probably need a translation extension because its in Russian)
     Use: https://www.magipack.games/
     
-### 24- I need disposable email addresses
+### 23- I need disposable email addresses
 
     Use: https://www.phantom-mail.io/
     Use: https://www.ghostlymail.com/
@@ -180,22 +177,22 @@ _________________
     Use: https://smailpro.com/advanced   (can create @gmail addresses)
     Use: https://fake-mail-generator.vercel.app/
 
-### 25- I need VSTs and musicians effects
+### 24- I need VSTs and musicians effects
 
     Use: https://looptorrent.net/
 
-### 26- I need proxies
+### 25- I need proxies
 
     Use: https://www.proxy-list.download/SOCKS5  (various types not only SOCKS5)
     Use: https://github.com/ShiftyTR/Proxy-List
         
-### 27- Where can I download a Switch emulator?
+### 26- Where can I download a Switch emulator?
 
     Use: https://github.com/pineappleEA/pineapple-src  (YUZU paid version)
     You will also need product keys for it to work (tutorial included): https://theprodkeys.com/latest-yuzu-prod-keys/
     Want to mod your Switch games? (useful for changing UI input to Xbox or PS controller): https://gamebanana.com/search?_sOrder=best_match&_sSearchString=controller&_idGameRow=7617
 
-### 28- Where can I download and play Minecraft for free?
+### 27- Where can I download and play Minecraft for free?
 
     Use: https://github.com/rePublic-Studios/rPLauncher
 
