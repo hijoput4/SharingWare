@@ -62,7 +62,7 @@ _________________
     Use: https://cs.rin.ru/     -clean steam files, must apply steam emu; latest downloads/versions and obscure steam games available
     Use: https://www.game-repack.site
     Use: http://dodi-repacks.site/
-    Use: https://gog-games.to/   -or-  ONION (tor browser) http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/     -GOG games catalog. Quality drop, recently filled with hentai 'games' and no filter options 😕
+    Use: https://gog-games.to/   -or-  ONION (tor browser) http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/     -GOG games catalog. It was a good place, but recently got flooded with hentai games and visual novels, and no filter options 😕.
     Use: https://steamrip.com/     -Steam games pre-cracked and pre-installed. Its basically doing a "repack" of games from cs.rin.ru by applying the steam emu to them.
     Use: https://fitgirl-repacks.site/     -mostly indie osbcure, girly and dumb games. You 'may' find some AAA titles. Better use cs.rin.ru and goldberg emu.
 
