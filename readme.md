@@ -208,5 +208,5 @@ _________________
 
 ### 28- I need a working and unrestricted version of Macro Recorder
 
-    Use: https://archive.org/details/macro-recorder-3.0.36-portable to download the last working version (3.0.36) and download any recent repack from the scene (https://filecr.com/windows/macro-recorder/?id=956267120000) to get the keygen, which is always the same (ITS A FALSE POSITIVE ON WINDOWS DEFENDER).
+    Use: https://archive.org/details/macro-recorder-3.0.36-portable to download the last working version (3.0.36) and download any recent repack from the scene (https://filecr.com/windows/macro-recorder/?id=956267120000) to get the keygen, which is always the same, just download a FileCR release (any version will do) and use the keygen. (ITS A FALSE POSITIVE ON WINDOWS DEFENDER).
 
