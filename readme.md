@@ -49,6 +49,7 @@ If you know a link, go to the "issues" section and post it with a brief descript
 + [25- I need proxies](#25--i-need-proxies)
 + [26- Where can I download a Switch emulator?](#26--where-can-i-download-a-switch-emulator)
 + [27- Where can I download and play Minecraft for free?](#27--where-can-i-download-and-play-minecraft-for-free)
++ [28- I need a working and unrestricted version of Macro Recorder](#28--i-need-a-working-and-unrestricted-version-of-macro-recorder)
 
 
 
@@ -205,6 +206,7 @@ _________________
 
     Use: https://github.com/rePublic-Studios/rPLauncher
 
+### 28- I need a working and unrestricted version of Macro Recorder
 
-
+    Use: https://archive.org/details/macro-recorder-3.0.36-portable to download the last working version (3.0.36) and download any recent repack from the scene (https://filecr.com/windows/macro-recorder/?id=956267120000) to get the keygen, which is always the same (ITS A FALSE POSITIVE ON WINDOWS DEFENDER).
 
