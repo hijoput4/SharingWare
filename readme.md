@@ -2,8 +2,17 @@
 
 [Reddit: RealPiracy](https://www.reddit.com/r/RealPiracy/comments/1alxtpv/landing_page_where_are_you/)
 
-Please don't go there asking for piracy stuff, this page covers most of your needs. 
+Please don't go there asking for piracy stuff, this page covers most of your needs.
+
 Please read the landing page to know what to expect there, which is mostly NOT piracy but politics.
+
+
+
+
+[Reddit: RantsAndThoughts](https://www.reddit.com/r/rantsandthoughts/comments/19dz5kf/landing_page/)
+
+The "say your stuff" corner. If you want a place that is not a "product marketing hub" like in any other reddit brand-page, filled with fanboys where you get your posts deleted because you made criticism, rant about products or trends; don't want LGBT content, don't want anime content or 'pROn', this is your place. You can post your thoughts, as random as they can be and review games, doesn't matter if they are old or new; just be honest for others that are tired of youtubers 'always good' reviews.
+
 
 ## Contribute
 If you know a link, go to the "issues" section and post it with a brief description. I will consider adding it to the list. If github bans the link, use Base64.
