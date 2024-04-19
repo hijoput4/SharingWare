@@ -2,8 +2,6 @@
 
 [Reddit: RealPiracy](https://www.reddit.com/r/RealPiracy/comments/1alxtpv/landing_page_where_are_you/)
 
-Please don't go there asking for piracy stuff, this page covers most of your needs.
-
 Please read the landing page to know what to expect there, which is mostly NOT piracy but politics.
 
 
