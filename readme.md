@@ -2,7 +2,7 @@
 
 [Reddit: RealPiracy](https://www.reddit.com/r/RealPiracy/comments/1alxtpv/landing_page_where_are_you/)
 
-Please read the landing page to know what to expect there, which is mostly NOT piracy but politics.
+Please read the landing page to know what to expect there, which is NOT piracy but politics. No LGBT or wokes of any kind.
 
 
 [Reddit: RantsAndThoughts](https://www.reddit.com/r/rantsandthoughts/comments/19dz5kf/landing_page/)
