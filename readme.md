@@ -32,10 +32,10 @@ If you know a link, go to the "issues" section and post it with a brief descript
 + [6- Need help on pirating my Switch.](#6--need-help-on-pirating-my-switch)
 + [7- Need advanced tools for my switch games.](#7--need-advanced-tools-for-my-switch-games)
 + [8- Need switch firmwares.](#8--need-switch-firmwares)
-+ [9- Where do I get this show or movie?](#9--where-do-i-get-this-show-or-movie)
++ [9- Where do I get a show or movie?](#9--where-do-i-get-a-show-or-movie)
 + [10- Is it there an app for android TV that is like vanced?](#10--is-it-there-an-app-for-android-tv-that-is-like-vanced)
-+ [11- Where can I download this program clean?](#11--where-can-i-download-this-program-clean)
-+ [12- Need this app for android.](#12--need-this-app-for-android)
++ [11- Where can I download a specific program?](#11--where-can-i-download-a-specific-program)
++ [12- Need an app for android.](#12--need-an-app-for-android)
 + [13- Need an UWP app but cannot use windows store](#13--need-an-uwp-app-but-cannot-use-windows-store)
 + [14- Need to download a video on the internet.](#14--need-to-download-a-video-on-the-internet)
 + [15- Need to download a video or full playlist from youtube. (*Command line (CLI) app*)](#15--need-to-download-a-video-or-full-playlist-from-youtube-command-line-cli-app)
@@ -110,7 +110,7 @@ _________________
 
     Use: https://darthsternie.net/switch-firmwares/
 
-### 9- Where do I get this show or movie?
+### 9- Where do I get a show or movie?
 
     Use: https://fmhy.net/videopiracyguide   -menu on the left has much more links for other piracy stuff.
 
@@ -118,12 +118,12 @@ _________________
 
     Use: https://github.com/yuliskov/SmartTubeNext
 
-### 11- Where can I download this program clean?
+### 11- Where can I download a specific program?
 
     Use: https://filecr.com
     Use: https://lrepacks.ru
 
-### 12- Need this app for android.
+### 12- Need an app for android.
 
     Use: https://filecr.com/
     Use: https://forum.mobilism.me/
