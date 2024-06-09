@@ -25,7 +25,7 @@ If you know a link, go to the "issues" section and post it with a brief descript
 
 ### INDEX (CTRL+F to search for a word):
   + [1- Spotify has ads, how to remove them?](#1--spotify-has-ads-how-to-remove-them)
-+ [2- Vanced doesn't work anymore, alternatives?](#2--vanced-doesnt-work-anymore-alternatives)
++ [2- Youtube + ad blocker + sponsorblock](#2--youtube--ad-blocker--sponsorblock)
 + [3- Where do I download clean games?](#3--where-do-i-download-clean-games)
 + [4- I need advanced help on running a particular game / need to unlock/download-unlock DLCs on legit games for free.](#4--i-need-advanced-help-on-running-a-particular-game--need-to-unlockdownload-unlock-dlcs-on-legit-games-for-free)
 + [5- I need console game ROMS](#5--i-need-console-game-roms)
@@ -64,7 +64,7 @@ _________________
 
 [MY ADVICE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/spoti)
 
-### 2- Vanced doesn't work anymore, alternatives?
+### 2- Youtube + ad blocker + sponsorblock
 
     Use: https://f-droid.org/packages/free.rm.skytube.oss/    -for android.
     Use: https://github.com/revanced/                         -for android.
