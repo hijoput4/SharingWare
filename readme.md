@@ -77,6 +77,9 @@ _________________
     Use: https://gog-games.to/   -or-  ONION (tor browser) http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/     -GOG games catalog. It was a good place, but recently got flooded with hentai games and visual novels, and no filter options 😕.
     Use: https://steamrip.com/     -Steam games pre-cracked and pre-installed. Its basically doing a "repack" of games from cs.rin.ru by applying the steam emu to them.
     Use: https://fitgirl-repacks.site/     -mostly indie osbcure, girly and dumb games. You 'may' find some AAA titles. Better use cs.rin.ru and goldberg emu.
+    Use: https://forum.torrminatorr.com/    -mostly GoG games (good alternative to gog-games.to)
+    Use: https://vsetop.org/games/     -Russian repacks on torrent
+    Use: https://rlsbb.ru/category/games/     -Russian share of different repacks. Also has movies and other stuff.
 
 [READ MORE ABOUT FITGIRL'S REPACKS](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/fitgirl)
 
