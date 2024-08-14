@@ -155,7 +155,7 @@ _________________
 ### 17- Where do I get Music files? (not streaming)
 
     Use: https://rutracker.org/forum/index.php
-    Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html see (.18) To get a new working ARL for deemix. 
+    Use: https://www.reddit.com/r/Sharingware/comments/1eroutj/deemix_fixed_version see (.18) To get a new working ARL for deemix. 
     Use: https://free-mp3-download.net/  (download individual files, supports FLAC)
     Use: https://doubledouble.top/  -"Spotify, Soundcloud, Qobuz, Deezer, Tidal, YouTube, or Napster downloader"  the truth is that its an AI that searches youtube for your desired song and downloads it as audio. It is broken 9 out of 10 times.
 
@@ -165,7 +165,7 @@ _________________
     
 ### 19- How can I download spotify songs / playlists?
 
-    Use: https://lrepacks.net/repaki-programm-dlya-interneta/710-deezloader-remix-repack-amp-portable.html , Download Deemix, check if it logs in.. if not, see (.18) and set it up in the options login menu. Then copy the Spotify playlist into the search bar in Deemix. If the playlist is public, it will crawl the songs and wrap a download for you using the Deezer versions.
+    Use: https://www.reddit.com/r/Sharingware/comments/1eroutj/deemix_fixed_version, Download Deemix, see (.18) and set it up in the options login menu. Then copy the Spotify playlist into the search bar in Deemix. If the playlist is public, it will crawl the songs and wrap a download for you using the Deezer versions.
     Use: https://doubledouble.top/  (down 9 out of 10 times)
 
 
