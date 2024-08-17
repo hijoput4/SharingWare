@@ -157,8 +157,8 @@ _________________
     Use: https://rutracker.org/forum/index.php
     Use: https://www.reddit.com/r/Sharingware/comments/1eroutj/deemix_fixed_version see (.18) To get a new working ARL for deemix. 
     Use: https://free-mp3-download.net/  (download individual files, supports FLAC)
-    Use: https://doubledouble.top/  -"Spotify, Soundcloud, Qobuz, Deezer, Tidal, YouTube, or Napster downloader"  the truth is that its an AI that searches youtube for your desired song and downloads it as audio. It is broken 9 out of 10 times.
-
+    Use: https://doubledouble.top/  -"Spotify, Soundcloud, Qobuz, Deezer, Tidal, YouTube, or Napster downloader"  ⚠ the truth is that its an AI that searches youtube for your desired song and downloads it as audio. It is broken 9 out of 10 times and a weirdo anime-trans-woke-fanatic is running it.
+    
 ### 18- Where do I get ARLs for deemix?
 
     Use: https://rentry.org/firehawk52#deezer-arls
@@ -186,7 +186,6 @@ _________________
     
 ### 23- I need disposable email addresses
 
-    Use: https://www.phantom-mail.io/
     Use: https://www.ghostlymail.com/
     Use: https://www.emailnator.com/  (can create @gmail and @googlemail addresses)
     Use: https://smailpro.com/advanced   (can create @gmail addresses)
@@ -203,15 +202,15 @@ _________________
         
 ### 26- Where can I download a Switch emulator?
 
-    Use: https://github.com/pineappleEA/pineapple-src  (YUZU paid version)
+    Use: https://www.reddit.com/r/rantsandthoughts/comments/1dy9ymn/yuzu_emulator_archive/  ⚠ Yuzu has been taken down. Only outdated versions are left around. There's the dumb brother: Ryujinx
     You will also need product keys for it to work (tutorial included): https://theprodkeys.com/latest-yuzu-prod-keys/
     Want to mod your Switch games? (useful for changing UI input to Xbox or PS controller): https://gamebanana.com/search?_sOrder=best_match&_sSearchString=controller&_idGameRow=7617
 
 ### 27- Where can I download and play Minecraft for free?
 
-    Use: https://github.com/rePublic-Studios/rPLauncher
+    Use: https://github.com/rePublic-Studios/rPLauncher   ⚠ Note that I don't play mulplayer so I don't know if that is possible or not with these versions.
 
 ### 28- I need a working and unrestricted version of Macro Recorder
 
-    Use: https://archive.org/details/macro-recorder-3.0.36-portable to download the last working version (3.0.36) and download any recent repack from the scene (https://filecr.com/windows/macro-recorder/?id=956267120000) to get the keygen, which is always the same, just download a FileCR release (any version will do) and use the keygen. (ITS A FALSE POSITIVE ON WINDOWS DEFENDER).
+    Use: https://www.reddit.com/r/Sharingware/comments/1c7xy17/macro_recorder_3036_last_working_version/
 
