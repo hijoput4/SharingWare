@@ -203,7 +203,7 @@ _________________
         
 ### 26- Where can I download a Switch emulator?
 
-    Use: https://www.reddit.com/r/rantsandthoughts/comments/1dy9ymn/yuzu_emulator_archive/  ⚠ Yuzu has been taken down. Only outdated versions are left around. There's the dumb brother: Ryujinx
+    Use: https://suyu.dev/  ⚠ Yuzu has been taken down. Continuation is now called suyu.
     You will also need product keys for it to work (tutorial included): https://theprodkeys.com/latest-yuzu-prod-keys/
     Want to mod your Switch games? (useful for changing UI input to Xbox or PS controller): https://gamebanana.com/search?_sOrder=best_match&_sSearchString=controller&_idGameRow=7617
 
