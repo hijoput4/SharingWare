@@ -1,21 +1,32 @@
- [📵Why you should NOT use your smartphone if you have access to a PC or laptop.](https://youtu.be/VFns39RXPrU)
+[📵Why you should NOT use your smartphone if you have access to a PC or laptop.](https://youtu.be/VFns39RXPrU)
+<br>
+<br>
 
 [Reddit: RealPiracy](https://www.reddit.com/r/RealPiracy/comments/1alxtpv/landing_page_where_are_you/)
 
-Please read the landing page to know what to expect there, which is NOT piracy but politics. No LGBT or wokes of any kind.
+Politics, real conspirations and geopolitics. No LGBT or wokes of any kind allowed. Heavy moderation, \*biased. You have been warned.
 
+\(\*\) Biased means no right or left alignment.
+
+<br>
+<br>
 
 [Reddit: RantsAndThoughts](https://www.reddit.com/r/rantsandthoughts/comments/19dz5kf/landing_page/)
 
-The "say your stuff" corner. If you want a place that is not a "product marketing hub" like in any other reddit brand-page, filled with fanboys where you get your posts deleted because you made criticism, rant about products or trends; don't want LGBT content, don't want anime content or 'pROn', this is your place. You can review or comment games and post links to download them, doesn't matter if they are old or new; just be honest for others that are tired of youtubers 'always good' reviews. So; games, reviews and complaints go here. We don't expect "experts" here, just tell your truths.
+Mostly for video game players. The 'say your stuff' corner, now called "venting" on internet; because new generations are being told "if what you are going to say is not good, save it to yourself" thus creating the idea that criticism and opinions are "bad" and worshiping products is "good" AKA censorship. Found yourself downvoted then deleted from reddit communities just for saying a product (game or hardware) is not that good? do you struggle with fanboys attacking you? then join here, say what you want about the game/product you want. Moderation is done to keep fanboy pests out. 
+You can also download games here 🏴‍☠️ as we want to have a functional community here, not only to rant but to be used in a practical way, maybe you can save bandwidth or find a good game to play 😉.
 
+<br>
+<br>
 
 [Reddit: Sharingware](https://www.reddit.com/r/Sharingware/comments/1c804uv/landing_page/)
 
-For your 🏴‍☠️ needs. Share and see if something is useful. As usual, no LGBT, "pROn", anime or memes.
+For your 🏴‍☠️ software needs. Share and see if something is useful. As usual, no LGBT, "pROn", anime or memes. Straight to the point. No pun intended.
 
+<br>
+<br>
 
-
+--------------
 ## Contribute
 If you know a link, go to the "issues" section and post it with a brief description. I will consider adding it to the list. If github bans the link, use Base64.
 
