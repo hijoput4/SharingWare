@@ -13,7 +13,7 @@ Politics, real conspirations and geopolitics. Showing unpopular views of events,
 
 [Reddit: RantsAndThoughts](https://www.reddit.com/r/rantsandthoughts/comments/19dz5kf/landing_page/)
 
-Mostly for video game players. The 'say your stuff' corner, now called "venting" on internet; because new generations are being told "if what you are going to say is not good, save it to yourself" thus creating the idea that criticism and opinions are "bad" and worshiping products is "good" AKA censorship. Found yourself downvoted then deleted from reddit communities just for saying a product (game or hardware) is not that good? do you struggle with fanboys attacking you? then join here, say what you want about the game/product you want. Moderation is done to keep fanboy pests out. 
+Mostly for video game players. The 'say your stuff' corner, now called "venting" on internet; because new generations are being told "if what you are going to say is not good, save it to yourself" thus creating the idea that criticism and opinions are "bad" and worshiping products is "good" AKA censorship. Found yourself downvoted then deleted from reddit communities just for saying a product (game or hardware) is not that good? do you struggle with fanboys attacking you? then join here, say what you want about the game/product you want. Moderation is done to keep fanboy pests out. No LGBT, memes or Anime (even in games) allowed. 
 You can also download games here 🏴‍☠️ as we want to have a functional community here, not only to rant but to be used in a practical way, maybe you can save bandwidth or find a good game to play 😉.
 
 <br>
