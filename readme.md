@@ -4,7 +4,7 @@
 
 [Reddit: RealPiracy](https://www.reddit.com/r/RealPiracy/comments/1alxtpv/landing_page_where_are_you/)
 
-Politics, real conspirations and geopolitics. No LGBT or wokes of any kind allowed. Heavy moderation, \*biased. You have been warned.
+Politics, real conspirations and geopolitics. Showing unpopular views of events, hypocrisy and the other side of the coin. No LGBT or wokes of any kind allowed. Heavy moderation, \*biased. You have been warned.
 
 \(\*\) Biased means no right or left alignment.
 
