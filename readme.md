@@ -6,7 +6,7 @@
 
 Politics, real conspirations and geopolitics. Showing unpopular views of events, hypocrisy and the other side of the coin. No LGBT or wokes of any kind allowed. Heavy moderation, \*biased. You have been warned.
 
-\(\*\) Biased means no right or left alignment.
+\(\*\) Biased doesn't mean right or left alignment, but against imperialism.
 
 <br>
 <br>
