@@ -169,7 +169,7 @@ _________________
     Use: https://rutracker.org/forum/index.php
     Use: https://www.reddit.com/r/Sharingware/comments/1eroutj/deemix_fixed_version see (.18) To get a new working ARL for deemix. 
     Use: https://free-mp3-download.net/  (download individual files, supports FLAC)
-    Use: https://doubledouble.top/  -"Spotify, Soundcloud, Qobuz, Deezer, Tidal, YouTube, or Napster downloader"  ⚠ the truth is that its an AI that searches youtube for your desired song and downloads it as audio. It is broken 9 out of 10 times and a weirdo anime-trans-woke-fanatic is running it.
+    Use: https://lucida.to/  -"Spotify, Soundcloud, Qobuz, Deezer, Tidal, YouTube, or Napster downloader"  ⚠ the truth is that its an AI that searches youtube for your desired song and downloads it as audio. A weirdo anime-trans-woke-fanatic is running it.
     
 ### 18- Where do I get ARLs for deemix?
 
