@@ -4,24 +4,21 @@
 
 [Reddit: RealPiracy](https://www.reddit.com/r/RealPiracy/comments/1alxtpv/landing_page_where_are_you/)
 
-Politics, real conspirations and geopolitics. Showing unpopular views of events, hypocrisy and the other side of the coin. No LGBT or wokes of any kind allowed. Heavy moderation, \*biased. You have been warned.
-
-\(\*\) Biased doesn't mean right or left alignment, but against imperialism.
+Politics, real conspirations and geopolitics. Showing unpopular/censored views of events.The other side of the coin. No LGBT or wokes of any kind allowed. Heavy moderation.
 
 <br>
 <br>
 
 [Reddit: RantsAndThoughts](https://www.reddit.com/r/rantsandthoughts/comments/19dz5kf/landing_page/)
 
-Mostly for video game players. The 'say your stuff' corner, now called "venting" on internet; because new generations are being told "if what you are going to say is not good, save it to yourself" thus creating the idea that criticism and opinions are "bad" and worshiping products is "good" AKA censorship. Found yourself downvoted then deleted from reddit communities just for saying a product (game or hardware) is not that good? do you struggle with fanboys attacking you? then join here, say what you want about the game/product you want. Moderation is done to keep fanboy pests out. No LGBT, memes or Anime (even in games) allowed. 
-You can also download games here 🏴‍☠️ as we want to have a functional community here, not only to rant but to be used in a practical way, maybe you can save bandwidth or find a good game to play 😉.
+Honest comments and reviews with DL links of videogames. No fanboys, no wokes, no 'pron'. 
 
 <br>
 <br>
 
 [Reddit: Sharingware](https://www.reddit.com/r/Sharingware/comments/1c804uv/landing_page/)
 
-For your 🏴‍☠️ software needs. Share and see if something is useful. As usual, no LGBT, "pROn", anime or memes. Straight to the point. No pun intended.
+For your 🏴‍☠️ software needs.
 
 <br>
 <br>
