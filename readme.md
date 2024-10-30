@@ -209,7 +209,12 @@ _________________
         
 ### 26- Where can I download a Switch emulator?
 
-    Use: https://suyu.dev/  ⚠ Yuzu has been taken down. Continuation is now called suyu.
+    ⚠ Yuzu has been taken down.
+    ⚠ Ryujinx has been taken down.
+    Use: https://suyu.dev/  (Yuzu continuation/Slow-dead development)
+    Use: https://github.com/GreemDev/Ryujinx   (Ryujinx continuation)
+    Use: https://notabug.org/litucks/torzu  (Yuzu continuation/hosted on TOR network mostly)
+    
     You will also need product keys for it to work (tutorial included): https://theprodkeys.com/latest-yuzu-prod-keys/
     Want to mod your Switch games? (useful for changing UI input to Xbox or PS controller): https://gamebanana.com/search?_sOrder=best_match&_sSearchString=controller&_idGameRow=7617
 
