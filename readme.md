@@ -49,7 +49,7 @@ If you know a link, go to the "issues" section and post it with a brief descript
 + [15- Need to download a video or full playlist from youtube. (*Command line (CLI) app*)](#15--need-to-download-a-video-or-full-playlist-from-youtube-command-line-cli-app)
 + [16- Need to activate Windows/Office](#16--need-to-activate-windowsoffice)
 + [17- Where do I get Music files? (not streaming)](#17--where-do-i-get-music-files-not-streaming)
-+ [18- Where do I get ARLs for deemix? (DEEMIX NOT WORKING ANYMORE)](#18--where-do-i-get-arls-for-deemix-deemix-not-working-anymore)
++ [18- Where do I get ARLs for deemix? ⛔(DEEMIX NOT WORKING ANYMORE)](#18--where-do-i-get-arls-for-deemix-deemix-not-working-anymore)
 + [19- How can I download spotify songs / playlists?](#19--how-can-i-download-spotify-songs--playlists)
 + [20- I have an old game and I wish to play it on a widescreen](#20-i-have-an-old-game-and-i-wish-to-play-it-on-a-widescreen)
 + [21- I have an old game but I just can't make it install or launch.](#21--i-have-an-old-game-but-i-just-cant-make-it-install-or-launch)
@@ -174,9 +174,7 @@ _________________
     
 ### 19- How can I download spotify songs / playlists?
 
-    Use: https://www.reddit.com/r/Sharingware/comments/1eroutj/deemix_fixed_version, Download Deemix, see (.18) and set it up in the options login menu. Then copy the Spotify playlist into the search bar in Deemix. If the playlist is public, it will crawl the songs and wrap a download for you using the Deezer versions.
-    Use: https://doubledouble.top/  (down 9 out of 10 times)
-
+    Use: https://www.reddit.com/r/Sharingware/comments/1gdb5wo/alternative_to_deemix/
 
 ### 20-I have an old game and I wish to play it on a widescreen
 
