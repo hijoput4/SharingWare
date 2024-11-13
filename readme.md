@@ -9,13 +9,6 @@ Politics, real conspirations and geopolitics. Showing unpopular/censored views o
 <br>
 <br>
 
-[Reddit: RantsAndThoughts](https://www.reddit.com/r/rantsandthoughts/comments/19dz5kf/landing_page/)
-
-Honest comments and reviews with DL links of videogames. No fanboys, no wokes, no 'pron'. 
-
-<br>
-<br>
-
 [Reddit: Sharingware](https://www.reddit.com/r/Sharingware/comments/1c804uv/landing_page/)
 
 For your 🏴‍☠️ software needs.
