@@ -9,6 +9,14 @@ Politics, real conspirations and geopolitics. Showing unpopular/censored views o
 <br>
 <br>
 
+[Reddit: CarbonCopyGaming](**https://www.reddit.com/r/Sharingware/comments/1c804uv/landing_page)
+
+A blog-dit about how the modern gaming industry has crumbled down in quality. Since r/rantsandthoughts was banned and I started to lack content to post there anyway since all modern games are dei,woke oriented or simply bad copies of each other stuffed with micromanagement to make them look new, I think the time has come to rise a hand against bullshit instead of reviewing the bullshit.
+Community is new, will be growing in posts with time. Abandonware (oldware repacks) games are planned to be shared in the future.
+
+<br>
+<br>
+
 [Reddit: Sharingware](https://www.reddit.com/r/Sharingware/comments/1c804uv/landing_page/)
 
 For your 🏴‍☠️ software needs.
