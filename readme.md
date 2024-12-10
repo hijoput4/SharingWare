@@ -4,15 +4,14 @@
 
 [Reddit: RealPiracy](https://www.reddit.com/r/RealPiracy/comments/1alxtpv/landing_page_where_are_you/)
 
-Politics, real conspirations and geopolitics. Showing unpopular/censored views of events.The other side of the coin. No LGBT or wokes of any kind allowed. Heavy moderation.
+Politics, real conspirations and geopolitics. Showing unpopular/censored views of events.The other side of the coin. No LGBT or wokes of any kind allowed. Heavy moderation. Not aligned with right or left.
 
 <br>
 <br>
 
 [Reddit: CarbonCopyGaming](https://www.reddit.com/r/CarbonCopyGaming/comments/1gqd44i/landing_page/)
 
-A blog-dit about how the modern gaming industry has crumbled down in quality. Since r/rantsandthoughts was banned and all modern games are dei, woke oriented or simply bad copies of each other, I think the time has come to rise a hand against bullshit instead of reviewing the bullshit.
-The blog is new, will be growing in posts with time.
+A blog-dit about how the modern gaming industry has crumbled down in quality and big data is making us play the same games with different titles.
 
 <br>
 <br>
