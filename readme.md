@@ -60,6 +60,7 @@ If you know a link, go to the "issues" section and post it with a brief descript
 + [26- Where can I download a Switch emulator?](#26--where-can-i-download-a-switch-emulator)
 + [27- Where can I download and play Minecraft for free?](#27--where-can-i-download-and-play-minecraft-for-free)
 + [28- I need a working and unrestricted version of Macro Recorder](#28--i-need-a-working-and-unrestricted-version-of-macro-recorder)
++ [29- I need a working method to download spotify music](#28--i-need-a-working-method-to-download-spotify-music) 
 
 
 
@@ -226,3 +227,6 @@ _________________
 
     Use: https://www.reddit.com/r/Sharingware/comments/1c7xy17/macro_recorder_3036_last_working_version/
 
+### 28- I need a working method to download spotify music
+
+    Use: https://www.reddit.com/r/Sharingware/comments/1h9mnel/download_songsplaylists_of_spotify_from_youtube/
