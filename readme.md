@@ -19,6 +19,7 @@ A blog-dit about how the modern gaming industry has crumbled down in quality and
 [Reddit: Sharingware](https://www.reddit.com/r/Sharingware/comments/1c804uv/landing_page/)
 
 For your 🏴‍☠️ software needs.
+Decode encrypted URL's using [BASE64](https://www.reddit.com/r/Sharingware/comments/1hgas52/attention/)
 
 <br>
 <br>
