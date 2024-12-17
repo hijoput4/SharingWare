@@ -49,7 +49,7 @@ If you know a link, go to the "issues" section and post it with a brief descript
 + [15- Need to download a video or full playlist from youtube. (*Command line (CLI) app*)](#15--need-to-download-a-video-or-full-playlist-from-youtube-command-line-cli-app)
 + [16- Need to activate Windows/Office](#16--need-to-activate-windowsoffice)
 + [17- Where do I get Music files? (not streaming)](#17--where-do-i-get-music-files-not-streaming)
-+ [18- Where do I get ARLs for deemix? ⛔(DEEMIX NOT WORKING ANYMORE)](#18--where-do-i-get-arls-for-deemix-deemix-not-working-anymore)
++ [18- Where do I get ARLs for deemix? ♻ (DEEMIX v2 seems to work for now)](#18--where-do-i-get-arls-for-deemix--deemix-v2-seems-to-work-for-now)
 + [19- How can I download spotify songs / playlists?](#19--how-can-i-download-spotify-songs--playlists)
 + [20- I have an old game and I wish to play it on a widescreen](#20-i-have-an-old-game-and-i-wish-to-play-it-on-a-widescreen)
 + [21- I have an old game but I just can't make it install or launch.](#21--i-have-an-old-game-but-i-just-cant-make-it-install-or-launch)
@@ -165,13 +165,13 @@ _________________
 ### 17- Where do I get Music files? (not streaming)
 
     Use: https://rutracker.org/forum/index.php
-    Use: https://www.reddit.com/r/Sharingware/comments/1eroutj/deemix_fixed_version see (.18) To get a new working ARL for deemix. 
+    Use: https://www.reddit.com/r/Sharingware/comments/1hgaxbf/fixed_deemix_v2_yes_again/ (.18) To get a new working ARL for deemix.
     Use: https://free-mp3-download.net/  (download individual files, supports FLAC)
     Use: https://lucida.to/  -"Spotify, Soundcloud, Qobuz, Deezer, Tidal, YouTube, or Napster downloader"  ⚠ the truth is that its an AI that searches youtube for your desired song and downloads it as audio. A weirdo anime-trans-woke-fanatic is running it.
     
-### 18- Where do I get ARLs for deemix? ⛔(DEEMIX NOT WORKING ANYMORE)
+### 18- Where do I get ARLs for deemix? ♻ (DEEMIX v2 seems to work for now)
 
-    Use: https://rentry.org/firehawk52#deezer-arls
+    Use: https://www.reddit.com/r/Sharingware/comments/1hgal3m/more_arls/
     
 ### 19- How can I download spotify songs / playlists?
 
