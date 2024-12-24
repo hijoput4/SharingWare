@@ -70,7 +70,7 @@ _________________
 ### 1- Spotify has ads, how to remove them?
 
     Use: https://github.com/SpotX-CLI/ for PC use.  -(no 320kbps).
-    Use: https://xmanagerapp.com/ for android use.  -(no 320kbps). ⚠ Note: It seems the app is broken. Downloading the cracked spotify is just impossible now. Keep trying until you can.
+    Use: https://xmanagerapp.com/ for android use.  -(no 320kbps). ⚠ Note: It seems the app is broken. Downloading the modded binaries is impossible now. Something is wrong with their hosting.
 
 [MY ADVICE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/spoti)
 
