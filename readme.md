@@ -4,7 +4,7 @@
 
 [Reddit: RealPiracy](https://www.reddit.com/r/RealPiracy/comments/1alxtpv/landing_page_where_are_you/)
 
-Politics, real conspirations and geopolitics. Showing unpopular/censored views of events.The other side of the coin. No LGBT or wokes of any kind allowed. Heavy moderation. Not aligned with right or left.
+Politics, real conspirations, privacy and geopolitics. Showing unpopular/censored views of events.The other side of the coin. No LGBT or wokes of any kind allowed. Heavy moderation. Not aligned with right or left.
 
 <br>
 <br>
@@ -38,7 +38,7 @@ If you know a link, go to the "issues" section and post it with a brief descript
 + [3- Where do I download clean games?](#3--where-do-i-download-clean-games)
 + [4- I need advanced help on running a particular game / need to unlock/download-unlock DLCs on legit games for free.](#4--i-need-advanced-help-on-running-a-particular-game--need-to-unlockdownload-unlock-dlcs-on-legit-games-for-free)
 + [5- I need console game ROMS](#5--i-need-console-game-roms)
-+ [6- Need help on pirating my Switch.](#6--need-help-on-pirating-my-switch)
++ [6- Need help on 'modding' my Switch.](#6--need-help-on-modding-my-switch)
 + [7- Need advanced tools for my switch games.](#7--need-advanced-tools-for-my-switch-games)
 + [8- Need switch firmwares.](#8--need-switch-firmwares)
 + [9- Where do I get a show or movie?](#9--where-do-i-get-a-show-or-movie)
@@ -108,7 +108,7 @@ _________________
     Use: for Switch: https://nsw2u.org/ or https://nxbrew.com/ 
     Use: for PS3, PSV, PSP, PSX, PSM: https://nopaystation.com/browse
 
-### 6- Need help on pirating my Switch.
+### 6- Need help on 'modding' my Switch.
 
     Use: https://rentry.co/SwitchHackingIsEasy     -start here.
     Use: https://github.com/Atmosphere-NX/Atmosphere
