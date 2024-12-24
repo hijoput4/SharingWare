@@ -222,7 +222,7 @@ _________________
 
 ### 27- Where can I download and play Minecraft for free?
 
-    Use: https://github.com/rePublic-Studios/rPLauncher   ⚠ Note that I don't play mulplayer so I don't know if that is possible or not with these versions.
+    Use: https://github.com/rePublic-Studios/rPLauncher   ⚠ Note that I don't play multiplayer so I don't know if that is possible or not with these versions.
 
 ### 28- I need a working and unrestricted version of Macro Recorder
 
