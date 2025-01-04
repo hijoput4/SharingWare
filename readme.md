@@ -50,7 +50,7 @@ If you know a link, go to the "issues" section and post it with a brief descript
 + [15- Need to download a video or full playlist from youtube. (*Command line (CLI) app*)](#15--need-to-download-a-video-or-full-playlist-from-youtube-command-line-cli-app)
 + [16- Need to activate Windows/Office](#16--need-to-activate-windowsoffice)
 + [17- Where do I get Music files? (not streaming)](#17--where-do-i-get-music-files-not-streaming)
-+ [18- Where do I get ARLs for deemix? ♻ (DEEMIX v2 seems to work for now)](#18--where-do-i-get-arls-for-deemix--deemix-v2-seems-to-work-for-now)
++ [18- Where do I get ARLs for deemix? (DEEMIX v2 not working anymore? check on Lrepacks for new version with ARL)](#18--where-do-i-get-arls-for-deemix-deemix-v2-not-working-anymore-check-on-lrepacks-for-new-version-with-arl)
 + [19- How can I download spotify songs / playlists?](#19--how-can-i-download-spotify-songs--playlists)
 + [20- I have an old game and I wish to play it on a widescreen](#20-i-have-an-old-game-and-i-wish-to-play-it-on-a-widescreen)
 + [21- I have an old game but I just can't make it install or launch.](#21--i-have-an-old-game-but-i-just-cant-make-it-install-or-launch)
@@ -170,9 +170,11 @@ _________________
     Use: https://free-mp3-download.net/  (download individual files, supports FLAC)
     Use: https://lucida.to/  -"Spotify, Soundcloud, Qobuz, Deezer, Tidal, YouTube, or Napster downloader"  ⚠ the truth is that its an AI that searches youtube for your desired song and downloads it as audio. A weirdo anime-trans-woke-fanatic is running it.
     
-### 18- Where do I get ARLs for deemix? ♻ (DEEMIX v2 seems to work for now)
+### 18- Where do I get ARLs for deemix? (DEEMIX v2 not working anymore? check on Lrepacks for new version with ARL)
 
     Use: https://www.reddit.com/r/Sharingware/comments/1hgal3m/more_arls/
+    NOTE: Due to the instability due to deezer "fixing" the ARL exploit, this may or may not work anymore.
+    and I will not be updating this entry anymore unless a definitive fix is found.
     
 ### 19- How can I download spotify songs / playlists?
 
