@@ -11,7 +11,7 @@ Politics, real conspirations, privacy and geopolitics. Showing unpopular/censore
 
 [Reddit: CarbonCopyGaming](https://www.reddit.com/r/CarbonCopyGaming/comments/1gqd44i/landing_page/)
 
-A blog-dit about how the modern gaming industry has crumbled down in quality and big data is making us play the same games with different titles.
+A blog-dit about how the modern gaming industry has crumbled down in quality, excessive micromanagement, artificial difficulty, carbon copies, forced embedded ideologies (DEI), manipulative stores and big data are some of the things discussed here.
 
 <br>
 <br>
