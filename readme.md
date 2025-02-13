@@ -16,10 +16,10 @@ A blog-dit about how the modern gaming industry has crumbled down in quality, ex
 <br>
 <br>
 
-[Reddit: Sharingware](https://www.reddit.com/r/Sharingware/comments/1c804uv/landing_page/)
+[Reddit: sharingware](https://www.reddit.com/r/sharingware/comments/1c804uv/landing_page/)
 
 For your 🏴‍☠️ software needs.
-Decode encrypted URL's using [BASE64](https://www.reddit.com/r/Sharingware/comments/1hgas52/attention/)
+Decode encrypted URL's using [BASE64](https://www.reddit.com/r/sharingware/comments/1hgas52/attention/)
 
 <br>
 <br>
@@ -30,13 +30,13 @@ If you know a link, go to the "issues" section and post it with a brief descript
 
 --------------
 
-# This list is a FAL "Frequently Asked Links".
+# This list is a FAL "Frequently Asked Links" 2025.
 
 ### INDEX (CTRL+F to search for a word):
   + [1- Spotify has ads, how to remove them?](#1--spotify-has-ads-how-to-remove-them)
 + [2- Youtube + ad blocker + sponsorblock \(android & PC\)](#2--youtube--ad-blocker--sponsorblock-android--pc)
 + [3- Where do I download clean games?](#3--where-do-i-download-clean-games)
-+ [4- I need advanced help on running a particular game / need to unlock/download-unlock DLCs on legit games for free.](#4--i-need-advanced-help-on-running-a-particular-game--need-to-unlockdownload-unlock-dlcs-on-legit-games-for-free)
++ [4- Need to unlock DLCs on legit games or download Steam clean releases for manual cracking.](#4--need-to-unlock-dlcs-on-legit-games-or-download-steam-clean-releases-for-manual-cracking)
 + [5- I need console game ROMS](#5--i-need-console-game-roms)
 + [6- Need help on 'modding' my Switch.](#6--need-help-on-modding-my-switch)
 + [7- Need advanced tools for my switch games.](#7--need-advanced-tools-for-my-switch-games)
@@ -50,8 +50,8 @@ If you know a link, go to the "issues" section and post it with a brief descript
 + [15- Need to download a video or full playlist from youtube. (*Command line (CLI) app*)](#15--need-to-download-a-video-or-full-playlist-from-youtube-command-line-cli-app)
 + [16- Need to activate Windows/Office](#16--need-to-activate-windowsoffice)
 + [17- Where do I get Music files? (not streaming)](#17--where-do-i-get-music-files-not-streaming)
-+ [18- Where do I get ARLs for deemix? (DEEMIX v2 not working anymore? check on Lrepacks for new version with ARL)](#18--where-do-i-get-arls-for-deemix-deemix-v2-not-working-anymore-check-on-lrepacks-for-new-version-with-arl)
-+ [19- How can I download spotify songs / playlists?](#19--how-can-i-download-spotify-songs--playlists)
++ [18- Where do I get ARLs for deemix?](#18--where-do-i-get-arls-for-deemix)
++ [19- How can I download spotify songs in FLAC?](#19--how-can-i-download-spotify-songs-in-flac)
 + [20- I have an old game and I wish to play it on a widescreen](#20-i-have-an-old-game-and-i-wish-to-play-it-on-a-widescreen)
 + [21- I have an old game but I just can't make it install or launch.](#21--i-have-an-old-game-but-i-just-cant-make-it-install-or-launch)
 + [22- I want PC old games](#22--i-want-pc-old-games)
@@ -94,9 +94,13 @@ _________________
 
 [READ MORE ABOUT FITGIRL'S REPACKS](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/fitgirl)
 
-### 4- I need advanced help on running a particular game / need to unlock/download-unlock DLCs on legit games for free.
-
-    Use: https://cs.rin.ru/  -⚠🧂 be careful, abusive teenager moderators.
+### 4- Need to unlock DLCs on legit games or download Steam clean releases for manual cracking.
+    
+    ⚠🧂 be careful, abusive teenager moderators.
+    Use: https://cs.rin.ru/
+    This forum is not designed to help you. It is designed to share tools and "clean" (not cracked) games, so don't participate in it and instead learn.
+    
+    Use: https://github.com/SteamAutoCracks/Steam-auto-crack to "manually" crack the clean games downloaded from cs.rin.
 
 [READ MORE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/csrinru)
 
@@ -104,13 +108,15 @@ _________________
 ### 5- I need console game ROMS
 
     Use: https://r-roms.github.io/   (⚠ check the list on the right because the index doesn't mention NES,SNES and other consoles but ROMS are there)
-    Use: for Wii-U: https://github.com/Xpl0itU/WiiUDownloader
-    Use: for Switch: https://nsw2u.org/ or https://nxbrew.com/ 
-    Use: for PS3, PSV, PSP, PSX, PSM: https://nopaystation.com/browse
+    For Wii-U: https://github.com/Xpl0itU/WiiUDownloader
+    For Switch: https://nsw2u.org/ or https://nxbrew.com/ 
+    For PS3, PSV, PSP, PSX, PSM: https://nopaystation.com/browse
+    Use: https://archive.org/
 
 ### 6- Need help on 'modding' my Switch.
 
-    Use: https://rentry.co/SwitchHackingIsEasy     -start here.
+    (you shouldn't have bought the over expensive potato, but suit yourself)
+    Use: https://rentry.co/SwitchHackingIsEasy   -start here.
     Use: https://github.com/Atmosphere-NX/Atmosphere
     Use: https://github.com/HamletDuFromage/aio-switch-updater
 
@@ -126,7 +132,7 @@ _________________
 
 ### 9- Where do I get a show or movie?
 
-    Use: https://fmhy.net/videopiracyguide   -menu on the left has much more links for other piracy stuff.
+    Use: https://fmhy.net/videopiracyguide   -menu has much more links for other rather "light" piracy stuff.
 
 ### 10- Is it there an app for android TV that is like vanced?
 
@@ -134,7 +140,8 @@ _________________
 
 ### 11- Where can I download a specific program?
 
-    Use: https://filecr.com
+    (use a firewall for protection, we don't know who these guys are or how comes they haven't been taken down already)
+    Use: https://filecr.com 
     Use: https://lrepacks.ru
 
 ### 12- Need an app for android.
@@ -156,7 +163,7 @@ _________________
     Use https://github.com/yt-dlp/yt-dlp
     e.g. command (good for almost any site): 
     
-    yt-dlp.exe --restrict-filenames -o "C:\Users\YOUR_USERNAME\Downloads\%(title)s.%(ext)s" [https://YOUR_URL]
+    yt-dlp.exe --restrict-filenames -o "C:\Users\YOUR_USERNAME\Downloads\%(title)s.%(ext)s" [https://YOUTUBE_URL]
     Change the "YOUR_USERNAME" for your real username.
 
 ### 16- Need to activate Windows/Office
@@ -165,20 +172,24 @@ _________________
     
 ### 17- Where do I get Music files? (not streaming)
 
-    Use: https://rutracker.org/forum/index.php
-    Use: https://www.reddit.com/r/Sharingware/comments/1hgaxbf/fixed_deemix_v2_yes_again/ (.18) To get a new working ARL for deemix.
-    Use: https://free-mp3-download.net/  (download individual files, supports FLAC)
-    Use: https://lucida.to/  -"Spotify, Soundcloud, Qobuz, Deezer, Tidal, YouTube, or Napster downloader"  ⚠ the truth is that its an AI that searches youtube for your desired song and downloads it as audio. A weirdo anime-trans-woke-fanatic is running it.
+    Use: https://rutracker.org/forum/index.php  (torrents)
+    Use: https://www.reddit.com/r/sharingware/comments/1ieido0/a_web_alternative_to_deemix/  (FLAC or mp3, you choose)
     
-### 18- Where do I get ARLs for deemix? (DEEMIX v2 not working anymore? check on Lrepacks for new version with ARL)
+### 18- Where do I get ARLs for deemix?
 
-    Use: https://www.reddit.com/r/Sharingware/comments/1hgal3m/more_arls/
-    NOTE: Due to the instability due to deezer "fixing" the ARL exploit, this may or may not work anymore.
-    and I will not be updating this entry anymore unless a definitive fix is found.
+    ARL's are now banned in hours. Firehawk52 apparently abandoned its work and cannot get any more ARLs.
+    I'm sad to say that even if you get deemix working, it will do just for a couple of hours so I'm not 
+    updating this entry anymore. Instead use one of the more laborious alternatives below. 
+    I humbly recommend FLAC over mp3 to store music, because its noticeable increase in listening quality.
+        
+### 19- How can I download spotify songs in FLAC?
+
+    Use: https://www.reddit.com/r/sharingware/comments/1ieido0/a_web_alternative_to_deemix/
+    The catch here is to use https://www.qobuz.com/us-en/search/ to search your albums in qobuz and copy their URL.
+    Then paste them in yams.tf and download the album in FLAC. Yes, you are using qobuz instead of spotify, but 
+    in the end, if you find the artist and his/her songs there, its a win anyway since you can download in FLAC quality.
+    Playlists don't work, saddly.
     
-### 19- How can I download spotify songs / playlists?
-
-    Use: https://www.reddit.com/r/Sharingware/comments/1gdb5wo/alternative_to_deemix/
 
 ### 20-I have an old game and I wish to play it on a widescreen
 
@@ -228,8 +239,8 @@ _________________
 
 ### 28- I need a working and unrestricted version of Macro Recorder
 
-    Use: https://www.reddit.com/r/Sharingware/comments/1c7xy17/macro_recorder_3036_last_working_version/
+    Use: https://www.reddit.com/r/sharingware/comments/1c7xy17/macro_recorder_3036_last_working_version/
 
 ### 28- I need a working method to download spotify music
 
-    Use: https://www.reddit.com/r/Sharingware/comments/1h9mnel/download_songsplaylists_of_spotify_from_youtube/
+    Use: https://www.reddit.com/r/sharingware/comments/1h9mnel/download_songsplaylists_of_spotify_from_youtube/
