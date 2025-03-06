@@ -61,7 +61,8 @@ If you know a link, go to the "issues" section and post it with a brief descript
 + [26- Where can I download a Switch emulator?](#26--where-can-i-download-a-switch-emulator)
 + [27- Where can I download and play Minecraft for free?](#27--where-can-i-download-and-play-minecraft-for-free)
 + [28- I need a working and unrestricted version of Macro Recorder](#28--i-need-a-working-and-unrestricted-version-of-macro-recorder)
-+ [29- I need a working method to download spotify music](#28--i-need-a-working-method-to-download-spotify-music) 
++ [29- I need a working method to download spotify music](#29--i-need-a-working-method-to-download-spotify-music)
++ [30- Tampermonkey/Violentmonkey userscripts to browse STEAM/GOG](#30--tampermonkeyviolentmonkey-userscripts-to-browse-steamgog)
 
 
 
@@ -241,6 +242,25 @@ _________________
 
     Use: https://www.reddit.com/r/sharingware/comments/1c7xy17/macro_recorder_3036_last_working_version/
 
-### 28- I need a working method to download spotify music
+### 29- I need a working method to download spotify music
 
     Use: https://www.reddit.com/r/sharingware/comments/1h9mnel/download_songsplaylists_of_spotify_from_youtube/
+
+### 30- Tampermonkey/Violentmonkey userscripts to browse STEAM/GOG
+
+    1- "::Steam Links::" - Let's you easily search the games on clean DL sites, watch gameplays 
+without youtuber's comments and see if the game is woke-oriented. 
+https://greasyfork.org/en/scripts/460862-steam-links
+
+    2- "::GOG Links::" - Adds links for GOG store to gameplay videos without youtubers comments and direct search on Gog-games for free clean download.
+    https://greasyfork.org/en/scripts/489970-gog-links
+
+    3- "::GOG-Games Links::" - Adds a YouTube button per game card to search for no-commentary gameplay videos. It was made with deepseek AI.
+    https://greasyfork.org/en/scripts/528067-gog-games-links
+
+    4- "::YouTube Gameplay Skipper::" - Force skip 2 minutes for videos containing the words "gameplay", "longplay" or "no commentary" in the title.
+    https://greasyfork.org/en/scripts/528070-youtube-gameplay-skipper
+
+    5- "::Steam Search: Hide Games Under Minimum Price::" - Hides games that are under a minimum price (customizable)
+    https://greasyfork.org/en/scripts/528071-steam-search-hide-games-under-minimum-price
+
