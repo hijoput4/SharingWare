@@ -248,9 +248,8 @@ _________________
 
 ### 30- Tampermonkey/Violentmonkey userscripts to browse STEAM/GOG
 
-    1- "::Steam Links::" - Let's you easily search the games on clean DL sites, watch gameplays 
-without youtuber's comments and see if the game is woke-oriented. 
-https://greasyfork.org/en/scripts/460862-steam-links
+    1- "::Steam Links::" - Let's you easily search the games on clean DL sites, watch gameplays without youtuber's comments and see if the game is woke-oriented. 
+    https://greasyfork.org/en/scripts/460862-steam-links
 
     2- "::GOG Links::" - Adds links for GOG store to gameplay videos without youtubers comments and direct search on Gog-games for free clean download.
     https://greasyfork.org/en/scripts/489970-gog-links
