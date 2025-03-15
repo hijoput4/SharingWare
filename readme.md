@@ -186,6 +186,7 @@ _________________
 ### 19- How can I download spotify songs in FLAC?
 
     Use: https://www.reddit.com/r/sharingware/comments/1ieido0/a_web_alternative_to_deemix/
+    ATTENTION: YAMS.TF IS DOWN SINCE ONE WEEK.
     The catch here is to use https://www.qobuz.com/us-en/search/ to search your albums in qobuz and copy their URL.
     Then paste them in yams.tf and download the album in FLAC. Yes, you are using qobuz instead of spotify, but 
     in the end, if you find the artist and his/her songs there, its a win anyway since you can download in FLAC quality.
