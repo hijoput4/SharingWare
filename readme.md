@@ -51,7 +51,7 @@ If you know a link, go to the "issues" section and post it with a brief descript
 + [16- Need to activate Windows/Office](#16--need-to-activate-windowsoffice)
 + [17- Where do I get Music files? (not streaming)](#17--where-do-i-get-music-files-not-streaming)
 + [18- Where do I get ARLs for deemix?](#18--where-do-i-get-arls-for-deemix)
-+ [19- How can I download spotify songs in FLAC?](#19--how-can-i-download-spotify-songs-in-flac)
++ [19- How can I download music in FLAC?](#19--how-can-i-download-music-in-flac)
 + [20- I have an old game and I wish to play it on a widescreen](#20-i-have-an-old-game-and-i-wish-to-play-it-on-a-widescreen)
 + [21- I have an old game but I just can't make it install or launch.](#21--i-have-an-old-game-but-i-just-cant-make-it-install-or-launch)
 + [22- I want PC old games](#22--i-want-pc-old-games)
@@ -183,15 +183,11 @@ _________________
     updating this entry anymore. Instead use one of the more laborious alternatives below. 
     I humbly recommend FLAC over mp3 to store music, because its noticeable increase in listening quality.
         
-### 19- How can I download spotify songs in FLAC?
+### 19- How can I download music in FLAC?
 
-    Use: https://www.reddit.com/r/sharingware/comments/1ieido0/a_web_alternative_to_deemix/
-    ATTENTION: YAMS.TF IS DOWN SINCE ONE WEEK.
-    The catch here is to use https://www.qobuz.com/us-en/search/ to search your albums in qobuz and copy their URL.
-    Then paste them in yams.tf and download the album in FLAC. Yes, you are using qobuz instead of spotify, but 
-    in the end, if you find the artist and his/her songs there, its a win anyway since you can download in FLAC quality.
-    Playlists don't work, saddly.
-    
+    Use: https://rutracker.org/forum/index.php (TORRENTS)
+    Use: https://flacdownloader.com/  (NOTE: one song at a time downloader...)
+        
 
 ### 20-I have an old game and I wish to play it on a widescreen
 
