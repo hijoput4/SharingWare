@@ -83,7 +83,7 @@ _________________
 
 ### 3- Where do I download clean games?
        
-    Use: https://cs.rin.ru/     -clean steam files, must apply steam emu; latest downloads/versions and obscure steam games available
+    Use: https://cs.rin.ru/     -clean steam files, must apply steam emu; latest downloads/versions and obscure steam games available. This is the source for repacks 90% of the times.  
     Use: https://www.game-repack.site
     Use: http://dodi-repacks.site/
     Use: https://gog-games.to/   -or-  ONION (tor browser) http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/     -GOG games catalog. It was a good place, but recently got flooded with hentai games and visual novels, and no filter options 😕.
