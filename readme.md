@@ -173,36 +173,36 @@ _________________
     
 ### 17- Where do I get Music files? (not streaming)
 
-    Use: https://rutracker.org/forum/index.php  (torrents)
-    Use: https://www.reddit.com/r/sharingware/comments/1ieido0/a_web_alternative_to_deemix/  (FLAC or mp3, you choose)
+    Use: https://rutracker.org/forum/index.php  (TORRENTS)
+    Use: https://flacdownloader.com/ (per-track downloader)
     
 ### 18- Where do I get ARLs for deemix?
 
-    ARL's are now banned in hours. Firehawk52 apparently abandoned its work and cannot get any more ARLs.
+    ARL's are now banned in hours. Firehawk52 apparently abandoned its work and we cannot get any more ARLs.
     I'm sad to say that even if you get deemix working, it will do just for a couple of hours so I'm not 
     updating this entry anymore. Instead use one of the more laborious alternatives below. 
     I humbly recommend FLAC over mp3 to store music, because its noticeable increase in listening quality.
         
 ### 19- How can I download music in FLAC?
-
+    Yes, this are the same than above. This entry will update with new sites when I find them.
     Use: https://rutracker.org/forum/index.php (TORRENTS)
-    Use: https://flacdownloader.com/  (NOTE: one song at a time downloader...)
+    Use: https://flacdownloader.com/  (per-track downloader)
         
 
 ### 20-I have an old game and I wish to play it on a widescreen
 
-    Use: https://www.wsgf.org/
+    Use: https://www.wsgf.org/   (patches)
    
 ### 21- I have an old game but I just can't make it install or launch.
 
-    Use: https://github.com/otya128/winevdm
-    Use: https://sourceforge.net/projects/dxwnd/  (its a little confusing but it not only allows to run games in windowed mode but also solves some compatibility issues, check that site for specific cases and the included help files to know what options do)
+    Use: https://github.com/otya128/winevdm   (older windows components emulator to run old games natively on modern systems)
+    Use: https://sourceforge.net/projects/dxwnd/  (allows to run games in windowed mode, solves some compatibility issues, has a lot of presets. The included offline help files are very explainative)
     
 ### 22- I want PC old games
 
     Use: https://archive.org/search?query=abandonware   -Use the search bar for specific games.
-    Use: https://www.old-games.ru/catalog/  (you will probably need a translation extension because its in Russian)
-    Use: https://www.magipack.games/
+    Use: https://www.old-games.ru/catalog/  (one of the best, if not the best)
+    Use: https://www.magipack.games/   (abandonware repacks)
     
 ### 23- I need disposable email addresses
 
@@ -224,11 +224,11 @@ _________________
 
     ⚠ Yuzu has been taken down.
     ⚠ Ryujinx has been taken down.
-    Use: https://suyu.dev/  (Yuzu continuation/Slow-dead development)
+    Use: https://suyu.dev/  (Dubious Yuzu continuation)
     Use: https://github.com/GreemDev/Ryujinx   (Ryujinx continuation)
-    Use: https://www.reddit.com/r/torzu/  (Yuzu continuation/hosted on TOR network mostly)
+    Use: https://www.reddit.com/r/torzu/  (Dubious Yuzu continuation/hosted on TOR network mostly)
     
-    You will also need product keys for it to work (tutorial included): https://theprodkeys.com/latest-yuzu-prod-keys/
+    You will also need product keys for them to work (tutorial included): https://theprodkeys.com/latest-yuzu-prod-keys/
     Want to mod your Switch games? (useful for changing UI input to Xbox or PS controller): https://gamebanana.com/search?_sOrder=best_match&_sSearchString=controller&_idGameRow=7617
 
 ### 27- Where can I download and play Minecraft for free?
@@ -238,6 +238,7 @@ _________________
 ### 28- I need a working and unrestricted version of Macro Recorder
 
     Use: https://www.reddit.com/r/sharingware/comments/1c7xy17/macro_recorder_3036_last_working_version/
+    This could be called "an exclusive".
 
 ### 29- I need a working method to download spotify music
 
@@ -251,7 +252,7 @@ _________________
     2- "::GOG Links::" - Adds links for GOG store to gameplay videos without youtubers comments and direct search on Gog-games for free clean download.
     https://greasyfork.org/en/scripts/489970-gog-links
 
-    3- "::GOG-Games Links::" - Adds a YouTube button per game card to search for no-commentary gameplay videos. It was made with deepseek AI.
+    3- "::GOG-Games Links::" - Adds a YouTube button per game card to search for no-commentary gameplay videos. 
     https://greasyfork.org/en/scripts/528067-gog-games-links
 
     4- "::YouTube Gameplay Skipper::" - Force skip 2 minutes for videos containing the words "gameplay", "longplay" or "no commentary" in the title.
