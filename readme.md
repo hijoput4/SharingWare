@@ -63,6 +63,9 @@ If you know a link, go to the "issues" section and post it with a brief descript
 + [28- I need a working and unrestricted version of Macro Recorder](#28--i-need-a-working-and-unrestricted-version-of-macro-recorder)
 + [29- I need a working method to download spotify music](#29--i-need-a-working-method-to-download-spotify-music)
 + [30- Tampermonkey/Violentmonkey userscripts to browse STEAM/GOG](#30--tampermonkeyviolentmonkey-userscripts-to-browse-steamgog)
++ [31- I want to learn how to search on google or google proxies](#31--i-want-to-learn-how-to-search-on-google-or-google-proxies)
+
+
 
 
 
@@ -260,4 +263,8 @@ _________________
 
     5- "::Steam Search: Hide Games Under Minimum Price::" - Hides games that are under a minimum price (customizable)
     https://greasyfork.org/en/scripts/528071-steam-search-hide-games-under-minimum-price
+
+### 31- I want to learn how to search on google or google proxies
+
+    Use: https://quickref.me/google-search.html
 
