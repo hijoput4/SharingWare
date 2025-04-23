@@ -64,6 +64,9 @@ If you know a link, go to the "issues" section and post it with a brief descript
 + [29- I need a working method to download spotify music](#29--i-need-a-working-method-to-download-spotify-music)
 + [30- Tampermonkey/Violentmonkey userscripts to browse STEAM/GOG](#30--tampermonkeyviolentmonkey-userscripts-to-browse-steamgog)
 + [31- I want to learn how to search on google or google proxies](#31--i-want-to-learn-how-to-search-on-google-or-google-proxies)
++ [32- Is there an app to do 2FA without using my phone?](#32--is-there-an-app-to-do-2fa-without-using-my-phone)
+
+
 
 
 
@@ -268,3 +271,6 @@ _________________
 
     Use: https://quickref.me/google-search.html
 
+### 32- Is there an app to do 2FA without using my phone?
+
+    Use: https://github.com/timokoessler/2FAGuard      open source 2 factor authenticator.
