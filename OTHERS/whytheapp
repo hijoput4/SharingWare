@@ -8,8 +8,7 @@ with certain packages that are not always easy to find etc etc.
 3- Inside firefox go to [...] (tree dots menu) -> Extensions. At bottom, "search for more" -> Choose Ublock Origin,
    install it, then repeat for sponsorblock and any other extension you might want to personalize youtube on firefox.
 4- Configure the extensions if you want or use the defaults, they work.
-5- Use youtube from firefox like any other webpage but enjoy no ads and sponsorblock.
-6- You can also create a "desktop shortcut" that will work as if you were opening the youtube app: 
+5- You can also create a "desktop shortcut" that will work as if you were opening the youtube app: 
    [...] (tree dots menu) -> Add to Home Screen
 
 
@@ -18,4 +17,4 @@ That's it. Enjoy youtube with all features and no complications.
 
 
 
-PRO TIP: ...and you can even play with userscripts with violentmonkey.
+PRO TIP: ...and you can even play with userscripts with violentmonkey to truly personalize your experience.
