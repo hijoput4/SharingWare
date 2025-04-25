@@ -87,6 +87,9 @@ _________________
     Use: https://github.com/revanced/                         -for android.
     Use: Firefox. Get extensions: https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search  &  https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search  -for PC
 
+[READ MORE: Why are you still using propietary Youtube app?](XXXXXXX)
+
+
 ### 3- Where do I download clean games?
        
     Use: https://cs.rin.ru/     -clean steam files, must apply steam emu; latest downloads/versions and obscure steam games available. This is the source for repacks 90% of the times.  
