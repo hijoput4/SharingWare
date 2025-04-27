@@ -255,20 +255,7 @@ _________________
 
 ### 30- Tampermonkey/Violentmonkey userscripts to browse STEAM/GOG
 
-    1- "::Steam Links::" - Let's you easily search the games on clean DL sites, watch gameplays without youtuber's comments and see if the game is woke-oriented. 
-    https://greasyfork.org/en/scripts/460862-steam-links
-
-    2- "::GOG Links::" - Adds links for GOG store to gameplay videos without youtubers comments and direct search on Gog-games for free clean download.
-    https://greasyfork.org/en/scripts/489970-gog-links
-
-    3- "::GOG-Games Links::" - Adds a YouTube button per game card to search for no-commentary gameplay videos. 
-    https://greasyfork.org/en/scripts/528067-gog-games-links
-
-    4- "::YouTube Gameplay Skipper::" - Force skip 2 minutes for videos containing the words "gameplay", "longplay" or "no commentary" in the title.
-    https://greasyfork.org/en/scripts/528070-youtube-gameplay-skipper
-
-    5- "::Steam Search: Hide Games Under Minimum Price::" - Hides games that are under a minimum price (customizable)
-    https://greasyfork.org/en/scripts/528071-steam-search-hide-games-under-minimum-price
+     Use: https://github.com/masterofobzene/UserScriptRepo
 
 ### 31- I want to learn how to search on google or google proxies
 
