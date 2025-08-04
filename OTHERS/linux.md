@@ -1,0 +1,91 @@
+### Lack of software:
+Turns out, that there is no software for linux. Yep, as you read it. Fanboys are spreading the lie that there are tons 
+of softwares to choose from since years, but its a lie. You are restrained to a repository (for your distro) and outside it 
+lies the danger of breaking the system. Programs that overwrite system files and conflicts of dependencies that are not 
+called DLL's but are in a practical way, DLL's.
+
+### BAD software:
+Continuing with the above fact, there is the other issue: almost all software is being done by hobbists or amateurs.
+You are in github, you know that amateur software can be pretty good sometimes, but my personal experience is that for linux
+it is not. Things are horrendously designed, not to be used by common people but the developer himself; meaning simple QoL 
+is not even on the table. Some software barely works, like "input mapper", that software works if you are lucky. 
+
+### No alternatives:
+There are no real alternatives for windows software. The alternatives are not up to even being called like that.
+I'm surprised that linux nerds, being the sophisticated they are, cannot make a (((real))) mspaint clone to this day.
+That brings us to Clones. Bad, horrible looking with scarce options, clones. The alternatives are not there so 
+don't think you can do the same that you do in Windows. GIMP my ass.
+
+### Unstability:
+You reboot linux, and you don't know what will break at boot next time. Could be desktop apps not finding files anymore,
+could be your GPU drivers being replaced by the default driver for no apparent reason, could be drivers updated and not 
+working again, could be system updates breaking the system. Worked all day to make a feature work, only to find out
+after a reboot, it doesn't work anymore. 
+
+### Forced reboots:
+Continuing the above fact, you will face hard-reboot situations very often. Windows did not suffer from this since windows
+7 at least. If you use wine (of course you do!!!🤣) you will face black screens with deadend situations that will not 
+let you retake control of the computer. 
+
+### Software to say "goodbye" to:
+- Photoshop. You can run it in wine, but it runs like ass and cannot use video acceleration, and newer versions don't work.
+- Foobar2000. Works under wine, but if it is closed unexpectedly, it corrupts its databases so you must reset it. And I mean for example a normal shutdown while the app is still open will corrupt it.
+- Paint.NET. No way of making it install or work.
+- Docks (general). There is only one working dock in linux and its called "plank". It is so simple that its almost useless.
+- Playnite. Doesn't run, dev says he will someday make a linux version.
+- Bitlocker. This one is obvious, but it does not work under linux so BE CAREFUL when planning a migration.
+- Icue - GHUB - peripherial software. If you bought a programable mouse and keyboard, bad news. "CKB-next" did a good job with their clone though.
+- Macrorecorder. Particulary famous in this place.
+- many more.
+
+### Ridiculous simple things become impossible:
+Want to change your gamer mouse polling rate? call Torvalds himself to do it for you.
+In linux there is no such thing as "simple". There is no dragging slider and persistent settings. No.
+There is the terminal, arbitrary impossible-to-remember commands + arguments and lots of time to be lost 
+trying to make the most simple stuff happen. And to make things funnier, the system will remind you that you
+don't have permissions for anything other than moving files in your home directory and put red banners when
+you use root. Psst!.. a system that can be broken so easily because of having root permissions is not what I 
+call "robust"... reminds me of Windows 95 when you delete your system32 folder (and you can).
+
+### The community is very arrogant and fanatic:
+Do as they say or "@$#k you!". Do not dare to say linux is not at par with Windows. Preachers everywhere (the reason for this text).
+Lies, all lies about the goodness of linux. Seasoned with "cool nerd guy" stereotype phrases and jokes.
+"Simple" is in their mouth, trying to portray linux as very simple and easy. It is, if you only use 
+spotify, instagram and steam. Fanboys insulting. Go to the "linux mint" forums and check a couple of posts there; most
+answers only give shitty alternatives because what you want to do is always "invalid" and you have to do as they say.
+Basicaly they will tell you what you want to do. And they quickly get offended. Yeah, very "libre".
+
+### Everything becomes a rabbit hole:
+You start with a simple thing to do, and soon you realize all the day has passed and you still can't do the simple thing.
+Very contradictory with the legends that linux preachers talk about on reddit, where everything is simpler and better.
+
+### Loss of control:
+This controversial, but it is true until you become one with linux. The problem is that linux is not privacy friendly as you
+may have been sold. You see, if you install the "simplewall" clone (app firewall), which is "opensnitch", you will soon realize
+very strange behaviours of the system. Not only because the calculator app shipped in linux mint connects to the IMF site when launching
+it (yes, the International Monetary Fund), but because restricting network to apps can kill your system. Why? I don't know the 
+technical details, but if you block networking to a system app, you may not boot your system again. Go figure. And here is the real
+thing: funny enough, Windows is far more easier to restrict. In linux there the apps want to connect to localhost always, go figure why (loalhost
+is your own pc, or 127.0.0.1). Some people say that it is because linux resolves dns names before sending the requests, but I had
+apps that are not supposed to even go to internet send requests to localhost. And if you deny it, they break.
+
+### Wine / Proton are a cancer and a blessing:
+They do enable Windows software to run ...mostly... but they are quirky and configuring each app takes at least 1GB space for
+its profiles (called prefixes for some reason). So if you want to run a windows app that weights 1mb, and you need a 1GB prefix for it.
+Prefixes are not mandatory, you could install and run all your wine apps (-no you can't-) in one prefix, but when one fails, or the 
+prefix gets corrupted (very common) you lose everything for ALL apps installed there, including savegames for the case of games.
+
+### A system that requires emulation to run other OS software is a bad start point:
+As said in the first point, there is no software for linux. The available is in 80% bad, not working, restricted in some way or 
+crashes enough to want to avoid it. You will need to run wine. And it is a pain in the ass. Most of it requires long lines of text in the
+terminal. It requires a lot of time and investigation for each app or game. It requires patience, time and work. And as point 4 here
+says: everything could crumble the next update.
+
+### Nvidia drivers don't work well:
+Problems with screen tearing are a default. Enabling "force desktop composition pipeline" is a suicide: it puts your GPU on a constant
+%20~30% use on "idle". Then the quirks; the cuda versions being overwriten and not working scripts come up and we wonder what the 
+fu%@ happened. Well, point 4 is a constant.
+
+
+
+
