@@ -60,7 +60,7 @@ You start with a simple thing to do, and soon you realize all the day has passed
 Very contradictory with the legends that linux preachers talk about on reddit, where everything is simpler and better.
 
 ### Loss of control:
-This controversial, but it is true until you become one with linux. The problem is that linux is not privacy friendly as you
+This is controversial, but it is true until you become one with linux. The problem is that linux is not privacy friendly as you
 may have been sold. You see, if you install the "simplewall" clone (app firewall), which is "opensnitch", you will soon realize
 very strange behaviours of the system. Not only because the calculator app shipped in linux mint connects to the IMF site when launching
 it (yes, the International Monetary Fund), but because restricting network to apps can kill your system. Why? I don't know the 
