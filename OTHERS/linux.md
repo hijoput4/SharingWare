@@ -71,7 +71,7 @@ apps that are not supposed to even go to internet send requests to localhost. An
 
 ### Wine / Proton are a cancer and a blessing:
 They do enable Windows software to run ...mostly... but they are quirky and configuring each app takes at least 1GB space for
-its profiles (called prefixes for some reason). So if you want to run a windows app that weights 1mb, and you need a 1GB prefix for it.
+its profiles (called prefixes for some reason). So if you want to run a windows app that weights 1mb, you need a 1GB prefix for it.
 Prefixes are not mandatory, you could install and run all your wine apps (-no you can't-) in one prefix, but when one fails, or the 
 prefix gets corrupted (very common) you lose everything for ALL apps installed there, including savegames for the case of games.
 
