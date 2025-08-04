@@ -8,7 +8,7 @@ called DLL's but are in a practical way, DLL's.
 Continuing with the above fact, there is the other issue: almost all software is being done by hobbists or amateurs.
 You are in github, you know that amateur software can be pretty good sometimes, but my personal experience is that for linux
 it is not. Things are horrendously designed, not to be used by common people but the developer himself; meaning simple QoL 
-is not even on the table. Some software barely works, like "input mapper", that software works if you are lucky. 
+is not even on the table. Some software barely works, like "input mapper" or "cairo dock", software that works if you are lucky. 
 
 ### No alternatives:
 There are no real alternatives for windows software. The alternatives are not up to even being called like that.
