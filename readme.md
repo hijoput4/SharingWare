@@ -1,4 +1,5 @@
 [📵Why you should NOT use your smartphone if you have access to a PC or laptop.](https://youtu.be/VFns39RXPrU)
+
 [Thinking on migrating to linux?🛑](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/linux.md)
 
 <br>
