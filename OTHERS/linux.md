@@ -36,6 +36,7 @@ let you retake control of the computer.
 - Bitlocker. This one is obvious, but it does not work under linux so BE CAREFUL when planning a migration.
 - Icue - GHUB - peripherial software. If you bought a programable mouse and keyboard, bad news. "CKB-next" did a good job with their clone though.
 - Macrorecorder. Particulary famous in this place.
+- IDM (internet download manager) there is no real alternative, the clones have half the features and there is no "download video button in the web browser to do it)
 - many more.
 
 ### Ridiculous simple things become impossible:
