@@ -65,7 +65,7 @@ may have been sold. You see, if you install the "simplewall" clone (app firewall
 very strange behaviours of the system. Not only because the calculator app shipped in linux mint connects to the IMF site when launching
 it (yes, the International Monetary Fund), but because restricting network to apps can kill your system. Why? I don't know the 
 technical details, but if you block networking to a system app, you may not boot your system again. Go figure. And here is the real
-thing: funny enough, Windows is far more easier to restrict. In linux there the apps want to connect to localhost always, go figure why (loalhost
+thing: funny enough, Windows is far more easier to restrict. In linux the apps want to connect to localhost always, go figure why (loalhost
 is your own pc, or 127.0.0.1). Some people say that it is because linux resolves dns names before sending the requests, but I had
 apps that are not supposed to even go to internet send requests to localhost. And if you deny it, they break.
 
