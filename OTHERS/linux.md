@@ -86,6 +86,9 @@ Problems with screen tearing are a default. Enabling "force desktop composition 
 %20~30% use on "idle". Then the quirks; the cuda versions being overwriten and not working scripts come up and we wonder what the 
 fu%@ happened. Well, point 4 is a constant.
 
-
+### Irony/installing a narrative:
+Turns out, most of the linux preachers (do not confuse with people just using linux that are objective) are mostly very simple users. They are happy with steam,spotify and access to instagram and discord. That's all for them. That is why they 
+are so happy with linux and that's why they say everything in linux "is so simple" because THEY are very basic users. After all these years, linux fanboys laughted at windows users for being "dumb" or "basic" that "cannot open a terminal" and it 
+turns out they are so short-minded that they encircled themselves in linux walls and try to defend their position at all costs even when they know windows is way more mature, stable and has way much more software available.
 
 
