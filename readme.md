@@ -14,7 +14,7 @@ Politics, real conspirations, privacy and geopolitics. Showing unpopular/censore
 
 [Reddit: CarbonCopyGaming](https://www.reddit.com/r/CarbonCopyGaming/comments/1gqd44i/landing_page/)
 
-A blog-dit about how the modern gaming industry has crumbled down in quality, excessive micromanagement, artificial difficulty, carbon copies, forced embedded ideologies (DEI), manipulative stores, trash indie games and big data are some of the things discussed here.
+A blog-dit about how the modern gaming industry has crumbled down in quality, excessive micromanagement, artificial difficulty, carbon copies, forced embedded ideologies (DEI), manipulative stores, trash indie games and big data are some of the things discussed here. Links to 'try' games are shared too.
 
 <br>
 <br>
