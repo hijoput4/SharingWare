@@ -268,6 +268,7 @@ _________________
 ### 32- Is there an app to do 2FA without using my phone?
 
     Use: https://github.com/timokoessler/2FAGuard      open source 2 factor authenticator.
+    Use: https://gitlab.gnome.org/World/Authenticator      open source LINUX 2 factor authenticator.
 
 ### 33- Where can I get native linux versions of mainstream games?
 
