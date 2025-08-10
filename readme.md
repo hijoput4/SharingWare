@@ -68,6 +68,7 @@ If you know a link, go to the "issues" section and post it with a brief descript
 + [30- Tampermonkey/Violentmonkey userscripts to browse STEAM/GOG](#30--tampermonkeyviolentmonkey-userscripts-to-browse-steamgog)
 + [31- I want to learn how to search on google or google proxies](#31--i-want-to-learn-how-to-search-on-google-or-google-proxies)
 + [32- Is there an app to do 2FA without using my phone?](#32--is-there-an-app-to-do-2fa-without-using-my-phone)
++ [33- Where can I get native linux versions of mainstream games?](#33--where-can-i-get-native-linux-versions-of-mainstream-games)
 
 
 
@@ -267,3 +268,8 @@ _________________
 ### 32- Is there an app to do 2FA without using my phone?
 
     Use: https://github.com/timokoessler/2FAGuard      open source 2 factor authenticator.
+
+### 33- Where can I get native linux versions of mainstream games?
+
+    Use: https://archive.org/details/native-linux-games-collection   ⚠️ you will need to create an account at archive.org to see the contents.
+    Use: https://forum.torrminatorr.com/viewforum.php?f=19  ⚠️ you will need to create an account at Torrminatorr to see the contents.
