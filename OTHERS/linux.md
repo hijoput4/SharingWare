@@ -1,3 +1,17 @@
+# LINUX IS SHIT in the state it is (and I don't have hopes for it to become better at this point). 
+Not because I'm a brand fan of windows, not because I "love capitalism", not because I simply hate it because I use other OS...
+Linux is objectively bad, its community is bad and there is no QoL in the design, it is an OS for hobbists that want
+to spend immense quantities of time in fixing what should already be working. Linux is bad, its file system architecture is a mess, programs are all fragmented in system folders, good luck doing a backup, you have to triple check if a piece of hardware is compatible or not WITH EACH DISTRO, it is completely unstable, the dev community is as asshole-ish as in windows githubs trying to discourage issues by setting insuferable templates to be filled even for small stupid bugs, everyone is whining about poor linux users not having software but they don't move a finger to make it, the blame is always some ideologistic stupid story about devs not being paid. Also they hate wine even if they use it all the time because they don't have software. 
+
+DO NOT MIGRATE if you are on Windows, no matter how bad the privacy thing gets, you can tame it with simplewall and other tricks, in linux this also happens and you cannot control it. Do not fall for preachers in reddit, do not believe them, linux is VERY LIMITED to the point of making a power user of Windows, want to go back desperately. 
+
+I've lost all. I'm trying to figure out how to re-migrate back to windows 10. I have encrypted data, a lot. I need to reformat all my HDDs to NTFS again. We are talking about Terabytes of info.
+
+If you are a casual pc user and have crappy hardware, you may want to try linux. If you don't expect much of it, it works like an android phone. 
+
+__If you are a power user, DO NOT, and believe me, DO NOT, migrate to linux as it is a cage with good marketing.__ This sounds as ironic as the fact that I'm writing from a machine with linux right now. Leave the hype to noobs.
+
+
 ### Lack of software:
 Turns out, that there is no software for linux. Yep, as you read it. Fanboys are spreading the lie that there are tons 
 of softwares to choose from since years, but its a lie. You are restrained to a repository (for your distro) and outside it 
@@ -29,6 +43,7 @@ let you retake control of the computer.
 
 ### Software to say "goodbye" to:
 - Photoshop. You can run it in wine, but it runs like ass and cannot use video acceleration, and newer versions don't work.
+- Topaz labs software. It doesn't run even on wine.
 - Foobar2000. Works under wine, but if it is closed unexpectedly, it corrupts its databases so you must reset it. And I mean for example a normal shutdown while the app is still open will corrupt it.
 - Paint.NET. No way of making it install or work.
 - Docks (general). There is only one working dock in linux and its called "plank". It is so simple that its almost useless.
@@ -37,7 +52,9 @@ let you retake control of the computer.
 - Icue - GHUB - peripherial software. If you bought a programable mouse and keyboard, bad news. "CKB-next" did a good job with their clone though.
 - Macrorecorder. Particulary famous in this place.
 - IDM (internet download manager) there is no real alternative, the clones have half the features and it doesn't download videos, also the clones struggle to intercept downloads.
+- Teracopy (no alternatives that integrate with the os)
 - many more.
+
 
 ### Ridiculous simple things become impossible:
 Want to change your gamer mouse polling rate? call Torvalds himself to do it for you.
@@ -95,3 +112,27 @@ turns out they are so short-minded that they encircled themselves in linux walls
 ### A toxic community of trolls and whiners.
 They are anchored on the idea of "somebody is the cultprit, but we are not". Everything that fails in linux, is somebody else's culprit. The lack of native software available for this platform, is the result of linux users thinking capitalism is the cause of developers not doing anything, they blame everything but themselves. You can imagine that this will go on forever with that excuse, right?. They all rest on wine to be able to run more or less decent software (made for Windows) but then they spit on wine because "it has bugs". Really, they hate it. These people are weird. If it wasn't for wine, Linux would be long forgotten.
 Don't dare to point out that linux has a complete lack of software or anything like that (in fact, any criticism), because they will tell you the same story: "its because people do what they can if they are not being paid". EXACTLY... that is the issue, nobody moves his/her ass to develop software; but then they say Linux is the best option. Be careful with these liars.
+
+### Things I've personally 'lost' after migrating:
+- Topaz software.
+- All games have problems with screen tearing and activating vsync makes it WORSE.
+- No more Teracopy. All linux copy programs are utter shit. None of them can replace the default copy command unlike in Windows. I got corrupted files by using the default copy.
+- Profiles for my mouse (logitech g604), linux has piper which is a piece of useless software. No more profiles for different games, since this crap can only manage internal memory and it does it wrong most of the times.
+- Photoshop, using an old portable in which the menues get glitched.
+- Paint.net. No graphics alternatives, they are the worst software that I've seen in a loooong time in general.
+- Foobar2000 can't use multimedia keyboard keys, because wine doesn't support that. If it crashes, you have to delete its databases and start over with configs. See above ("crash" may be a normal system shutdown while its open)
+- Everything in general is a mess; customization requires stupid amounts of time and its very limited. Changing normal settings is a pain in the ass because things break on the next restart. Simple stuff is horribly complicated in linux.
+- Full of GUI glitches and freezes.
+- Lost HDD space due to wine prefixes (70GB)
+- Software library: there is simply no good software out there, while in windows I could just dive github and it was really easy. __WINDOWS HAS MORE FOSS SOFTWARE THAN LINUX!!!!__
+- To upgrade MPV player you need to make a course and it has dependency conflicts.
+- No more "simplewall".
+- No more "clowd" for video and image screenshots.
+- Unstability, the system is very prone to fail.
+- Root operations make your life miserable, requiring extra steps and time lost.
+- By default linux will make your boot times increase by the minutes if you use network drives or shares. This is because the dumb OS waits until the network is reachable before booting up. AGAIN, BY DEFAULT.
+
+
+# IN THE END, IF YOU INSTALL LINUX, YOU ARE JUST INSTALLING A LAUNCHER FOR THE WINDOWS APPS (THAT WORK) BECAUSE IT DOESN'T HAVE PROPER NATIVE SOFTWARE. 
+LINUX IS PRONE TO DISSAPEAR IN THE FAR FUTURE AS WINDOWS IS ALREADY INTEGRATING WITH IT AND THE USERBASE IS SIMPLY NOT MOVING THEIR ASSES TO FIX IT AND ARE INSTEAD RELYING ON WINE FOR EVERYTHING WHILE THEY SOMEHOW HATE IT.
+
