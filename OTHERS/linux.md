@@ -118,7 +118,7 @@ Don't dare to point out that linux has a complete lack of software or anything l
 - All games have problems with screen tearing and activating vsync makes it WORSE.
 - No more Teracopy. All linux copy programs are utter shit. None of them can replace the default copy command unlike in Windows. I got corrupted files by using the default copy.
 - Profiles for my mouse (logitech g604), linux has piper which is a piece of useless software. No more profiles for different games, since this crap can only manage internal memory and it does it wrong most of the times.
-- Photoshop, using an old portable in which the menues get glitched.
+- Photoshop, using an old portable in which the menus get glitched.
 - Paint.net. No graphics alternatives, they are the worst software that I've seen in a loooong time in general.
 - Foobar2000 can't use multimedia keyboard keys, because wine doesn't support that. If it crashes, you have to delete its databases and start over with configs. See above ("crash" may be a normal system shutdown while its open)
 - Everything in general is a mess; customization requires stupid amounts of time and its very limited. Changing normal settings is a pain in the ass because things break on the next restart. Simple stuff is horribly complicated in linux.
