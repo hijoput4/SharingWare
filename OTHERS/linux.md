@@ -125,7 +125,7 @@ Don't dare to point out that linux has a complete lack of software or anything l
 - Full of GUI glitches and freezes.
 - Lost HDD space due to wine prefixes (70GB)
 - Software library: there is simply no good software out there, while in windows I could just dive github and it was really easy. __WINDOWS HAS MORE FOSS SOFTWARE THAN LINUX!!!!__
-- To upgrade MPV player you need to make a course and it has dependency conflicts.
+- To upgrade MPV player you need to take a course and it has dependency conflicts.
 - No more "simplewall".
 - No more "clowd" for video and image screenshots.
 - Unstability, the system is very prone to fail.
