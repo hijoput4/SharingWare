@@ -129,7 +129,7 @@ Don't dare to point out that linux has a complete lack of software or anything l
 - No more "simplewall".
 - No more "clowd" for video and image screenshots.
 - Unstability, the system is very prone to fail.
-- Root operations make your life miserable, requiring extra steps and time lost.
+- Root operations make your life miserable, requering extra steps and time lost.
 - By default linux will make your boot times increase by the minutes if you use network drives or shares. This is because the dumb OS waits until the network is reachable before booting up. AGAIN, BY DEFAULT.
 
 
