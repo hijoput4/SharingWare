@@ -80,7 +80,7 @@ Very contradictory with the legends that linux preachers talk about on reddit, w
 ### Loss of control:
 This is controversial, but it is true until you become one with linux. The problem is that linux is not privacy friendly as you
 may have been sold. You see, if you install the "simplewall" clone (app firewall), which is "opensnitch", you will soon realize
-very strange behaviours of the system. Not only because the calculator app shipped in linux mint connects to the IMF site when launching
+very strange behaviors of the system. Not only because the calculator app shipped in linux mint connects to the IMF site when launching
 it (yes, the International Monetary Fund), but because restricting network to apps can kill your system. Why? I don't know the 
 technical details, but if you block networking to a system app, you may not boot your system again. Go figure. And here is the real
 thing: funny enough, Windows is far more easier to restrict. In linux the apps want to connect to localhost always, go figure why (loalhost
