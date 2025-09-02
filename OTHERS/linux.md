@@ -132,7 +132,14 @@ Don't dare to point out that linux has a complete lack of software or anything l
 - Root operations make your life miserable, requering extra steps and time lost.
 - By default linux will make your boot times increase by the minutes if you use network drives or shares. This is because the dumb OS waits until the network is reachable before booting up. AGAIN, BY DEFAULT.
 
+### NEW VERSION! or new version?!:
+[Take a look at the changelog and tell me if its not a joke](https://www.linuxmint.com/rel_zara_whatsnew.php)
+Seriously? new version? they added a fingerprint reader app that could be installed from anywhere if you wanted, made sticky notes clone have rounded corners and check this; they added "a little bit of blue to the UI to make it look more metallic"- this is not a joke its in the changelog. The OS is the most basic OS you will get, prone to breaking and these fellas are arguing between each other if they put a little touch of blue to the grey UI. 
+If this didn't convince you, I can only say "I warned you".
+
+
 
 # IN THE END, IF YOU INSTALL LINUX, YOU ARE JUST INSTALLING A LAUNCHER FOR THE WINDOWS APPS (THAT WORK) BECAUSE IT DOESN'T HAVE PROPER NATIVE SOFTWARE. 
 LINUX IS PRONE TO DISSAPEAR IN THE FAR FUTURE AS WINDOWS IS ALREADY INTEGRATING WITH IT AND THE USERBASE IS SIMPLY NOT MOVING THEIR ASSES TO FIX IT AND ARE INSTEAD RELYING ON WINE FOR EVERYTHING WHILE THEY SOMEHOW HATE IT.
+
 
