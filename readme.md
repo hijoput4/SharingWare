@@ -123,7 +123,7 @@ _________________
 
     Use: https://r-roms.github.io/   (⚠ check the list on the right because the index doesn't mention NES,SNES and other consoles but ROMS are there)
     For Wii-U: https://github.com/Xpl0itU/WiiUDownloader
-    For Switch: https://rutracker.org/forum/index.php
+    For Switch: https://nxbrew.net/
     For PS3, PSV, PSP, PSX, PSM: https://nopaystation.com/browse
     Use: https://archive.org/
 
