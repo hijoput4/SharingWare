@@ -256,6 +256,7 @@ _________________
 ### 29- I need a working method to download spotify music
 
     Use: https://www.reddit.com/r/sharingware/comments/1h9mnel/download_songsplaylists_of_spotify_from_youtube/
+    Use: https://www.reddit.com/r/Sharingware/comments/1nyt3o6/spotify_downloader/
 
 ### 30- Tampermonkey/Violentmonkey userscripts to browse STEAM/GOG
 
