@@ -80,8 +80,8 @@ _________________
 
 ### 1- Spotify has ads, how to remove them?
 
-    Use: https://github.com/SpotX-CLI/ for PC use.  -(no 320kbps).
-    Use: https://xmanagerapp.com/ for android use.  -(no 320kbps). ⚠ Note: It seems the app is broken. Downloading the modded binaries is impossible now. Something is wrong with their hosting.
+    Use: https://github.com/SpotX-CLI/ for PC use.  -(no 320kbps). This one still seems to work.
+    Use: https://xmanagerapp.com/ for android use.  -(no 320kbps). ⚠ Note: It seems Spotify changed things and there is now a bug where the app skips songs and doesn't play.
 
 [MY ADVICE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/spoti)
 
