@@ -8,27 +8,6 @@
 # ATTENTION REDDIT DELETED ALL MY SUBS AND SHADOWBANNED ME.
 If I make a new community I'll let you know where. I guess they want me to send them my real info for unlocking, we'll see, if that's the price I will continue somewhere else, maybe another sub with other user.
 
-
-[Reddit: RealPiracy](https://www.reddit.com/r/RealPiracy/comments/1alxtpv/landing_page_where_are_you/)
-
-Politics, real conspirations, privacy and geopolitics. Showing unpopular/censored views of events.The other side of the coin. No LGBT or wokes of any kind allowed. Heavy moderation. Not aligned with right or left.
-
-
-<br>
-<br>
-
-[Reddit: CarbonCopyGaming](https://www.reddit.com/r/CarbonCopyGaming/comments/1gqd44i/landing_page/)
-
-A blog-dit about how the modern gaming industry has crumbled down in quality, excessive micromanagement, artificial difficulty, carbon copies, forced embedded ideologies (DEI), manipulative stores, trash indie games and big data are some of the things discussed here. Links to 'try' games are shared too.
-
-<br>
-<br>
-
-[Reddit: sharingware](https://www.reddit.com/r/sharingware/comments/1c804uv/landing_page/)
-
-For your 🏴‍☠️ software needs.
-Decode encrypted URL's using [BASE64](https://www.reddit.com/r/sharingware/comments/1hgas52/attention/)
-
 <br>
 <br>
 
