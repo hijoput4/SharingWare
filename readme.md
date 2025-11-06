@@ -5,9 +5,14 @@
 <br>
 <br>
 
+# ATTENTION REDDIT DELETED ALL MY SUBS AND SHADOWBANNED ME.
+If I make a new community I'll let you know where. I guess they want me to send them my real info for unlocking, we'll see, if that's the price I will continue somewhere else, maybe another sub with other user.
+
+
 [Reddit: RealPiracy](https://www.reddit.com/r/RealPiracy/comments/1alxtpv/landing_page_where_are_you/)
 
 Politics, real conspirations, privacy and geopolitics. Showing unpopular/censored views of events.The other side of the coin. No LGBT or wokes of any kind allowed. Heavy moderation. Not aligned with right or left.
+
 
 <br>
 <br>
