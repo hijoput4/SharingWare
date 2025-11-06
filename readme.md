@@ -241,13 +241,13 @@ _________________
 
 ### 28- I need a working and unrestricted version of Macro Recorder
 
-    Use: https://www.reddit.com/r/sharingware/comments/1c7xy17/macro_recorder_3036_last_working_version/
+    Use: https://archive.org/details/macro-recorder-3.0.36-portable
     This could be called "an exclusive".
 
 ### 29- I need a working method to download spotify music
 
-    Use: https://www.reddit.com/r/sharingware/comments/1h9mnel/download_songsplaylists_of_spotify_from_youtube/
-    Use: https://www.reddit.com/r/Sharingware/comments/1nyt3o6/spotify_downloader/
+    Use: https://github.com/masterofobzene/spot2yt
+    Use: https://github.com/spotDL/spotify-downloader
 
 ### 30- Tampermonkey/Violentmonkey userscripts to browse STEAM/GOG
 
