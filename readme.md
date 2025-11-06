@@ -8,6 +8,14 @@
 # ATTENTION REDDIT DELETED ALL MY SUBS AND SHADOWBANNED ME.
 If I make a new community I'll let you know where. I guess they want me to send them my real info for unlocking, we'll see, if that's the price I will continue somewhere else, maybe another sub with other user.
 
+New Reddit: [SameOldNews](https://www.reddit.com/r/SameOldNews/)
+
+Realpiracy is no more, this is the sibling. 
+A heavily moderated sub about politics, geopolitics, privacy and other things that you won't be reading in the average news show.
+Not for the left. 
+Not for the right. 
+What is bad is bad, what is true is true.
+
 <br>
 <br>
 
