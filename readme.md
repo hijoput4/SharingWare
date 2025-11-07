@@ -5,7 +5,7 @@
 <br>
 <br>
 
-# ATTENTION REDDIT DELETED ALL MY SUBS AND SHADOWBANNED ME.
+# ATTENTION REDDIT DELETED ALL MY SUBS AND BANNED ME.
 
 New Reddit: [SameOldNews](https://www.reddit.com/r/SameOldNews/)
 
