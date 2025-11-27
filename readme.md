@@ -81,6 +81,8 @@ boys.
 
 - Reflash your phone with a more "privacy friendly" OS when possible. [Lineage OS](https://lineageos.org/) is the most common choice. See if your phone is supported. You can install it "degoogled" but this is only for powerusers as you will face a lot of problems because the apps want GSF (google services framework) though in most cases there are workarounds, this setup is not for the normal user as it will need a lot of tinkering.
 
+- On Windows, it is a good practice to set your username to something completely generic like "PC", "USER", "Computer". While this may seem stupid and obsessive, it turns out that with the flourish of github and similar coding sites and FOSS, logs and questions are flying everywhere with usernames being ACTUAL REAL NAMES sometimes. Sometimes you need to share an error message that happens to have your user home folder in it for example "C:\Users\Rick_Patter\appdata\roaming\someapp\log.txt". You don't want to be Rick Patter, do you?. 
+
 --------------
 ### Contribute with sites
 If you know a link, go to the "issues" section and post it with a brief description. I will consider adding it to the list. If github bans the link, use Base64.
