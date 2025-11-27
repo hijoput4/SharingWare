@@ -18,8 +18,71 @@ What is bad is bad, what is true is true.
 <br>
 <br>
 
+<br>
+<br>
+
 --------------
-## Contribute
+
+### 👁‍🗨 Minimal setup for privacy caring people to browse internet:
+
+- [Get an app firewall](https://github.com/henrypp/simplewall/releases/download/v.3.8.7/simplewall-3.8.7-setup.exe). Not a firewall, an "app firewall". It lets you  give permission to individual executables to go to internet. A pop up will appear to ask you. TIP: unless you plan to play on multiplayer, DENY all requests for internet for all games you install, if you have problems you can always allow them easily. You will be scared to see how games are being used to get user data and try to connect even before the user accepts their terms.
+
+- Use [Librewolf](https://librewolf.net/installation/) instead of Firefox. Don't use any other browser.
+
+- Use [Ublock origins](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/).
+
+- Stop using your real name on internet, duh!. 
+Change passwords and usernames between sites (don't use the same 
+always). Use disposable emails (down here in the list you will find free
+ services).
+
+- Only use open internet access points if you are in trouble and need internet connection for something particular.
+
+- NEVER TELL GOOGLE MORE THAN IT NEEDS. Avoid following those "add your home" pop ups in google maps for example.
+
+- NEVER TELL ANY OTHER APP MORE THAN IT NEEDS. For example your birthday in Telegram.
+
+- AVOID FOLLOWING GOOGLE'S ADVICE ON SECURITY, 
+if you can skip it, don't put your real phone nor any other data they 
+ask you "for your security". The "security" hoax is used widely by all 
+data gatherers worldwide.
+
+- Change your DNS servers if you are still using the ISP ones (Internet Service Provider). [Here](https://docs.quad9.net/Setup_Guides/Windows/Windows_10/) is a nice guide by Quad9 free DNS service and [here](https://quad9.net/service/service-addresses-and-features/) is the list of available DNS's they have. There are others like [DNS.sb](https://dns.sb/dot/) to use DoT (DNS over TLS AKA encrypted DNS). Don't understand this? just follow the first link (guide) and second (quad9 DNS).
+
+- Don't get comfy with AI. They are gathering 
+surreal quantities of data. Don't give personal information, don't 
+engage in chats with AI. Avoid falling into those "free nudify AI" ads, 
+boys.
+
+
+### 👁‍🗨 Advanced setup for privacy caring people to browse internet:
+
+- Stop using Google products when possible / use a burner account. The most important, is to stop using their mail services; they store all your emails and "read" the contents. It's in their terms of use if you ever read them. You have free privacy mail alternatives like [Proton](https://proton.me/mail) or [Tutanota](https://tuta.com/).
+
+- Do not upload pictures of yourself / family on internet. Use privacy caring services to only share to close relatives (not adviced though). ASK YOUR MOM TO NOT UPLOAD PICTURES OF YOU ON HER FACEBOOK, its a usual backdoor.
+
+- Remember: if you are not using a [VPN service](https://protonvpn.com/free-vpn), your real IP tied to your billing info is logged on EVERY site you visit.
+
+- It is adviced to use [Cookie containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) and set your Librewolf to delete all cookies on exit by default. Add the required sites to keep cookies to the exception list using the "manage exceptions" button in privacy tab. Container extension will isolate each site cookies so they can't see other site's cookies (to steal more user data and profile you). [This extension](https://addons.mozilla.org/en-US/firefox/addon/container-script/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) does the same and is more advanced so I recommend this one only to powerusers.
+
+- Do not use any Windows Hello, face recognition or any other biometrics from Microsoft if you are not sure of what you are doing (don't use them if you are not being pushed to do so). Avoid using any Microsoft accounts and don't log them in your personal PC.
+
+- Avoid uploading avatars if possible.
+
+- Don't use mainstream corporations 2FA (two factor authentication apps). Use FOSS (free open source) alternative in the list below.
+
+- If you are creating a burner account with google, add a burner rescue email on it immediately. In this case "burner" is not a temporal email, but a real email that you should have only for this purpose, don't lose access to it. They will lock your account and ask for a phone number if you don't add a rescue email; but if you add it, they give you the option to send a validation link there to unlock it bypassing the phone number trap.
+
+- Avoid Discord and such. They ask for phone numbers too. Avoid giving your real phone number, its tied to all your real data.
+
+- AVOID FOLLOWING OR USING TELEGRAM GROUPS. You are just giving your real identity there and Telegram despite of publicly refusing some of the governments inteligence services pressure to share users data, is gathering users data anyway.
+
+- Always remember this: your phone is a personal spy 24/7 in your pocket.
+
+- Reflash your phone with a more "privacy friendly" OS when possible. [Lineage OS](https://lineageos.org/) is the most common choice. See if your phone is supported. You can install it "degoogled" but this is only for powerusers as you will face a lot of problems because the apps want GSF (google services framework) though in most cases there are workarounds, this setup is not for the normal user as it will need a lot of tinkering.
+
+--------------
+### Contribute with sites
 If you know a link, go to the "issues" section and post it with a brief description. I will consider adding it to the list. If github bans the link, use Base64.
 
 --------------
