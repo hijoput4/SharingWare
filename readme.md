@@ -61,7 +61,7 @@ boys.
 
 - Do not upload pictures of yourself / family on internet. Use privacy caring services to only share to close relatives (not adviced though). ASK YOUR MOM TO NOT UPLOAD PICTURES OF YOU ON HER FACEBOOK, its a usual backdoor.
 
-- Remember: if you are not using a [VPN service](https://protonvpn.com/free-vpn), your real IP tied to your billing info is logged on EVERY site you visit.
+- Remember: if you are not using a [VPN service](https://protonvpn.com/free-vpn), your real IP tied to your billing info is logged on EVERY site you visit. Do not pay for any VPN service without reading their privacy statements; Mullvad and Proton are said to have pretty good privacy standards and don't keep logs of your activities. This is important, think all your browsing will be tied to billing information, CHOOSE WISELY AND CAREFULLY.
 
 - It is adviced to use [Cookie containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) and set your Librewolf to delete all cookies on exit by default. Add the required sites to keep cookies to the exception list using the "manage exceptions" button in privacy tab. Container extension will isolate each site cookies so they can't see other site's cookies (to steal more user data and profile you). [This extension](https://addons.mozilla.org/en-US/firefox/addon/container-script/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) does the same and is more advanced so I recommend this one only to powerusers.
 
