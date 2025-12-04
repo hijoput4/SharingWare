@@ -134,10 +134,10 @@ If you know a link, go to the "issues" section and post it with a brief descript
 
 _________________
 
-### 1- ify has ads, how to remove them?
+### 1- Spotify has ads, how to remove them?
 
     Use: https://github.com/SpotX-CLI/ for PC use.  -(no 320kbps). This one still seems to work.
-    Use: https://xmanagerapp.com/ for android use.  -(no 320kbps). ⚠ Note: It seems Spotify changed things and there is now a bug where the app skips songs and doesn't play.
+    No more mobile cracks I'm afraid: https://www.reddit.com/r/revancedapp/comments/1jkn769/spotify_revanced_for_n00bs/
 
 [MY ADVICE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/spoti)
 
@@ -152,15 +152,15 @@ _________________
 
 ### 3- Where do I download clean games?
        
-    Use: https://cs.rin.ru/     -clean steam files, must apply steam emu; latest downloads/versions and obscure steam games available. This is the source for repacks 90% of the times.  
+    Use: https://cs.rin.ru/     -clean steam files, must apply steam emu; latest downloads/versions and obscure steam games available. This is the source for repacks.  
     Use: https://www.game-repack.site
     Use: http://dodi-repacks.site/
-    Use: https://gog-games.to/   -or-  ONION (tor browser) http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/     -GOG games catalog. It was a good place, but recently got flooded with hentai games and visual novels, and no filter options 😕.
+    Use: https://gog-games.to/   -or-  ONION (tor browser) http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/     -GOG games catalog. Check out https://github.com/masterofobzene/UserScriptRepo for the gog-games extension.
     Use: https://steamrip.com/     -Steam games pre-cracked and pre-installed. Its basically doing a "repack" of games from cs.rin.ru by applying the steam emu to them.
-    Use: https://fitgirl-repacks.site/     -mostly indie osbcure, girly and dumb games. You 'may' find some AAA titles. Better use cs.rin.ru and goldberg emu.
-    Use: https://forum.torrminatorr.com/    -mostly GoG games (good alternative to gog-games.to)
-    Use: https://vsetop.org/games/     -Russian repacks on torrent
-    Use: https://rlsbb.ru/category/games/     -Russian share of different repacks. Also has movies and other stuff.
+    Use: https://fitgirl-repacks.site/     -mostly indie, girly and dumb games. You may find some AAA titles. Better use cs.rin.ru and goldberg emu. It is what she does after all but with a nice installer.
+    Use: https://forum.torrminatorr.com/    -mostly GoG games (good alternative to gog-games.to) but you need an account.
+    Use: https://vsetop.org/games/     -Russian repacks on torrent. Nowadays, its like fitgirl's page 😢.
+    
 
 [READ MORE ABOUT FITGIRL'S REPACKS](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/fitgirl)
 
@@ -168,16 +168,17 @@ _________________
     
     ⚠🧂 be careful, abusive teenager moderators.
     Use: https://cs.rin.ru/
-    This forum is not designed to help you. It is designed to share tools and "clean" (not cracked) games, so don't participate in it and instead learn.
+    This forum is not designed to help you. It is designed to share tools and "clean files" (not cracked) games, so don't participate in it and instead learn.
     
-    Use: https://github.com/SteamAutoCracks/Steam-auto-crack to "manually" crack the clean games downloaded from cs.rin.
+    Use: https://github.com/KaladinDMP/ARMGDDN-Autocracker-OG-GSE to "manually" crack the "clean files" games downloaded from cs.rin.
+    OR use: https://github.com/SteamAutoCracks/Steam-auto-crack ⚠ BUGGED ON WINDOWS 10.
 
 [READ MORE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/csrinru)
 
 
 ### 5- I need console game ROMS
 
-    Use: https://r-roms.github.io/   (⚠ check the list on the right because the index doesn't mention NES,SNES and other consoles but ROMS are there)
+    Use: https://r-roms.github.io/   (⚠ check the "Nintendo Games" on the left because the index doesn't mention NES,SNES and other consoles but ROMS are there)
     For Wii-U: https://github.com/Xpl0itU/WiiUDownloader
     For Switch: https://nxbrew.net/
     For PS3, PSV, PSP, PSX, PSM: https://nopaystation.com/browse
@@ -185,8 +186,8 @@ _________________
 
 ### 6- Need help on 'modding' my Switch.
 
-    (you shouldn't have bought the over expensive potato, but suit yourself)
-    Use: https://rentry.co/SwitchHackingIsEasy   -start here.
+    (you shouldn't have bought the overexpensive potato, but suit yourself)
+    Use: https://sthetix.info/hats/
     Use: https://github.com/Atmosphere-NX/Atmosphere
     Use: https://github.com/HamletDuFromage/aio-switch-updater
 
@@ -202,6 +203,7 @@ _________________
 
 ### 9- Where do I get a show or movie?
 
+    FMHY is pretty much a list of moderate piracy. Don't expect much from them.
     Use: https://fmhy.net/videopiracyguide   -menu has much more links for other rather "light" piracy stuff.
 
 ### 10- Is it there an app for android TV that is like vanced?
@@ -210,14 +212,14 @@ _________________
 
 ### 11- Where can I download a specific program?
 
-    (use a firewall for protection, we don't know who these guys are or how comes they haven't been taken down already)
     Use: https://filecr.com 
     Use: https://lrepacks.ru
 
 ### 12- Need an app for android.
 
-    Use: https://filecr.com/
-    Use: https://forum.mobilism.me/
+    Use: https://www.apkmirror.com/  (not cracked apps)
+    Use: https://apkcombo.com/   (not cracked apps)
+    Use: https://forum.mobilism.me/   (cracked apps)
 
 ### 13- Need an UWP app but cannot use windows store
 
@@ -247,15 +249,18 @@ _________________
     
 ### 18- Where do I get ARLs for deemix?
 
+    In short: Deemix doesn't work anymore unless you use your own paid credentials for deezer.
     ARL's are now banned in hours. Firehawk52 apparently abandoned its work and we cannot get any more ARLs.
     I'm sad to say that even if you get deemix working, it will do just for a couple of hours so I'm not 
     updating this entry anymore. Instead use one of the more laborious alternatives below. 
-    I humbly recommend FLAC over mp3 to store music, because its noticeable increase in listening quality.
+    I humbly recommend FLAC over mp3 to store music, because its noticeable increase in sound quality.
         
 ### 19- How can I download music in FLAC?
     Yes, this are the same than above. This entry will update with new sites when I find them.
     Use: https://rutracker.org/forum/index.php (TORRENTS)
     Use: https://flacdownloader.com/  (per-track downloader)
+    Use: https://tidal.squid.wtf/   (sometimes down)
+    Use: https://music.binimum.org/ (sometimes down)
         
 
 ### 20-I have an old game and I wish to play it on a widescreen
@@ -286,7 +291,6 @@ _________________
 
 ### 25- I need proxies
 
-    Use: https://www.proxy-list.download/SOCKS5  (various types not only SOCKS5)
     Use: https://github.com/ShiftyTR/Proxy-List
         
 ### 26- Where can I download a Switch emulator?
