@@ -293,9 +293,9 @@ _________________
 
     ⚠ Yuzu has been taken down.
     ⚠ Ryujinx has been taken down.
-    Use: https://suyu.dev/  (Dubious Yuzu continuation)
-    Use: https://github.com/GreemDev/Ryujinx   (Ryujinx continuation)
-    Use: https://www.reddit.com/r/torzu/  (Dubious Yuzu continuation/hosted on TOR network mostly)
+    The only alternative now is to use the last Yuzu version.
+    Use: https://archive.org/download/yuzu-all-version/Windows-Yuzu-EA-4176.zip
+    DO NOT USE: 'Citron' read: https://www.reddit.com/r/EmulationOnAndroid/comments/1jnpo71/the_fall_of_citron/ AND https://www.reddit.com/r/EmulationOnAndroid/comments/1jojbkw/the_fall_of_citron_part_2/
     
     You will also need product keys for them to work (tutorial included): https://theprodkeys.com/latest-yuzu-prod-keys/
     Want to mod your Switch games? (useful for changing UI input to Xbox or PS controller): https://gamebanana.com/search?_sOrder=best_match&_sSearchString=controller&_idGameRow=7617
