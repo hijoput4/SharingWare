@@ -91,9 +91,11 @@ _________________
 ### 3- Where do I download clean games?
        
     Use: https://cs.rin.ru/     -clean steam files, must apply steam emu; latest downloads/versions and obscure steam games available. This is the source for repacks.  
+    Use: https://gog-games.to/   -or-  ONION (tor browser) http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/     -GOG games catalog. Check out https://github.com/masterofobzene/UserScriptRepo for the gog-games userscript.
+
+    Other sites you can use:
     Use: https://www.game-repack.site
     Use: http://dodi-repacks.site/
-    Use: https://gog-games.to/   -or-  ONION (tor browser) http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/     -GOG games catalog. Check out https://github.com/masterofobzene/UserScriptRepo for the gog-games extension.
     Use: https://steamrip.com/     -Steam games pre-cracked and pre-installed. Its basically doing a "repack" of games from cs.rin.ru by applying the steam emu to them.
     Use: https://fitgirl-repacks.site/     -mostly indie, girly and dumb games. You may find some AAA titles. Better use cs.rin.ru and goldberg emu. It is what she does after all but with a nice installer.
     Use: https://forum.torrminatorr.com/    -mostly GoG games (good alternative to gog-games.to) but you need an account.
@@ -106,28 +108,28 @@ _________________
     
     ⚠🧂 be careful, abusive teenager moderators.
     Use: https://cs.rin.ru/
-    This forum is not designed to help you. It is designed to share tools and "clean files" (not cracked) games, so don't participate in it and instead learn.
+    This forum is not designed to help you. It is designed to share tools (bypass steam mostly) and "clean files" (not cracked) games, so don't participate in it and learn instead.
     
-    Use: https://github.com/KaladinDMP/ARMGDDN-Autocracker-OG-GSE to "manually" crack the "clean files" games downloaded from cs.rin.
-    OR use: https://github.com/SteamAutoCracks/Steam-auto-crack ⚠ BUGGED ON WINDOWS 10.
+    Use: https://github.com/KaladinDMP/ARMGDDN-Autocracker-OG-GSE to "manually apply medicine" the clean files games downloaded from cs.rin.
+    OR use: https://github.com/SteamAutoCracks/Steam-auto-crack ⚠ BUGGED ON WINDOWS 10. Works on Windows 11.
 
 [READ MORE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/csrinru)
 
 
 ### 5- I need console game ROMS
 
-    Use: https://r-roms.github.io/   (⚠ check the "Nintendo Games" on the left because the index doesn't mention NES,SNES and other consoles but ROMS are there)
+    Use: https://r-roms.github.io/   (⚠ check the "Nintendo Games" on the left because the index doesn't mention NES,SNES and other consoles but ROMS are there) - Nintendo DMCA Ninjas are taking down everything Nin-related.
     For Wii-U: https://github.com/Xpl0itU/WiiUDownloader
     For Switch: https://nxbrew.net/
-    For PS3, PSV, PSP, PSX, PSM: https://nopaystation.com/browse
+    For Sony consoles: https://nopaystation.com/browse
     Use: https://archive.org/
 
 ### 6- Need help on 'modding' my Switch.
 
-    (you shouldn't have bought the overexpensive potato, but suit yourself)
-    Use: https://sthetix.info/hats/
-    Use: https://github.com/Atmosphere-NX/Atmosphere
-    Use: https://github.com/HamletDuFromage/aio-switch-updater
+    (you shouldn't have bought the over expensive potato, but suit yourself)
+    Use: https://sthetix.info/hats/ - All in one package to "liberate" the console.
+    Use: https://github.com/Atmosphere-NX/Atmosphere  - Open source 'Ntendo' OS. 
+    Use: https://github.com/HamletDuFromage/aio-switch-updater  - Updater app (I think it is outdated by now) Requires the console "liberated".
 
 [MY ADVICE IF YOU STILL DON'T HAVE A SWITCH](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/switch)
 
@@ -154,6 +156,7 @@ _________________
     Use: https://lrepacks.ru
 
 ### 12- Need an app for android.
+NOTE: always be careful when installing apps on your cellphone. Its targeted more than PC's for viruses and spyware.
 
     Use: https://www.apkmirror.com/  (not cracked apps)
     Use: https://apkcombo.com/   (not cracked apps)
@@ -194,7 +197,7 @@ _________________
     I humbly recommend FLAC over mp3 to store music, because its noticeable increase in sound quality.
         
 ### 19- How can I download music in FLAC?
-    Yes, this are the same than above. This entry will update with new sites when I find them.
+    Yes, these are the same than above. This entry will update with new sites when I find them.
     Use: https://rutracker.org/forum/index.php (TORRENTS)
     Use: https://flacdownloader.com/  (per-track downloader)
     Use: https://tidal.squid.wtf/   (sometimes down)
@@ -212,8 +215,8 @@ _________________
     
 ### 22- I want PC old games
 
-    Use: https://archive.org/search?query=abandonware   -Use the search bar for specific games.
     Use: https://www.old-games.ru/catalog/  (one of the best, if not the best)
+    Use: https://archive.org/search?query=abandonware   -Use the search bar for specific games.
     Use: https://www.magipack.games/   (abandonware repacks)
     
 ### 23- I need disposable email addresses
@@ -224,6 +227,7 @@ _________________
     Use: https://fake-mail-generator.vercel.app/
 
 ### 24- I need VSTs and musicians effects
+NOTE: Do yourself a favor and only use Qbittorrent to download.
 
     Use: https://looptorrent.net/
 
@@ -237,6 +241,7 @@ _________________
     ⚠ Ryujinx has been taken down.
     The only alternative now is to use the last Yuzu version.
     Use: https://archive.org/download/yuzu-all-version/Windows-Yuzu-EA-4176.zip
+    
     DO NOT USE: 'Citron' read: https://www.reddit.com/r/EmulationOnAndroid/comments/1jnpo71/the_fall_of_citron/ AND https://www.reddit.com/r/EmulationOnAndroid/comments/1jojbkw/the_fall_of_citron_part_2/
     
     You will also need product keys for them to work (tutorial included): https://theprodkeys.com/latest-yuzu-prod-keys/
@@ -244,21 +249,23 @@ _________________
 
 ### 27- Where can I download and play Minecraft for free?
 
-    Use: https://github.com/rePublic-Studios/rPLauncher   ⚠ Note that I don't play multiplayer so I don't know if that is possible or not with these versions.
+    Use: https://github.com/rePublic-Studios/rPLauncher   ⚠ I don't know if multiplayer is possible or not with these versions.
 
 ### 28- I need a working and unrestricted version of Macro Recorder
+NOTE: This could be called "an exclusive".
 
-    Use: https://archive.org/details/macro-recorder-3.0.36-portable
-    This could be called "an exclusive".
+    Use: https://archive.org/details/macro-recorder-3.0.36-portable   - then download a filecr version (whichever as long as it has the BTCR "medicine" and use that to activate this version instead)
+    
 
 ### 29- I need a working method to download spotify music
 
-    Use: https://github.com/masterofobzene/spot2yt  Barebones spotify to youtube downloader. This one works but it doesn't grab all metadata. Also it can retrieve wrong song versions from time to time.
+    Use: https://github.com/masterofobzene/spot2yt  Barebones spotify to youtube downloader. This one works but it doesn't grab all metadata. Also it can retrieve wrong song versions from time to time (live versions, remixes, etc).
     Use: https://github.com/spotDL/spotify-downloader     More complex downloader, but it turns out it doesn't work most of the times.
 
 ### 30- Tampermonkey/Violentmonkey userscripts to browse STEAM/GOG
+NOTE: there are other userscripts as well, some for NSFW sites.
 
-     Use: https://github.com/masterofobzene/UserScriptRepo
+     Use: https://github.com/masterofobzene/UserScriptRepo  - a couple of cool userscripts to make your life less miserable.
 
 ### 31- I want to learn how to search on google or google proxies
 
@@ -266,10 +273,11 @@ _________________
 
 ### 32- Is there an app to do 2FA without using my phone?
 
-    Use: https://github.com/timokoessler/2FAGuard      open source 2 factor authenticator.
-    Use: https://gitlab.gnome.org/World/Authenticator      open source LINUX 2 factor authenticator.
+    Use: https://github.com/timokoessler/2FAGuard      open source 2 factor authenticator on PC.
+    Use: https://gitlab.gnome.org/World/Authenticator      open source LINUX 2 factor authenticator on PC.
 
 ### 33- Where can I get native linux versions of mainstream games?
+NOTE: You shouldn't be using linux unless your hardware is not enough for a good old Windows 10. Linux became a "launcher" for Windows apps since it doesn't have proper software and never will. [Read](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/linux.md)
 
     Use: https://archive.org/details/native-linux-games-collection   ⚠️ you will need to create an account at archive.org to see the contents.
     Use: https://forum.torrminatorr.com/viewforum.php?f=19  ⚠️ you will need to create an account at Torrminatorr to see the contents.
