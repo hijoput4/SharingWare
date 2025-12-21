@@ -5,14 +5,17 @@
 <br>
 <br>
 
-### REDDIT DELETED ALL MY SUBS AND BANNED ME.
+### News Reddit 
+[SameOldNews](https://www.reddit.com/r/SameOldNews/)
 
-New Reddit: [SameOldNews](https://www.reddit.com/r/SameOldNews/)
-
-Realpiracy is no more, this is the sibling. 
+Realpiracy is no more as reddit banned my user and deleted everything, this is the sibling. 
 A heavily moderated sub about politics, geopolitics, privacy and other things that you won't be reading in the average news show.
+A place free of DEI and LGBT, that tries to walk the thin "reason" line while exposing imperialism, privacy concerns and manipulation in these Orwellian times we live.
+
 Not for the left. 
+
 Not for the right. 
+
 What is bad is bad, what is true is true.
 
 <br>
