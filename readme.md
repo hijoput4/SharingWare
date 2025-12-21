@@ -5,7 +5,7 @@
 <br>
 <br>
 
-# ATTENTION REDDIT DELETED ALL MY SUBS AND BANNED ME.
+### REDDIT DELETED ALL MY SUBS AND BANNED ME.
 
 New Reddit: [SameOldNews](https://www.reddit.com/r/SameOldNews/)
 
@@ -14,9 +14,6 @@ A heavily moderated sub about politics, geopolitics, privacy and other things th
 Not for the left. 
 Not for the right. 
 What is bad is bad, what is true is true.
-
-<br>
-<br>
 
 <br>
 <br>
