@@ -239,7 +239,7 @@ NOTE: Do yourself a favor and only use Qbittorrent to download.
 
     ⚠ Yuzu has been taken down.
     ⚠ Ryujinx has been taken down.
-    The only alternative now is to use the last Yuzu version.
+    Use: https://eden-emu.dev/
     Use: https://archive.org/download/yuzu-all-version/Windows-Yuzu-EA-4176.zip
     
     DO NOT USE: 'Citron' read: https://www.reddit.com/r/EmulationOnAndroid/comments/1jnpo71/the_fall_of_citron/ AND https://www.reddit.com/r/EmulationOnAndroid/comments/1jojbkw/the_fall_of_citron_part_2/
