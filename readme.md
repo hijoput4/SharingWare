@@ -27,7 +27,7 @@ If you know a link, go to the "issues" section and post it with a brief descript
 
 --------------
 
-# This list is a FAL "Frequently Asked Links" 2025.
+# This list is a FAL "Frequently Asked Links" 2026.
 
 ### INDEX (CTRL+F to search for a word):
   + [1- Spotify has ads, how to remove them?](#1--spotify-has-ads-how-to-remove-them)
