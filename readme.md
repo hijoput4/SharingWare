@@ -83,7 +83,7 @@ _________________
 
     Use: https://f-droid.org/packages/free.rm.skytube.oss/    -for android.
     Use: https://github.com/revanced/                         -for android.
-    Use: Firefox. Get extensions: https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search  &  https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search  -for PC
+    Use: Librewolf. Get extensions: https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search  &  https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search  -for PC
 
 [READ MORE: Why are you still using proprietary Youtube app?](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/whytheapp)
 
