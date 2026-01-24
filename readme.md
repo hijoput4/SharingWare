@@ -63,8 +63,8 @@ If you know a link, go to the "issues" section and post it with a brief descript
 + [31- I want to learn how to search on google or google proxies](#31--i-want-to-learn-how-to-search-on-google-or-google-proxies)
 + [32- Is there an app to do 2FA without using my phone?](#32--is-there-an-app-to-do-2fa-without-using-my-phone)
 + [33- Where can I get native linux versions of mainstream games?](#33--where-can-i-get-native-linux-versions-of-mainstream-games)
-
-
++ [34- I want to make some deepfakes of pics and videos, what can I use?](#34--i-want-to-make-some-deepfakes-of-pics-and-videos-what-can-i-use)
++ [35- I want to use AI voice to make videos, what can I use?](#35--i-want-to-use-ai-voice-to-make-videos-what-can-i-use)
 
 
 
@@ -281,6 +281,16 @@ NOTE: You shouldn't be using linux unless your hardware is not enough for a good
 
     Use: https://archive.org/details/native-linux-games-collection   ⚠️ you will need to create an account at archive.org to see the contents.
     Use: https://forum.torrminatorr.com/viewforum.php?f=19  ⚠️ you will need to create an account at Torrminatorr to see the contents.
+
+### 34- I want to make some deepfakes of pics and videos, what can I use?
+
+    Use: https://github.com/VisoMasterFusion/VisoMaster-Fusion      Face changer, very accurate in frontal faces.⚠ DO NOT UPLOAD FAKES OF PEOPLE TO INTERNET.
+
+
+### 35- I want to use AI voice to make videos, what can I use?
+
+    Use: https://github.com/masterofobzene/ChatterboxToolkitUI   ⚠ DO NOT UPLOAD FAKES OF PEOPLE TO INTERNET.
+
 
 
 <br>
