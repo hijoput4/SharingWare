@@ -59,7 +59,7 @@ If you know a link, go to the "issues" section and post it with a brief descript
 + [27- Where can I download and play Minecraft for free?](#27--where-can-i-download-and-play-minecraft-for-free)
 + [28- I need a working and unrestricted version of Macro Recorder](#28--i-need-a-working-and-unrestricted-version-of-macro-recorder)
 + [29- I need a working method to download spotify music](#29--i-need-a-working-method-to-download-spotify-music)
-+ [30- Tampermonkey/Violentmonkey userscripts to browse STEAM/GOG](#30--tampermonkeyviolentmonkey-userscripts-to-browse-steamgog)
++ [30- Tampermonkey/Violentmonkey userscripts](#30--tampermonkeyviolentmonkey-userscripts)
 + [31- I want to learn how to search on google or google proxies](#31--i-want-to-learn-how-to-search-on-google-or-google-proxies)
 + [32- Is there an app to do 2FA without using my phone?](#32--is-there-an-app-to-do-2fa-without-using-my-phone)
 + [33- Where can I get native linux versions of mainstream games?](#33--where-can-i-get-native-linux-versions-of-mainstream-games)
@@ -262,8 +262,8 @@ NOTE: This could be called "an exclusive".
     Use: https://github.com/masterofobzene/spot2yt  Barebones spotify to youtube downloader. This one works but it doesn't grab all metadata. Also it can retrieve wrong song versions from time to time (live versions, remixes, etc).
     Use: https://github.com/spotDL/spotify-downloader     More complex downloader, but it turns out it doesn't work most of the times.
 
-### 30- Tampermonkey/Violentmonkey userscripts to browse STEAM/GOG
-NOTE: there are other userscripts as well, some for NSFW sites.
+### 30- Tampermonkey/Violentmonkey userscripts
+There are some for NSFW sites.
 
      Use: https://github.com/masterofobzene/UserScriptRepo  - a couple of cool userscripts to make your life less miserable.
 
