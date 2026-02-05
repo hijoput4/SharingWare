@@ -1,7 +1,9 @@
-NOTE: if you want to read all the games conversation be my guest.
+__NOTE:__ if you want to read all the games conversation be my guest. In my opinion, it is valuable.
+
 But if you want to read the part where logics make the AI admit censorship and manipulation, go towards the end after the 4 dividing lines. Made those on purpose so you can skip to it.
 Sorry about the format, but there was no way to keep the format the AI chat bot gives.
 Look how the AI immediatelly goes from "you are right on everything" to attack saying what I want doesn't exist in a despective tone.
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 
