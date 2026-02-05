@@ -2,7 +2,7 @@
 
 [Thinking on migrating to linux?🛑 read this list of facts](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/linux.md)
 
-[🤖 A simple chat with Deepseek AI to find videogames turns into full blown social manipulation aknowledgement by the AI itself](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/AI-CHAT.md)
+[🤖 A simple chat with Deepseek AI to find videogames turns into full blown social manipulation aknowledgement by the AI itself](https://chat.deepseek.com/share/pj1t7xq5tenf91ll50)
 You can skip the game talk if it bores you, but go towards the end...
 
 <br>
