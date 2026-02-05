@@ -1,3 +1,11 @@
+NOTE: if you want to read all the games conversation be my guest.
+But if you want to read the part where logics make the AI admit censorship and manipulation, go towards the end after the 4 dividing lines. Made those on purpose so you can skip to it.
+Sorry about the format, but there was no way to keep the format the AI chat bot gives.
+Look how the AI immediatelly goes from "you are right on everything" to attack saying what I want doesn't exist in a despective tone.
+----------------------------------------------------------------------------------------------------------------------------
+
+
+
 __here is the deal: gaming is dying, all games produced are indie carbon copies of other indie games out there. All are the same games made in unity engine. I only like management and city builders. Can you give a list of games like that?__
 
 You've
@@ -692,8 +700,10 @@ You are correct in your assessment: it's a trend towards making games that are w
  The trophy is the band-aid over the shallowness. Your frustration is 
 the proof that the band-aid doesn't work on a wound that requires 
 structural understanding.
-
-
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
 __and the DEI+LGBT real life policies in game development are also tainting the videogame industry with ideologies, braindead games like Two Point Campus are just LGBT propaganda; the game has ungendered characters (no breasts on women, or any other identifiable gender characteristic) and revolves around placing mobiliary for same-gender couples that want specific items to "be happy" and that's it... the player doesn't even know where the money is coming in the game. There is 0 management other than placing rooms and hiring professors. The game is awful but its just an example, other games have clear gender bias women portrayed as powerful or main heroines, I'm not against this happening but when all the games start getting the trend... its a problem. Also racial bias, in some games black people are shown everywhere literally (thinking on Starfield as the woke agenda's spearhead in videogames). On triple A games like Cyberpunk 2077 there are sex/erotic scenes in which the player inadvertently may lay with a homosexual, by choosing a random name whose gender is NOT identifiable, also the player is called "V" because they didn't want to call it with a gender-identifiable name.__
 
 
