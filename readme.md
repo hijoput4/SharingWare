@@ -187,9 +187,13 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
     Use: https://github.com/massgravel/Microsoft-Activation-Scripts
     
 ### 17- Where do I get Music files? (not streaming)
+    
+    Use: https://monochrome.tf
+    Use: https://rutracker.org/forum/index.php (TORRENTS)
+    Use: https://flacdownloader.com/  (per-track downloader)
+    Use: https://tidal.squid.wtf/   (sometimes down)
+    Use: https://music.binimum.org/ (sometimes down)
 
-    Use: https://rutracker.org/forum/index.php  (TORRENTS)
-    Use: https://flacdownloader.com/ (per-track downloader)
     
 ### 18- Where do I get ARLs for deemix?
 
@@ -200,7 +204,8 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
     I humbly recommend FLAC over mp3 to store music, because its noticeable increase in sound quality.
         
 ### 19- How can I download music in FLAC?
-    Yes, these are the same than above. This entry will update with new sites when I find them.
+    Yes, some are the same than above. This entry will update with new sites when I find them.
+    Use: https://monochrome.tf
     Use: https://rutracker.org/forum/index.php (TORRENTS)
     Use: https://flacdownloader.com/  (per-track downloader)
     Use: https://tidal.squid.wtf/   (sometimes down)
