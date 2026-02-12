@@ -314,7 +314,7 @@ NOTE: You shouldn't be using linux unless your hardware is not enough for a good
 
 - [Get an app firewall](https://github.com/henrypp/simplewall/releases/download/v.3.8.7/simplewall-3.8.7-setup.exe). Not a firewall, an "app firewall". It lets you  give permission to individual executables to go to internet. A pop up will appear to ask you. TIP: unless you plan to play on multiplayer, DENY all requests for internet for all games you install, if you have problems you can always allow them easily. You will be scared to see how games are being used to get user data and try to connect even before the user accepts their terms.
 
-- Use [Librewolf](https://librewolf.net/installation/) instead of Firefox. Don't use any other browser.
+- Use [Librewolf](https://librewolf.net/installation/) instead of Firefox. Don't use any other browser except if you use tor browser (but using tor as a main browser will get you 80% internet "broken").
 
 - Use [Ublock origins](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/).
 
@@ -356,4 +356,6 @@ boys.
 
 - Avoid uploading avatars if possible.
 
-- On Windows, it is a good practice to set your username to something completely generic like "PC", "USER", "Computer". While this may seem stupid and obsessive, it turns out that with the flourish of github and similar coding sites and FOSS, logs and questions are flying everywhere with usernames being ACTUAL REAL NAMES sometimes. Sometimes you need to share an error message that happens to have your user home folder in it for example "C:\Users\Rick_Patter\appdata\roaming\someapp\log.txt". You don't want to be Rick Patter, do you?. 
+- On Windows, it is a good practice to set your username to something completely generic like "PC", "USER", "Computer". While this may seem stupid and obsessive, it turns out that with the flourish of github and similar coding sites and FOSS, logs and questions are flying everywhere with usernames being ACTUAL REAL NAMES sometimes. Sometimes you need to share an error message that happens to have your user home folder in it for example "C:\Users\Rick_Patter\appdata\roaming\someapp\log.txt". You don't want to be Rick Patter, do you?.
+
+- If you think you are exposed or being targeted for surveillance, you should be using [TAILS](https://tails.net/) os.
