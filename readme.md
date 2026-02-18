@@ -193,6 +193,7 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
     Use: https://flacdownloader.com/  (per-track downloader)
     Use: https://tidal.squid.wtf/   (sometimes down)
     Use: https://music.binimum.org/ (sometimes down)
+    Use: https://github.com/Rafiuth/Soggfy  (thanks @virtualsize) - Windows client mod that extracts spotify audio in OGG format at the quality your account has (free 128kbps).
 
     
 ### 18- Where do I get ARLs for deemix?
