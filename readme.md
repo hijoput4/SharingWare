@@ -199,9 +199,9 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
 ### 18- Where do I get ARLs for deemix?
 
     In short: Deemix doesn't work anymore unless you use your own paid credentials for deezer.
-    ARL's are now banned in hours. Firehawk52 apparently abandoned its work and we cannot get any more ARLs.
+    ARL's are now banned in hours.
     I'm sad to say that even if you get deemix working, it will do just for a couple of hours so I'm not 
-    updating this entry anymore. Instead use one of the more laborious alternatives below. 
+    updating this entry anymore. Instead use one of the alternatives below/above. 
     I humbly recommend FLAC over mp3 to store music, because its noticeable increase in sound quality.
         
 ### 19- How can I download music in FLAC?
