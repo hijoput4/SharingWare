@@ -294,6 +294,7 @@ NOTE: You shouldn't be using linux unless your hardware is not enough for a good
 ### 34- I want to make some deepfakes of pics and videos, what can I use?
 
     Use: https://github.com/VisoMasterFusion/VisoMaster-Fusion      Face changer, very accurate in frontal faces.⚠ DO NOT UPLOAD FAKES OF PEOPLE TO INTERNET.
+    UNOFFICIAL PATCH: https://github.com/masterofobzene/Visomaster-Fusion-Patches
 
 
 ### 35- I want to use AI voice to make videos, what can I use?
