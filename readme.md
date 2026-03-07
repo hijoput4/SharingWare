@@ -2,8 +2,6 @@
 
 [Thinking on migrating to linux?🛑 read this list of facts](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/linux.md)
 
-[🤖 A simple chat with Deepseek AI](https://chat.deepseek.com/share/pj1t7xq5tenf91ll50)
-You can skip the videogame talk if it bores you, but go towards the end...
 
 <br>
 <br>
