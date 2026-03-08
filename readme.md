@@ -266,7 +266,7 @@ NOTE: This could be called "an exclusive".
 
 ### 29- I need a working method to download spotify music
 
-    Saddly, due to "activists" massive scrape of spotify, they decided to terminate free API access.
+    Sadly, due to "activists" massive scrape of spotify, they decided to terminate free API access.
     This means that all spotify downloaders will effectively stop working since 03-09-2026. The massive
     scrape was vowed to be shared in torrents but none are available. This massive scrape was done by
     "anna's archive" "activists" and they claim it in their blog. So basically you are out of luck,
