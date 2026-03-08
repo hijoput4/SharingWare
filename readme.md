@@ -266,8 +266,12 @@ NOTE: This could be called "an exclusive".
 
 ### 29- I need a working method to download spotify music
 
-    Use: https://github.com/masterofobzene/spot2yt  Barebones spotify to youtube downloader. This one works but it doesn't grab all metadata. Also it can retrieve wrong song versions from time to time (live versions, remixes, etc).
-    Use: https://github.com/spotDL/spotify-downloader     More complex downloader, but it turns out it doesn't work most of the times.
+    Saddly, due to "activists" massive scrape of spotify, they decided to terminate free API access.
+    This means that all spotify downloaders will effectively stop working since 03-09-2026. The massive
+    scrape was vowed to be shared in torrents but none are available. This massive scrape was done by
+    "anna's archive" "activists" and they claim it in their blog. So basically you are out of luck,
+    no more downloads. Have a blast with this "activism", clearly intelligent people...
+    
 
 ### 30- Tampermonkey/Violentmonkey userscripts
 There are some for NSFW sites.
