@@ -352,6 +352,8 @@ boys.
 
 ### 👁‍🗨 Advanced setup for privacy caring people to browse internet:
 
+- Say NO to webgl when the browser asks you. Only users of firefox/librewolf are getting the permission prompt though.
+
 - Stop using Google products when possible / use a burner account. The most important, is to stop using their mail services; they store all your emails and "read" the contents. It's in their terms of use if you ever read them. You have free privacy mail alternatives like [Proton](https://proton.me/mail) or [Tutanota](https://tuta.com/).
 
 - Do not upload pictures of yourself / family on internet. Use privacy caring services to only share to close relatives (not adviced though). ASK YOUR MOM TO NOT UPLOAD PICTURES OF YOU ON HER FACEBOOK, its a usual backdoor.
