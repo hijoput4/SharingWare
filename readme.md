@@ -349,6 +349,9 @@ surreal quantities of data. Don't give personal information, don't
 engage in chats with AI. Avoid falling into those "free nudify AI" ads, 
 boys.
 
+- Be careful when paying for premium filehosts accounts for premium downloads: they have your __billing info__ so your real data, plus __they know exactly what you downloaded.__
+
+ 
 
 ### 👁‍🗨 Advanced setup for privacy caring people to browse internet:
 
