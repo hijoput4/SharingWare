@@ -77,6 +77,8 @@ _________________
 
     Use: https://github.com/SpotX-CLI/ for PC use.  -(no 320kbps). This one still seems to work.
     No more mobile cracks I'm afraid: https://www.reddit.com/r/revancedapp/comments/1jkn769/spotify_revanced_for_n00bs/
+    
+    If you use the web version just use ublock origins and you are done! (good for android phones firefox+ublock)
 
 [MY ADVICE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/spoti)
 
