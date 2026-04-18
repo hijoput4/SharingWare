@@ -11,7 +11,7 @@
 
 Realpiracy is no more as reddit banned my user and deleted everything, this is the sibling. 
 A heavily moderated sub about politics, geopolitics, privacy and other things that you won't be reading in the average news show.
-A place free of DEI and LGBT, that tries to walk the thin "reason" line while exposing imperialism, privacy concerns and manipulation in these Orwellian times we live.
+A place free of DEI, Zionism and LGBT, that tries to walk the thin "reason" line while exposing imperialism, privacy concerns and manipulation in these Orwellian times we live.
 
 Not for the left. 
 
