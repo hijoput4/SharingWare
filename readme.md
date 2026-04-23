@@ -298,7 +298,7 @@ NOTE: You shouldn't be using linux unless your hardware is not enough for a good
 ### 34- I want to make some deepfakes of pics and videos, what can I use?
 
     Use: https://github.com/VisoMasterFusion/VisoMaster-Fusion      Face changer, very accurate in frontal faces.⚠ DO NOT UPLOAD FAKES OF PEOPLE TO INTERNET.
-    UNOFFICIAL PATCH: https://github.com/masterofobzene/Visomaster-Fusion-Patches
+    
 
 NOTE: ⚠ For fakers out there, WAN (video generation) will increase your electrical bill by X2 times if you use it regularly.
       If you live in a country with expensive electricity and low subsides, be adviced that this uses a lot of power.
