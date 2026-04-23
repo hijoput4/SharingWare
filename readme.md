@@ -330,7 +330,7 @@ NOTE: ⚠ For fakers out there, WAN (video generation) will increase your electr
 
 - Stop using your real name on internet, duh!. 
 Change passwords and usernames between sites (don't use the same 
-always). Use disposable emails (down here in the list you will find free
+always). Use disposable emails (up here in the list you will find free
  services).
 
 - Only use open internet access points if you are in trouble and need internet connection for something particular.
