@@ -138,7 +138,7 @@ _________________
 
 ### 7- Need advanced tools for my switch games.
 
-    Use: https://github.com/dezem/SAK    -good for changing formats of games from nsp to xci and vice versa.
+    Use: https://github.com/dezem/SAK    -good for changing formats of games from nsp to xci and vice versa and removing firmware barriers (when the game wants a minimum firmware to launch) 
 
 ### 8- Need switch firmwares.
 
@@ -163,7 +163,7 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
 
     Use: https://www.apkmirror.com/  (not cracked apps)
     Use: https://apkcombo.com/   (not cracked apps)
-    Use: https://forum.mobilism.me/   (cracked apps)
+    Use: https://forum.mobilism.me/   (cracked apps, rather bad site. Be careful with what you install.)
 
 ### 13- Need an UWP app but cannot use windows store
 
@@ -179,8 +179,8 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
     Use https://github.com/yt-dlp/yt-dlp
     e.g. command (good for almost any site): 
     
-    yt-dlp.exe --restrict-filenames -o "C:\Users\YOUR_USERNAME\Downloads\%(title)s.%(ext)s" [https://YOUTUBE_URL]
-    Change the "YOUR_USERNAME" for your real username.
+    yt-dlp.exe --restrict-filenames -o "C:\Users\%username%\Downloads\%(title)s.%(ext)s" [https://YOUTUBE_URL]
+
 
 ### 16- Need to activate Windows/Office
 
