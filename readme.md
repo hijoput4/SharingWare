@@ -122,10 +122,11 @@ _________________
 ### 5- I need console game ROMS
 
     ⚠ https://nxbrew.net/ has been hacked!! 
-    
+
     Use: https://r-roms.github.io/   (⚠ check the "Nintendo Games" on the left because the index doesn't mention NES,SNES and other consoles but ROMS are there) - Nintendo DMCA Ninjas are taking down everything Nin-related.
     For Wii-U: https://github.com/Xpl0itU/WiiUDownloader
     For Sony consoles: https://nopaystation.com/browse
+    For Switch: https://nswpedia.com/  (replaces nxbrew for now)
     Use: https://archive.org/
     
     ⚠ DO NOT USE https://nxbrew.me/ AS IT IS A FAKE MADE BY THE NINTENDO NINJAS TO INSTALL MALWARE ON YOUR PC!!!
