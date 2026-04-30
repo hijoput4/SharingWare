@@ -127,6 +127,7 @@ _________________
     Use: https://archive.org/
     ⚠ DO NOT USE https://nxbrew.me/ AS IT IS A FAKE MADE BY THE NINTENDO NINJAS TO INSTALL MALWARE ON YOUR PC!!!
     see https://www.reddit.com/r/computerviruses/comments/1svlh05/instaler_virus_from_pirated_game_and_possibly_more/
+    DO NOT INSTALL OR RUN ANY .EXEs THAT MAY HAVE DOWNLOADED FROM THAT SITE!!!
 
 ### 6- Need help on 'modding' my Switch.
 
