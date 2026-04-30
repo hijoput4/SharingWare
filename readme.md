@@ -123,7 +123,7 @@ _________________
 
     Use: https://r-roms.github.io/   (⚠ check the "Nintendo Games" on the left because the index doesn't mention NES,SNES and other consoles but ROMS are there) - Nintendo DMCA Ninjas are taking down everything Nin-related.
     For Wii-U: https://github.com/Xpl0itU/WiiUDownloader
-    For Switch: https://nxbrew.net/
+    For Switch: https://nxbrew.me/
     For Sony consoles: https://nopaystation.com/browse
     Use: https://archive.org/
 
