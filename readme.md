@@ -44,7 +44,7 @@ If you know a link, go to the "issues" section and post it with a brief descript
 + [11- Where can I download a specific program?](#11--where-can-i-download-a-specific-program)
 + [12- Need an app for android.](#12--need-an-app-for-android)
 + [13- Need an UWP app but cannot use windows store](#13--need-an-uwp-app-but-cannot-use-windows-store)
-+ [14- Need to download a video.](#14--need-to-download-a-video-on-the-internet)
++ [14- Need to download a video.](#14--need-to-download-a-video)
 + [15- Need to download a video or full playlist from youtube. (*Command line (CLI) app*)](#15--need-to-download-a-video-or-full-playlist-from-youtube-command-line-cli-app)
 + [16- Need to activate Windows/Office](#16--need-to-activate-windowsoffice)
 + [17- Where do I get Music files? (not streaming)](#17--where-do-i-get-music-files-not-streaming)
