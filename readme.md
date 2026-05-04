@@ -97,6 +97,7 @@ _________________
     Use: https://gog-games.to/   -or-  ONION (tor browser) http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/     -GOG games catalog. Check out https://github.com/masterofobzene/UserScriptRepo for the gog-games userscript.
 
     Other sites you can use:
+    Use: https://scene.cat/
     Use: https://www.game-repack.site
     Use: http://dodi-repacks.site/
     Use: https://steamrip.com/     -Steam games pre-cracked and pre-installed. Its basically doing a "repack" of games from cs.rin.ru by applying the steam emu to them.
