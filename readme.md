@@ -122,7 +122,7 @@ _________________
 
 ### 5- I need console game ROMS
 
-    https://nxbrew.net/ is back!! (they where hacked)
+    https://nxbrew.net/ is back!! (they were hacked recently)
 
     Use: https://r-roms.github.io/   (⚠ check the "Nintendo Games" on the left because the index doesn't mention NES,SNES and other consoles but ROMS are there) - Nintendo DMCA Ninjas are taking down everything Nin-related.
     For Wii-U: https://github.com/Xpl0itU/WiiUDownloader
