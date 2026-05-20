@@ -115,7 +115,7 @@ _________________
     This forum is not designed to help you. It is designed to share tools (bypass steam mostly) and "clean files" (not cracked) games, so don't participate in it and learn instead.
     
     Use: https://github.com/KaladinDMP/ARMGDDN-Autocracker-OG-GSE to "manually apply medicine" the clean files games downloaded from cs.rin.
-    OR use: https://github.com/SteamAutoCracks/Steam-auto-crack ⚠ BUGGED ON WINDOWS 10. Works on Windows 11.
+    OR use: https://github.com/SteamAutoCracks/Steam-auto-crack 
 
 [READ MORE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/csrinru)
 
