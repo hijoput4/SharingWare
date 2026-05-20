@@ -199,8 +199,8 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
     Use: https://rutracker.org/forum/index.php (TORRENTS)
     Use: https://flacdownloader.com/  (per-track downloader)
     Use: https://tidal.squid.wtf/   (sometimes down)
-    Use: https://music.binimum.org/ (sometimes down)
-    Use: https://github.com/Rafiuth/Soggfy  (thanks @virtualsize) - Windows client mod that extracts spotify audio in OGG format at the quality your account has (free 128kbps).
+    Use: https://lucida.to (its pretty shitty though)
+    Use: https://github.com/Rafiuth/Soggfy (thanks @virtualsize) ABANDONED PROJECT - Windows client mod that extracts spotify audio in OGG format at the quality your account has (free 128kbps).
 
     
 ### 18- Where do I get ARLs for deemix?
@@ -217,7 +217,6 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
     Use: https://rutracker.org/forum/index.php (TORRENTS)
     Use: https://flacdownloader.com/  (per-track downloader)
     Use: https://tidal.squid.wtf/   (sometimes down)
-    Use: https://music.binimum.org/ (sometimes down)
         
 
 ### 20-I have an old game and I wish to play it on a widescreen
@@ -261,7 +260,7 @@ NOTE: Do yourself a favor and only use Qbittorrent to download.
     DO NOT USE: 'Citron' read: https://www.reddit.com/r/EmulationOnAndroid/comments/1jnpo71/the_fall_of_citron/ AND https://www.reddit.com/r/EmulationOnAndroid/comments/1jojbkw/the_fall_of_citron_part_2/
     
     You will also need product keys for them to work (tutorial included): https://theprodkeys.com/latest-yuzu-prod-keys/
-    Want to mod your Switch games? (useful for changing UI input to Xbox or PS controller): https://gamebanana.com/search?_sOrder=best_match&_sSearchString=controller&_idGameRow=7617
+    Want to mod your Switch games? (useful for changing UI prompts to Xbox or PS controller): https://gamebanana.com/search?_sOrder=best_match&_sSearchString=controller&_idGameRow=7617
 
 ### 27- Where can I download and play Minecraft for free?
 
@@ -288,6 +287,7 @@ There are some for NSFW sites.
      Use: https://github.com/masterofobzene/UserScriptRepo  - a couple of cool userscripts to make your life less miserable.
 
 ### 31- I want to learn how to search on google or google proxies
+Most people doesn't even know they can use negative words (-ebay -amazon) to avoid trash results. 
 
     Use: https://quickref.me/google-search.html
 
@@ -308,7 +308,7 @@ NOTE: You shouldn't be using linux unless your hardware is not enough for a good
     
 
 NOTE: ⚠ For fakers out there, WAN (video generation) will increase your electrical bill by X2 times if you use it regularly.
-      If you live in a country with expensive electricity and low subsides, be adviced that this uses a lot of power.
+      Be adviced that video generation uses a lots of energy.
       Stable diffusion (image generation) and this app (Visomaster) will not impact that much on your bill but still be cautious.
 
 
