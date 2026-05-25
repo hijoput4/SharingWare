@@ -66,7 +66,7 @@ If you know a link, go to the "issues" section and post it with a brief descript
 + [33- Where can I get native linux versions of mainstream games?](#33--where-can-i-get-native-linux-versions-of-mainstream-games)
 + [34- I want to make some deepfakes of pics and videos, what can I use?](#34--i-want-to-make-some-deepfakes-of-pics-and-videos-what-can-i-use)
 + [35- I want to use AI voice to make videos, what can I use?](#35--i-want-to-use-ai-voice-to-make-videos-what-can-i-use)
-
++ [36- I read that there is a "hypervisor" crack for games now, what is it?](#36--i-read-that-there-is-a-hypervisor-crack-for-games-now-what-is-it)
 
 
 
@@ -101,7 +101,7 @@ _________________
     Use: https://www.game-repack.site
     Use: http://dodi-repacks.site/
     Use: https://steamrip.com/     -Steam games pre-cracked and pre-installed. Its basically doing a "repack" of games from cs.rin.ru by applying the steam emu to them.
-    Use: https://fitgirl-repacks.site/     -mostly indie, girly and dumb games. You may find some AAA titles. Better use cs.rin.ru and goldberg emu. It is what she does after all but with a nice installer.
+    Use: https://fitgirl-repacks.site/     -mostly indie, girly and dumb games. You may find some AAA titles now that she posts hypervisor cracked games too.
     Use: https://forum.torrminatorr.com/    -mostly GoG games (good alternative to gog-games.to) but you need an account.
     Use: https://vsetop.org/games/     -Russian repacks on torrent. Nowadays, its like fitgirl's page 😢.
     
@@ -317,6 +317,10 @@ NOTE: ⚠ For fakers out there, WAN (video generation) will increase your electr
 
     Use: https://github.com/masterofobzene/ChatterboxToolkitUI   ⚠ DO NOT UPLOAD FAKES OF PEOPLE TO INTERNET.
 
+
+### 36- I read that there is a "hypervisor" crack for games now, what is it?
+
+    READ: https://www.reddit.com/r/PiratedGames/comments/1s1vnkc/deep_dive_what_is_hypervisor_how_does_it_work/
 
 
 <br>
