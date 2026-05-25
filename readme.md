@@ -321,7 +321,7 @@ NOTE: ⚠ For fakers out there, WAN (video generation) will increase your electr
 ### 36- I read that there is a "hypervisor" crack for games now, what is it?
 
     READ: https://www.reddit.com/r/PiratedGames/comments/1s1vnkc/deep_dive_what_is_hypervisor_how_does_it_work/
-
+[TL;DR version](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/HV.md)
 
 <br>
 <br>
