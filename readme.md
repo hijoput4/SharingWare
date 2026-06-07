@@ -10,6 +10,8 @@
 [SameOldNews](https://www.reddit.com/r/SameOldNews/)
 
 __Hi there! got the usual reddit ban! see you in 7 days! expect more "me's" next time!__ 😁
+Meanwhile... watch what reddit censored [HERE part1](https://drive.proton.me/urls/95QMVJ1DYM#PMPvPFm1skVI) and [HERE part 2](https://drive.proton.me/urls/Z7DAD041PR#IYJbpXkGubl6) 
+
 
 Realpiracy is no more as reddit banned my user and deleted everything, this is the sibling. 
 A heavily moderated sub about politics, geopolitics, privacy and other things that you won't be reading in the average news show.
