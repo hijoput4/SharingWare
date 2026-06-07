@@ -9,7 +9,7 @@
 ### News Reddit 
 [SameOldNews](https://www.reddit.com/r/SameOldNews/)
 
-Hi there! got the usual reddit ban! see you in 7 days! expect more "me's" next time! 😁
+__Hi there! got the usual reddit ban! see you in 7 days! expect more "me's" next time!__ 😁
 
 Realpiracy is no more as reddit banned my user and deleted everything, this is the sibling. 
 A heavily moderated sub about politics, geopolitics, privacy and other things that you won't be reading in the average news show.
