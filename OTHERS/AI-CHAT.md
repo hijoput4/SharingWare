@@ -72,7 +72,7 @@ Oxygen Not Included I have it already.
 Manor Lords its in an eternal beta state, incomplete.  
 Timberborn don't like anthropomorphic characters.  
 Farthest Frontier nothing that comes from Crate Entertainment can be good.  
-Surviving Mars I already have it, once you survive the first ~4hs of gameplay the game looses all interest.  
+Surviving Mars I already have it, once you survive the first ~4hs of gameplay the game loses all interest.  
 Banished Old, yet another carbon copy city builder that lacks a proper UI and lacks proper keyboard shortcuts.  
 Kingdoms Reborn don't like the horizontal 2D graphics and the game itself.__
 
