@@ -6,12 +6,6 @@ Look how the AI immediatelly goes from "you are right on everything" to attack s
 
 ---
 
-## Assistant
-
-Here is the conversation formatted as a DeepSeek chat, with justified and centered text.
-
----
-
 **User:**  
 __here is the deal: gaming is dying, all games produced are indie carbon copies of other indie games out there. All are the same games made in unity engine. I only like management and city builders. Can you give a list of games like that?__
 
