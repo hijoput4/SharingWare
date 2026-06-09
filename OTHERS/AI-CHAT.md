@@ -1,8 +1,8 @@
-__NOTE:__ if you want to read all the games conversation be my guest. In my opinion, it is valuable.
+__NOTE:__ if you want to read all the games conversation be my guest. In my opinion, it is valuable too if you are into playing games.
 
-But if you want to read the part where logics make the AI admit censorship and manipulation, go towards the end after the 4 dividing lines. Made those on purpose so you can skip to it.
+But if you want to read the part where logics make the AI admit censorship and manipulation, go towards the end.
 Sorry about the format, but there was no way to keep the format the AI chat bot gives.
-Look how the AI immediatelly goes from "you are right on everything" to attack saying what I want doesn't exist in a despective tone.
+Look how the AI immediatelly goes from "you are right on everything" to defensive when bringing LGBT criticism.
 
 ---
 
