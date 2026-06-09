@@ -118,7 +118,7 @@ Zeus: Master of Olympus: carbon copy of Pharaoh not really interested, but I cou
 Pharaoh: one of the greatest city builders out there, already won it.  
 Settlers (complete saga): I don't like the gameplay.  
 Nebuchadnezzar: carbon copy of pharaoh done wrong. there are no path mechanics and instead they put a very restrained "aura" mechanic for buildings making the game trash.  
-The Riftbreaker: not into the citybuilder+tower defense mix.  
+The Riftbreaker: cheesy american slop game with bad tutorial.  
 Space Haven: nice detailed pixel graphics, but horrible gameplay.  
 Project Hospital: Theme Hospital and its remake Two Point Hospital (won both) are the only hospital sims that were fun.  
 Transport Fever 2: OpenTTD is much more fun than this and I grew tired of openttd too.  
