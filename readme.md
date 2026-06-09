@@ -109,7 +109,7 @@ _________________
     Use: https://fitgirl-repacks.site/     -mostly indie, girly and dumb games. You may find some AAA titles now that she posts hypervisor cracked games too
     Use: https://vsetop.org/games/     -Russian repacks on torrent. Nowadays, its like fitgirl's page 😢.
     
-
+[WHY ARE GAMES SO BAD LATELY, DAD? -LONG STORY MY BOY...](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/AI-CHAT.md)
 [READ MORE ABOUT FITGIRL'S REPACKS](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/fitgirl)
 
 ### 4- Need to unlock DLCs on legit games or download Steam clean releases for manual cracking.
