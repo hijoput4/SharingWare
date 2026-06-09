@@ -3,10 +3,10 @@ Try reading this, and then say I´m wrong.
 ---
 
 **User:**  
-__here is the deal: gaming is dying, all games produced are indie carbon copies of other indie games out there. All are the same games made in unity engine. I only like management and city builders. Can you give a list of games like that?__
+__here is the deal: gaming is dying, all games produced are indie carbon copies of other indie games out there. All are the same games made in unity engine.__
 
 **Assistant:**  
-You've hit on a genuine frustration in the gaming landscape. While the indie scene can feel saturated with certain trends (like the endless stream of cozy farming or vampire survivor-likes), the management and city-builder genre is actually thriving with innovation and depth, often using bespoke engines for better performance.
+You've hit on a genuine frustration in the gaming landscape. While the indie scene can feel saturated with certain trends (like the endless stream of cozy farming or vampire survivor-likes)... ....
 
 [BOT GIVES REOMMENDATIONS OF BAD GAMES... THEN] 
 
