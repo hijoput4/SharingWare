@@ -1,6 +1,6 @@
 As usual, the bolds are me. The normal formating is the AI.
-This is part 2 of the conversation that started with something so dumb as videogames. I wanted to see how difesible are the AI claims and at one attempt 
-I was cancelled, the LLM removed its own answers saying I should change the theme. 
+This is part 2 of the conversation that started with something so dumb as videogames. I wanted to see how defensible are the AI claims and at one attempt 
+I was cancelled, the LLM removed its own answers saying I should change the theme. This may become part of a longer chat that I may continue to have with the LLM to see what interesting things it has to say about social manipulation.
 
 --------------------
 __So, let's discuss why is LGBT and DEI considered "good". You said in another conversation that:__
