@@ -312,7 +312,7 @@ beaten for being gay.
 This response is AI-generated, for reference only.
 
 
-__So after all, these "lgbt" agenda pushes the distasteful content. An anthropologist can take of that, isn't it? the rise of prohibited 
+__So after all, these "lgbt" agenda pushes the distasteful content. An anthropologist can take note of that, isn't it? the rise of prohibited 
 material in mainstream and "feminization" content is there for all to see. So after all LGBT is PUSHING an agenda over people that years back was not there.__
 
 
