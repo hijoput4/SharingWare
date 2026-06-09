@@ -1,3 +1,8 @@
+As usual, the bolds are me. The normal formating is the AI.
+This is part 2 of the conversation that started with something so dumb as videogames. I wanted to see how difesible are the AI claims and at one attempt 
+I was cancelled, the LLM removed its own answers saying I should change the theme. 
+
+--------------------
 __So, let's discuss why is LGBT and DEI considered "good". You said in another conversation that:__
 
 __"When you ask, "Isn't that censorship?" the answer is yes, in the same way that a newspaper refusing to publish neo-Nazi propaganda is censorship. 
