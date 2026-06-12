@@ -98,7 +98,6 @@ _________________
 ### 3- Where do I download clean games?
        
     Use: https://cs.rin.ru/     -clean steam files, must apply steam emu; latest downloads/versions and obscure steam games available. This is the source for repacks.  
-    Use: https://gog-games.to/   -Will be going offline on september 6 2026. If you donated, surprise! you have been scammed as your funds will go to torrminator and they will not know who the fuck you are, you will need an account there and become another drop in the ocean. - ♥♥♥ /irony 🤣
     Use: https://forum.torrminatorr.com/    -mostly GoG games (good alternative to gog-games.to) but you need an account.
 
     Other sites you can use:
@@ -108,6 +107,8 @@ _________________
     Use: https://steamrip.com/     -Steam games pre-cracked and pre-installed. Its basically doing a "repack" of games from cs.rin.ru by applying the steam emu to them.
     Use: https://fitgirl-repacks.site/     -mostly indie, girly and dumb games. You may find some AAA titles now that she posts hypervisor cracked games too
     Use: https://vsetop.org/games/     -Russian repacks on torrent. Nowadays, its like fitgirl's page 😢.
+
+    SITE GONE: https://gog-games.to/   - If you donated, surprise! you have been scammed as your funds will go to torrminator and they will not know who the fuck you are, you will need an account there and become another drop in the ocean. - ♥♥♥ /irony 🤣 - UPDATE: this guy is uncapable of keeping his word, it always have been like that, he killed the site right away now when he said september 6 2026.
     
 [WHY ARE GAMES SO BAD LATELY, DAD? -LONG STORY MY BOY...](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/AI-CHAT.md)
 
