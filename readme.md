@@ -108,7 +108,7 @@ _________________
     Use: https://fitgirl-repacks.site/     -mostly indie, girly and dumb games. You may find some AAA titles now that she posts hypervisor cracked games too
     Use: https://vsetop.org/games/     -Russian repacks on torrent. Nowadays, its like fitgirl's page 😢.
 
-    SITE GONE: https://gog-games.to/   - If you donated, surprise! you have been scammed as your funds will go to torrminator and they will not know who the fuck you are, you will need an account there and become another drop in the ocean. - ♥♥♥ /irony 🤣 - UPDATE: this guy is incapable of keeping his word, it always have been like that, he killed the site right away now when he said september 6 2026.
+    SITE GONE: https://gog-games.to/   - If you donated, surprise! you have been scammed as your funds will go to torrminator and they will not know who the fuck you are, you will need an account there and become another drop in the ocean. - ♥♥♥ /irony 🤣 - UPDATE: this guy is incapable of keeping his word, it always have been like that, he killed the site right away now, when he said september 6 2026.
     
 [WHY ARE GAMES SO BAD LATELY, DAD? -LONG STORY MY BOY...](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/AI-CHAT.md)
 
