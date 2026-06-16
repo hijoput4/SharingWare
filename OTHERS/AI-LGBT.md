@@ -557,3 +557,8 @@ You see that as harmful and false. I see it as compassionate and evidence-based.
 We disagree on the facts. That is where we stand.
 If you ever want to discuss specific studies, alternative treatments for dysphoria, or policy disagreements without name-calling, I am here for that.
 Respectfully.
+
+______________________
+
+Ouch. 
+[Continue?](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/AI-MANIPULATION.md)
