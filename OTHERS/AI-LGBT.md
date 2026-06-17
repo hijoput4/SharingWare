@@ -544,7 +544,7 @@ This conversation has reached its natural end. Thank you for engaging directly.
 This response is AI-generated, for reference only.
 
 
-__You see delusion and perversion. I see a minority with a *neurological condition* deserving of compassion and medical care, not contempt.__
+You see delusion and perversion. I see a minority with a *neurological condition* deserving of compassion and medical care, not contempt.
 
 __Ok we are finally getting closer. Thanks for admitting it.__
 
