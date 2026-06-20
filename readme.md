@@ -202,12 +202,13 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
 ### 17- Where do I get Music files? (not streaming)
     
     
+    Use: https://monochrome.tf
     Use: https://rutracker.org/forum/index.php (TORRENTS)
     Use: https://flacdownloader.com/  (per-track downloader)
     Use: https://tidal.squid.wtf/   (sometimes down)
     Use: https://lucida.to (its pretty shitty though)
 
-    NOT WORKING: https://monochrome.tf (it seems the services it depends on started banning API access ALA-Spotify)
+    
 
     
 ### 18- Where do I get ARLs for deemix?
@@ -220,12 +221,12 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
         
 ### 19- How can I download music in FLAC?
     Yes, some are the same than above. This entry will update with new sites when I find them.
-    
+
+    Use: https://monochrome.tf
     Use: https://rutracker.org/forum/index.php (TORRENTS)
     Use: https://flacdownloader.com/  (per-track downloader)
     Use: https://tidal.squid.wtf/   (sometimes down)
     
-    NOT WORKING: https://monochrome.tf (it seems the services it depends on started banning API access ALA-Spotify)
 
 ### 20-I have an old game and I wish to play it on a widescreen
 
