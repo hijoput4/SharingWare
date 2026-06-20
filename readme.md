@@ -202,7 +202,7 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
 ### 17- Where do I get Music files? (not streaming)
     
     
-    Use: https://monochrome.tf
+    MAY WORK OR NOT: https://monochrome.tf (as all DL services, its subject to API bans and other stuff. Devs says it works, it doesn't for me.
     Use: https://rutracker.org/forum/index.php (TORRENTS)
     Use: https://flacdownloader.com/  (per-track downloader)
     Use: https://tidal.squid.wtf/   (sometimes down)
@@ -222,7 +222,7 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
 ### 19- How can I download music in FLAC?
     Yes, some are the same than above. This entry will update with new sites when I find them.
 
-    Use: https://monochrome.tf
+    MAY WORK OR NOT: https://monochrome.tf (as all DL services, its subject to API bans and other stuff. Devs says it works, it doesn't for me.
     Use: https://rutracker.org/forum/index.php (TORRENTS)
     Use: https://flacdownloader.com/  (per-track downloader)
     Use: https://tidal.squid.wtf/   (sometimes down)
