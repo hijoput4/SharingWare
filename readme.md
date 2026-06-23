@@ -200,14 +200,15 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
     Use: https://github.com/massgravel/Microsoft-Activation-Scripts
     
 ### 17- Where do I get Music files? (not streaming)
+    Here you should see services that let you dl music in MP3 and/or sometimes, lossless.
     
+    Use: https://lucida.to (not the best but the last one working now)   
+    Use: https://rutracker.org/forum/index.php (TORRENTS)
     
     MAY WORK OR NOT: https://monochrome.tf (as all DL services, its subject to API bans and other stuff. Devs says it works, it doesn't for me.
-    Use: https://rutracker.org/forum/index.php (TORRENTS)
-    Use: https://flacdownloader.com/  (per-track downloader)
-    Use: https://tidal.squid.wtf/   (sometimes down)
-    Use: https://lucida.to (its pretty shitty though)
-
+    
+    DEAD: https://flacdownloader.com/  (per-track downloader)
+    DEAD Use: https://tidal.squid.wtf/   (sometimes down)
     
 
     
@@ -220,13 +221,14 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
     I humbly recommend FLAC over mp3 to store music, because its noticeable increase in sound quality.
         
 ### 19- How can I download music in FLAC?
-    Yes, some are the same than above. This entry will update with new sites when I find them.
-
-    MAY WORK OR NOT: https://monochrome.tf (as all DL services, its subject to API bans and other stuff. Devs says it works, it doesn't for me.
-    Use: https://rutracker.org/forum/index.php (TORRENTS)
-    Use: https://flacdownloader.com/  (per-track downloader)
-    Use: https://tidal.squid.wtf/   (sometimes down)
+    Yes, some are the same than above but this one only filters the ones that let the user download FLAC lossless files and not MP3 files only.
     
+    Use: https://lucida.to (not the best but the last one working now)   
+    Use: https://rutracker.org/forum/index.php (TORRENTS)
+    
+    MAY WORK OR NOT: https://monochrome.tf (as all DL services, its subject to API bans and other stuff. Devs says it works, it doesn't for me.
+    
+   
 
 ### 20-I have an old game and I wish to play it on a widescreen
 
