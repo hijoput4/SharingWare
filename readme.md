@@ -206,7 +206,7 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
     Use: https://lucida.to (not the best but the last one working now)   
     Use: https://rutracker.org/forum/index.php (TORRENTS)
     
-    MAY WORK OR NOT: https://monochrome.tf (as all DL services, its subject to API bans and other stuff. Devs says it works, it doesn't for me.
+    MAY WORK OR NOT: https://monochrome.tf (It doesn't work for me.)
     
     DEAD: https://flacdownloader.com/  (per-track downloader)
     DEAD Use: https://tidal.squid.wtf/   (sometimes down)
@@ -227,7 +227,7 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
     Use: https://lucida.to (not the best but the last one working now)   
     Use: https://rutracker.org/forum/index.php (TORRENTS)
     
-    MAY WORK OR NOT: https://monochrome.tf (as all DL services, its subject to API bans and other stuff. Devs says it works, it doesn't for me.
+    MAY WORK OR NOT: https://monochrome.tf (It doesn't work for me.)
     
    
 
