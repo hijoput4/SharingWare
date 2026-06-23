@@ -7,7 +7,7 @@ A- The guy is in "his summer break".
 B- He is suppossedly working on an android app of Monochrome when the
 real desktop version doesn't even work anymore. 
 
-C- Somehow everything went J3Ws vs "who knows".
+C- Somehow everything went J3Ws.
 
 This is what discord is for, ladies and gentlemen.
 
