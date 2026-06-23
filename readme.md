@@ -200,7 +200,8 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
     Use: https://github.com/massgravel/Microsoft-Activation-Scripts
     
 ### 17- Where do I get Music files? (not streaming)
-    Here you should see services that let you dl music in MP3 and/or sometimes, lossless.
+  Here you should see services that let you dl music in MP3 and/or sometimes, lossless.
+
     
     Use: https://lucida.to (not the best but the last one working now)   
     Use: https://rutracker.org/forum/index.php (TORRENTS)
@@ -221,7 +222,7 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
     I humbly recommend FLAC over mp3 to store music, because its noticeable increase in sound quality.
         
 ### 19- How can I download music in FLAC?
-    Yes, some are the same than above but this one only filters the ones that let the user download FLAC lossless files and not MP3 files only.
+  Yes, some are the same than above but this one only filters the ones that let the user download FLAC lossless files and not MP3 files only.
     
     Use: https://lucida.to (not the best but the last one working now)   
     Use: https://rutracker.org/forum/index.php (TORRENTS)
