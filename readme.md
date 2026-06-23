@@ -211,7 +211,7 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
     DEAD: https://flacdownloader.com/  (per-track downloader)
     DEAD Use: https://tidal.squid.wtf/   (sometimes down)
     
-
+[More on "monochrome" app current state...](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/monochrome.md)
     
 ### 18- Where do I get ARLs for deemix?
 
@@ -227,7 +227,7 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
     Use: https://lucida.to (not the best but the last one working now)   
     Use: https://rutracker.org/forum/index.php (TORRENTS)
     
-    MAY WORK OR NOT: https://monochrome.tf (It doesn't work for me.)
+
     
    
 
