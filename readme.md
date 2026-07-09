@@ -204,7 +204,7 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
 
     Use: https://github.com/spotDL/spotify-downloader (they fixed it)
     Use: https://monochrome.tf (use it while it lasts...)
-    Use: https://lucida.to (not the best but the last one working now)   
+    Use: https://lucida.to (not the best)   
     Use: https://rutracker.org/forum/index.php (TORRENTS)
     
     
@@ -222,7 +222,7 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
   Yes, some are the same than above but this one only filters the ones that let the user download FLAC lossless files and not MP3 files only.
   
     Use: https://monochrome.tf (use it while it lasts...)
-    Use: https://lucida.to (not the best but the last one working now)   
+    Use: https://lucida.to (not the best)   
     Use: https://rutracker.org/forum/index.php (TORRENTS)
     
 
