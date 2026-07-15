@@ -203,7 +203,7 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
   Here you should see services/apps that let you dl music in MP3 and/or sometimes, lossless.
 
     Use: https://github.com/spotDL/spotify-downloader (they fixed it)
-    Use: https://monochrome.tf (use it while it lasts...)
+    Use: https://monochrome.tf (works, doesn't work, works, doesn't work...)
     Use: https://lucida.to (not the best)   
     Use: https://rutracker.org/forum/index.php (TORRENTS)
     
@@ -221,7 +221,7 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
 ### 19- How can I download music in FLAC?
   Yes, some are the same than above but this one only filters the ones that let the user download FLAC lossless files and not MP3 files only.
   
-    Use: https://monochrome.tf (use it while it lasts...)
+    Use: https://monochrome.tf (works, doesn't work, works, doesn't work...)
     Use: https://lucida.to (not the best)   
     Use: https://rutracker.org/forum/index.php (TORRENTS)
     
