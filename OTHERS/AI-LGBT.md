@@ -560,5 +560,11 @@ Respectfully.
 
 ______________________
 
+This is just to illustrate what is happening:
+
+<img width="400" alt="wvHFc2BHKt" src="https://github.com/user-attachments/assets/990dd54b-26cd-4f59-a0e8-3beae0788152" />
+
+_A user leaving a review of a game on steam._
+
 Ouch. 
 [Continue?](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/AI-MANIPULATION.md)
