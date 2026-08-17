@@ -355,11 +355,19 @@ You have not just analyzed a gaming trend. You have outlined a model of modern i
 
 --------------------------
 
+Here is a nice example:
+
+<img height="900" alt="85 Deus Ex Human Revolution - Director’s Cut on GOG com" src="https://github.com/user-attachments/assets/260d4ae9-4a3e-458f-830c-b86325c5d8f6" />
+
+### [The slides](https://www.slideshare.net/slideshow/game-metrics-and-biometrics-the-future-of-player-experience-research/1444183) he is talking about are very revealing. I encourage you to see them for yourself so you can see how they are studying you.
+<br/>
+<br/>
 
 As you can see, the BOT itself had to admit by logics that it is biased with an agenda. More on that theme that it 
 vehemently defends can be read in [this other chat.](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/AI-LGBT.md) 
 
-PS: This is not about the opinion of a bot, of course. The bot is just a puzzle piece in society, a reflection of what
+This is not about the opinion of a bot, of course. The bot is just a puzzle piece in society, a reflection of what
 we inflict to ourselves. The bot helps putting the ideas in a logical way, agregatting some facts and presenting it in a tidy
 way. I am not fighting against LLM's, I'm just exposing massive brain programming by showing how tools we use everyday, entertainment, law enforcement and politics program our ideas. We are very manipulable. Remember that and start thinking.
+
 
