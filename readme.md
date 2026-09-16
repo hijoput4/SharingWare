@@ -52,7 +52,7 @@ If you know a link, go to the "issues" section and post it with a brief descript
 + [15- Need to download a video or full playlist from youtube. (*Command line (CLI) app*)](#15--need-to-download-a-video-or-full-playlist-from-youtube-command-line-cli-app)
 + [16- Need to activate Windows/Office](#16--need-to-activate-windowsoffice)
 + [17- Where do I get Music files? (not streaming)](#17--where-do-i-get-music-files-not-streaming)
-+ [18- Where do I get ARLs for deemix?](#18--where-do-i-get-arls-for-deemix)
++ ~~[18- Where do I get ARLs for deemix?](#18--where-do-i-get-arls-for-deemix)~~
 + [19- How can I download music in FLAC?](#19--how-can-i-download-music-in-flac)
 + [20- I have an old game and I wish to play it on a widescreen](#20-i-have-an-old-game-and-i-wish-to-play-it-on-a-widescreen)
 + [21- I have an old game but I just can't make it install or launch.](#21--i-have-an-old-game-but-i-just-cant-make-it-install-or-launch)
@@ -97,7 +97,7 @@ _________________
 
 ### 3- Where do I download clean games?
        
-    Use: https://cs.rin.ru/     -clean steam files, must apply steam emu; latest downloads/versions and obscure steam games available. This is the source for repacks.  
+    Use: https://cs.rin.ru/     -clean steam files, must apply steam emu; latest downloads/versions and obscure steam games available. This is the source for repacks. You need an account.  
     Use: https://forum.torrminatorr.com/    -mostly GoG games (good alternative to gog-games.to) but you need an account.
 
     Other sites you can use:
@@ -105,10 +105,8 @@ _________________
     Use: https://www.game-repack.site
     Use: http://dodi-repacks.site/
     Use: https://steamrip.com/     -Steam games pre-cracked and pre-installed. Its basically doing a "repack" of games from cs.rin.ru by applying the steam emu to them.
-    Use: https://fitgirl-repacks.site/     -mostly indie, girly and dumb games. You may find some AAA titles now that she posts hypervisor cracked games too
-    Use: https://vsetop.org/games/     -Russian repacks on torrent. Nowadays, its like fitgirl's page 😢.
+    Use: https://fitgirl-repacks.site/     -mostly indie, girly and dumb games. You may find some AAA titles now that she posts hypervisor cracked games too.
 
-    GET YOUR GAMES NOW: https://gog-games.to/   - IT WILL BE SHUT DOWN IN SEPTEMBER. If you donated, surprise! you have been scammed as your funds will go to torrminator and they will not know who the fuck you are, you will need an account there and become another drop in the ocean. - ♥♥♥ /irony 🤣 
     
 [WHY ARE GAMES SO BAD LATELY, DAD? -LONG STORY MY BOY...](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/AI-CHAT.md)
 
@@ -210,7 +208,7 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
     
 [More on "monochrome" app current state...](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/monochrome.md)
     
-### 18- Where do I get ARLs for deemix?
+### 18- ~~Where do I get ARLs for deemix?~~
 
     In short: Deemix doesn't work anymore unless you use your own paid credentials for deezer.
     ARL's are now banned in hours.
