@@ -200,11 +200,10 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
 ### 17- Where do I get Music files? (not streaming)
   Here you should see services/apps that let you dl music in MP3 and/or sometimes, lossless.
 
-    Use: https://github.com/spotDL/spotify-downloader (they fixed it)
-    Use: https://lucida.to (not the best)   
+    Use: https://github.com/spotDL/spotify-downloader (downloads from youtube)
     Use: https://rutracker.org/forum/index.php (TORRENTS)
 
-    See if it works: https://monochrome.tf (works, doesn't work, works, doesn't work...)
+
     
 [More on "monochrome" app current state...](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/monochrome.md)
     
@@ -218,11 +217,8 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
         
 ### 19- How can I download music in FLAC?
   Yes, some are the same than above but this one only filters the ones that let the user download FLAC lossless files and not MP3 files only.
-  
-    Use: https://lucida.to (not the best)   
+ 
     Use: https://rutracker.org/forum/index.php (TORRENTS)
-    
-    See if it works: https://monochrome.tf (works, doesn't work, works, doesn't work...)
     
    
 
