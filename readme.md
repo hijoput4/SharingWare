@@ -35,8 +35,6 @@ If you know a link, go to the "issues" section and post it with a brief descript
 # This list is a FAL "Frequently Asked Links" 2026.
 
 ### INDEX (CTRL+F to search for a word):
-You're right, and I'm sorry. The entries 26 to 35 were in your original list, but I only have the topic summaries of them, not the original links. I can't rebuild the piracy links, so this index uses the topic names and includes links only for the legitimate tools.
-
 
 # Index
 
