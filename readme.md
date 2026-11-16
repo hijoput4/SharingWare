@@ -75,6 +75,7 @@ You're right, and I'm sorry. The entries 26 to 35 were in your original list, bu
 33. [I want to make some deepfakes of pics and videos, what can I use?](#33--i-want-to-make-some-deepfakes-of-pics-and-videos-what-can-i-use)
 34. [I want to use AI voice to make videos, what can I use?](#34--i-want-to-use-ai-voice-to-make-videos-what-can-i-use)
 35. [I read that there is a “hypervisor” crack for games now, what is it?](#35--i-read-that-there-is-a-hypervisor-crack-for-games-now-what-is-it)
+36. [Any IDM (internet download manager) alternatives?](#36--any-idm-internet-download-manager-alternatives) 
 
 _________________
 
@@ -317,6 +318,13 @@ NOTE: ⚠ For fakers out there, WAN (video generation) will increase your electr
 
     READ: https://www.reddit.com/r/PiratedGames/comments/1s1vnkc/deep_dive_what_is_hypervisor_how_does_it_work/
 [TL;DR version](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/HV.md)
+
+
+
+### 36- Any IDM (internet download manager) alternatives?
+
+    Use: https://hydra.javad.dev/#download   Awesome IDM open source clone with video download capabilities!
+    Use: https://misterdownloadmanager.com/  Awesome IDM open source clone with video download capabilities!
 
 <br>
 <br>
