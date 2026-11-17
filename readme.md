@@ -182,7 +182,7 @@ NOTE: always be careful when installing apps on your cellphone. Its targeted mor
 
 ### 14- Need to download a video.
 
-    Use https://filecr.com/windows/internet-download-manager/?id=5992240122 to install IDM. The program has a browser extension to detect streaming videos so you can download them.
+    Use: https://hydra.javad.dev/#download The program has a browser extension to detect streaming videos so you can download them.
     Use: https://github.com/yt-dlp/yt-dlp (see .15)
 
 ### 15- Need to download a video or full playlist from youtube. (*Command line (CLI) app*)
